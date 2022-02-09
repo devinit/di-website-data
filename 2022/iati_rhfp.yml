@@ -1,0 +1,36 @@
+..generic:
+  git2rdata: 0.3.1
+  optimize: yes
+  NA string: NA
+  hash: e68729b354456ca311cb41a6a2ce77835d13bf55
+  data_hash: 7ecbc8e0580d85491a6a64630d4a3127e65fea5b
+year:
+  class: numeric
+Reporting Organisation Narrative:
+  class: character
+aid_type_di_name:
+  class: character
+Sector Code - Calculated:
+  class: integer
+DAC3 Sector Code - Calculated:
+  class: integer
+Reporting Organisation Type Code:
+  class: integer
+Reporting Organisation Type Name - Calculated:
+  class: character
+Recipient Code:
+  class: character
+Recipient Name:
+  class: character
+Flow Type Code - Calculated:
+  class: integer
+Transaction Receiver Organisation Type:
+  class: integer
+Transaction Type:
+  class: character
+x_transaction_value_usd_m_Sum:
+  class: numeric
+purpose_name:
+  class: character
+Channel of delivery:
+  class: character
