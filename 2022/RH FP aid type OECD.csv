@@ -1,4 +1,4 @@
-﻿Donor Name,aid_type_di_name,Year,Purpose Name,Purpose Code,usd_disbursement_deflated_Sum
+﻿donor_name,aid_type_di_name,year,purpose_name,purpose_code,usd_disbursement_deflated_Sum
 African Development Fund,Project interventions,2015,Reproductive health care,13020,6.4958
 Asian Development Bank,Budget support,2015,Reproductive health care,13020,5.86681
 Asian Development Bank,Budget support,2017,Reproductive health care,13020,0.0

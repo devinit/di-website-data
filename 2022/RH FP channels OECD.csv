@@ -1,4 +1,4 @@
-﻿Year,Donor Name,Purpose Code,Purpose Name,oecd_channel_parent_name,oecd_aggregated_channel,usd_disbursement_deflated_Sum
+﻿year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregated_channel,usd_disbursement_deflated_Sum
 2019,Asian Development Bank,13020,Reproductive health care,Recipient Government,Public sector institutions,0.141114
 2019,Australia,13020,Reproductive health care,Donor country-based NGO,Non-Governmental Organisations and Civil Society,1.878585087
 2019,Australia,13020,Reproductive health care,International NGO,Non-Governmental Organisations and Civil Society,1.6681736
