@@ -116,7 +116,6 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2018,Finland,13030,130,10,Government,BO,Bolivia (Plurinational State of),10,,0.014003138,Family planning,Finland
 2018,Finland,13030,130,10,Government,NP,Nepal,10,,0.027336366,Family planning,Finland
 2018,Finland,13030,130,10,Government,YE,Yemen,10,,0.039262427,Family planning,Finland
-2018,Germany,13020,130,10,Government,RS,Serbia,10,,0.029502575,Reproductive health care,Germany
 2018,Netherlands,13020,130,10,Government,289,"South of Sahara, regional",10,,8.177775788,Reproductive health care,Netherlands
 2018,Netherlands,13020,130,10,Government,298,"Africa, regional",10,,0.28483052,Reproductive health care,Netherlands
 2018,Netherlands,13020,130,10,Government,998,"Developing countries, unspecified",10,,160.1494503,Reproductive health care,Netherlands
@@ -1251,7 +1250,6 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020,Finland,13020,130,10,Government,ZW,Zimbabwe,10,,0.020576862,Reproductive health care,Finland
 2020,Finland,13030,130,10,Government,689,"South & Central Asia, regional",10,,0.168075,Family planning,Finland
 2020,Finland,13030,130,10,Government,MW,Malawi,10,,0.177573479,Family planning,Finland
-2020,Germany,13020,130,10,Government,UA,Ukraine,10,,0.008436301,Reproductive health care,Germany
 2020,Netherlands,13020,130,10,Government,289,"South of Sahara, regional",10,,11.56076337,Reproductive health care,Netherlands
 2020,Netherlands,13020,130,10,Government,998,"Developing countries, unspecified",10,,128.48181,Reproductive health care,Netherlands
 2020,Netherlands,13020,130,10,Government,BD,Bangladesh,10,,0.924486825,Reproductive health care,Netherlands
@@ -1836,7 +1834,6 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021,Finland,13020,130,10,Government,SO,Somalia,10,,5.6565,Reproductive health care,Finland
 2021,Finland,13030,130,10,Government,689,"South & Central Asia, regional",10,,0.192321,Family planning,Finland
 2021,Finland,13030,130,10,Government,LA,Lao People's Democratic Republic (the),10,,0.075645506,Family planning,Finland
-2021,Germany,13020,130,10,Government,PH,Philippines (the),10,,0.011975195,Reproductive health care,Germany
 2021,Netherlands,13020,130,10,Government,289,"South of Sahara, regional",10,,5.992980445,Reproductive health care,Netherlands
 2021,Netherlands,13020,130,10,Government,998,"Developing countries, unspecified",10,,129.5635264,Reproductive health care,Netherlands
 2021,Netherlands,13020,130,10,Government,BD,Bangladesh,10,,0.098314903,Reproductive health care,Netherlands
