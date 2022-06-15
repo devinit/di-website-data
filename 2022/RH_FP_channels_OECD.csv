@@ -20,8 +20,8 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Belgium,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,0.22792
 2020,Belgium,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,1.132247
 2020,Canada,Family planning,13030,Developing country-based NGO ,Non-governmental organisations and civil society,1.5496409999999998
-2020,Canada,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,7.864167
-2020,Canada,Family planning,13030,International NGO,Non-governmental organisations and civil society,0.690716
+2020,Canada,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,7.864167000000002
+2020,Canada,Family planning,13030,International NGO,Non-governmental organisations and civil society,0.6907159999999999
 2020,Canada,Family planning,13030,Other,Other,0.574113
 2020,Canada,Family planning,13030,Other multilateral institution,Multilateral organisations,0.004556
 2020,Canada,Family planning,13030,Private sector in provider country,Private sector institution,0.126517
@@ -31,11 +31,11 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Canada,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,16.296861
 2020,Canada,Family planning,13030,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",0.216768
 2020,Canada,Family planning,13030,World Bank Group (WB),Multilateral organisations,4.033701
-2020,Canada,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,4.572296999999999
-2020,Canada,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,22.623328
-2020,Canada,Reproductive health care,13020,Donor Government,Public sector institutions,0.478944
+2020,Canada,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,4.572297
+2020,Canada,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,22.623328000000008
+2020,Canada,Reproductive health care,13020,Donor Government,Public sector institutions,0.4789439999999999
 2020,Canada,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,11.995753
-2020,Canada,Reproductive health care,13020,Other,Other,4.781852999999999
+2020,Canada,Reproductive health care,13020,Other,Other,4.781853
 2020,Canada,Reproductive health care,13020,Other multilateral institution,Multilateral organisations,0.133574
 2020,Canada,Reproductive health care,13020,Private sector in provider country,Private sector institution,0.410355
 2020,Canada,Reproductive health care,13020,Private sector in recipient country,Private sector institution,0.017194
@@ -61,11 +61,11 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,EU Institutions,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,1.108263
 2020,EU Institutions,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,3.388182
 2020,EU Institutions,Reproductive health care,13020,Other multilateral institution,Multilateral organisations,0.0
-2020,EU Institutions,Reproductive health care,13020,Recipient Government,Public sector institutions,6.773585000000001
+2020,EU Institutions,Reproductive health care,13020,Recipient Government,Public sector institutions,6.773584999999999
 2020,EU Institutions,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,9.493157
-2020,Finland,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,0.9711200000000002
+2020,Finland,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,0.97112
 2020,Finland,Family planning,13030,Private sector in provider country,Private sector institution,0.002093
-2020,Finland,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,0.5521820000000001
+2020,Finland,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,0.552182
 2020,Finland,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,4.159545
 2020,Finland,Reproductive health care,13020,Other,Other,1.709402
 2020,Finland,Reproductive health care,13020,Private sector in provider country,Private sector institution,0.081507
@@ -80,11 +80,11 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,France,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,0.065568
 2020,France,Reproductive health care,13020,Recipient Government,Public sector institutions,0.202724
 2020,France,Reproductive health care,13020,Third Country Government (Delegated co-operation),Public sector institutions,2.279202
-2020,France,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,11.475783000000002
+2020,France,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,11.475783
 2020,Germany,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,0.09687
 2020,Germany,Family planning,13030,Donor Government,Public sector institutions,0.075755
 2020,Germany,Family planning,13030,International NGO,Non-governmental organisations and civil society,1.07779
-2020,Germany,Family planning,13030,Recipient Government,Public sector institutions,17.521545000000003
+2020,Germany,Family planning,13030,Recipient Government,Public sector institutions,17.521545
 2020,Germany,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,2.322542
 2020,Germany,Family planning,13030,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",1.447664
 2020,Germany,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,2.019331
@@ -98,7 +98,7 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Iceland,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.133583
 2020,Iceland,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,0.010548
 2020,Iceland,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.6517839999999999
-2020,International Development Association,Family planning,13030,Recipient Government,Public sector institutions,11.824465
+2020,International Development Association,Family planning,13030,Recipient Government,Public sector institutions,11.824465000000002
 2020,International Development Association,Reproductive health care,13020,Recipient Government,Public sector institutions,144.428877
 2020,Ireland,Family planning,13030,International NGO,Non-governmental organisations and civil society,0.039886
 2020,Ireland,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,0.005698
@@ -111,7 +111,7 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Italy,Family planning,13030,Donor Government,Public sector institutions,0.024644
 2020,Italy,Family planning,13030,Other,Other,0.056656
 2020,Italy,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,0.284653
-2020,Italy,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,1.1879229999999998
+2020,Italy,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,1.1879230000000005
 2020,Italy,Reproductive health care,13020,Donor Government,Public sector institutions,0.312446
 2020,Italy,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,
 2020,Italy,Reproductive health care,13020,Other,Other,0.113312
@@ -119,7 +119,7 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Japan,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,1.274937
 2020,Japan,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,3.982054
 2020,Japan,Reproductive health care,13020,Other,Other,0.043276
-2020,Japan,Reproductive health care,13020,Recipient Government,Public sector institutions,9.307558000000006
+2020,Japan,Reproductive health care,13020,Recipient Government,Public sector institutions,9.307558
 2020,Japan,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,7.313544
 2020,Korea,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,0.334071
 2020,Korea,Family planning,13030,Donor Government,Public sector institutions,1.442561
@@ -132,10 +132,10 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Luxembourg,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,2.858788
 2020,Netherlands,Family planning,13030,Developing country-based NGO ,Non-governmental organisations and civil society,10.301053
 2020,Netherlands,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,2.013069
-2020,Netherlands,Family planning,13030,International NGO,Non-governmental organisations and civil society,22.707766
+2020,Netherlands,Family planning,13030,International NGO,Non-governmental organisations and civil society,22.707766000000003
 2020,Netherlands,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,4.139669
 2020,Netherlands,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,0.107625
-2020,Netherlands,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,50.07638999999999
+2020,Netherlands,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,50.07639
 2020,Netherlands,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,24.816478
 2020,Netherlands,Reproductive health care,13020,Network,Public-private partnerships and networks,0.569801
 2020,Netherlands,Reproductive health care,13020,Other,Other,17.350932999999998
@@ -148,12 +148,12 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,New Zealand,Family planning,13030,International NGO,Non-governmental organisations and civil society,0.973268
 2020,New Zealand,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,2.048845
 2020,Norway,Family planning,13030,Developing country-based NGO ,Non-governmental organisations and civil society,0.373943
-2020,Norway,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,1.645324
+2020,Norway,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,1.6453239999999996
 2020,Norway,Family planning,13030,International NGO,Non-governmental organisations and civil society,0.531169
-2020,Norway,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,8.233119
+2020,Norway,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,8.233118999999999
 2020,Norway,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,0.083738
 2020,Norway,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,2.785903
-2020,Norway,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,16.706194000000004
+2020,Norway,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,16.706194
 2020,Norway,Reproductive health care,13020,Other,Other,0.284707
 2020,Norway,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,5.224577999999999
 2020,Poland,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.038467
@@ -168,15 +168,15 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Spain,Family planning,13030,Other multilateral institution,Multilateral organisations,0.34188
 2020,Spain,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.45584
 2020,Spain,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,0.11396
-2020,Spain,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,9.043519
+2020,Spain,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,9.043518999999998
 2020,Spain,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,0.00975
 2020,Spain,Reproductive health care,13020,Recipient Government,Public sector institutions,0.0
 2020,Spain,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.22792
 2020,Sweden,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.564622
-2020,Sweden,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,8.551481
+2020,Sweden,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,8.551480999999999
 2020,Sweden,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,3.874958
 2020,Sweden,Reproductive health care,13020,Donor Government,Public sector institutions,0.322837
-2020,Sweden,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,42.274382
+2020,Sweden,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,42.27438199999999
 2020,Sweden,Reproductive health care,13020,Other,Other,0.670945
 2020,Sweden,Reproductive health care,13020,Private sector in provider country,Private sector institution,0.211949
 2020,Sweden,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,53.332763
@@ -187,63 +187,63 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,Switzerland,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,1.306053
 2020,Switzerland,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,3.975077
 2020,Switzerland,Reproductive health care,13020,Donor Government,Public sector institutions,0.0479729999999999
-2020,Switzerland,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,1.5319490000000002
+2020,Switzerland,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,1.531949
 2020,Switzerland,Reproductive health care,13020,Private sector in recipient country,Private sector institution,0.031393
 2020,Switzerland,Reproductive health care,13020,Recipient Government,Public sector institutions,0.392191
-2020,Switzerland,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,4.111124000000001
+2020,Switzerland,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,4.111124
 2020,Switzerland,Reproductive health care,13020,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",0.008564
 2020,Turkey,Reproductive health care,13020,Donor Government,Public sector institutions,0.4369139999999999
 2020,UNFPA,Family planning,13030,Other,Other,0.08989
-2020,UNFPA,Family planning,13030,,,26.67195
+2020,UNFPA,Family planning,13030,,,26.671950000000013
 2020,UNFPA,Reproductive health care,13020,Other,Other,1.47696
-2020,UNFPA,Reproductive health care,13020,,,30.789819999999995
+2020,UNFPA,Reproductive health care,13020,,,30.78982
 2020,UNICEF,Family planning,13030,Other,Other,0.001
 2020,UNICEF,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,0.03
 2020,UNICEF,Reproductive health care,13020,Other,Other,0.33
 2020,UNICEF,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,18.68
 2020,United Kingdom,Family planning,13030,Developing country-based NGO ,Non-governmental organisations and civil society,2.415108
-2020,United Kingdom,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,4.403010999999999
+2020,United Kingdom,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,4.403011
 2020,United Kingdom,Family planning,13030,International NGO,Non-governmental organisations and civil society,138.520304
 2020,United Kingdom,Family planning,13030,Other,Other,3.634998
 2020,United Kingdom,Family planning,13030,Private sector in provider country,Private sector institution,8.230436
 2020,United Kingdom,Family planning,13030,Recipient Government,Public sector institutions,17.996285
-2020,United Kingdom,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,31.45554
+2020,United Kingdom,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,31.455540000000003
 2020,United Kingdom,Family planning,13030,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",1.212065
 2020,United Kingdom,Family planning,13030,World Bank Group (WB),Multilateral organisations,2.56509
 2020,United Kingdom,Reproductive health care,13020,Developing country-based NGO ,Non-governmental organisations and civil society,0.090509
 2020,United Kingdom,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,5.83704
 2020,United Kingdom,Reproductive health care,13020,Donor Government,Public sector institutions,0.13687
 2020,United Kingdom,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,35.32981100000001
-2020,United Kingdom,Reproductive health care,13020,Other,Other,0.6848770000000001
+2020,United Kingdom,Reproductive health care,13020,Other,Other,0.684877
 2020,United Kingdom,Reproductive health care,13020,Private sector in provider country,Private sector institution,24.625484
 2020,United Kingdom,Reproductive health care,13020,Recipient Government,Public sector institutions,14.11236
-2020,United Kingdom,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,42.58713500000002
+2020,United Kingdom,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,42.587135
 2020,United Kingdom,Reproductive health care,13020,"United Nations Agency, Fund Or Commission (UN)",Multilateral organisations,8.868905
-2020,United Kingdom,Reproductive health care,13020,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",3.5626670000000003
-2020,United Kingdom,Reproductive health care,13020,World Bank Group (WB),Multilateral organisations,4.104143
-2020,United States,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,131.12537300000002
+2020,United Kingdom,Reproductive health care,13020,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",3.562667
+2020,United Kingdom,Reproductive health care,13020,World Bank Group (WB),Multilateral organisations,4.1041430000000005
+2020,United States,Family planning,13030,Donor country-based NGO,Non-governmental organisations and civil society,131.125373
 2020,United States,Family planning,13030,Donor Government,Public sector institutions,13.121122
 2020,United States,Family planning,13030,International NGO,Non-governmental organisations and civil society,34.696824
-2020,United States,Family planning,13030,Other,Other,7.027927999999999
+2020,United States,Family planning,13030,Other,Other,7.027928000000001
 2020,United States,Family planning,13030,Other multilateral institution,Multilateral organisations,0.238388
 2020,United States,Family planning,13030,Private sector in provider country,Private sector institution,161.754584
 2020,United States,Family planning,13030,Private sector in recipient country,Private sector institution,8.844593
-2020,United States,Family planning,13030,Recipient Government,Public sector institutions,11.611922000000002
-2020,United States,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,5.212765
+2020,United States,Family planning,13030,Recipient Government,Public sector institutions,11.611922
+2020,United States,Family planning,13030,"United Nations agency, fund or commission (UN)",Multilateral organisations,5.212764999999999
 2020,United States,Family planning,13030,"United Nations Agency, Fund Or Commission (UN)",Multilateral organisations,5.08961
-2020,United States,Family planning,13030,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",26.251916000000005
+2020,United States,Family planning,13030,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",26.251916
 2020,United States,Family planning,13030,World Bank Group (WB),Multilateral organisations,0.866092
 2020,United States,Reproductive health care,13020,Donor country-based NGO,Non-governmental organisations and civil society,135.33448199999998
 2020,United States,Reproductive health care,13020,Donor Government,Public sector institutions,15.680422
-2020,United States,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,60.52026899999999
+2020,United States,Reproductive health care,13020,International NGO,Non-governmental organisations and civil society,60.52026900000002
 2020,United States,Reproductive health care,13020,Other,Other,11.276671
 2020,United States,Reproductive health care,13020,Other multilateral institution,Multilateral organisations,0.058732
-2020,United States,Reproductive health care,13020,Private sector in provider country,Private sector institution,153.18288
-2020,United States,Reproductive health care,13020,Private sector in recipient country,Private sector institution,9.388780999999998
-2020,United States,Reproductive health care,13020,Recipient Government,Public sector institutions,20.603744
-2020,United States,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,68.031727
+2020,United States,Reproductive health care,13020,Private sector in provider country,Private sector institution,153.1828799999999
+2020,United States,Reproductive health care,13020,Private sector in recipient country,Private sector institution,9.388781
+2020,United States,Reproductive health care,13020,Recipient Government,Public sector institutions,20.603744000000003
+2020,United States,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,68.03172699999999
 2020,United States,Reproductive health care,13020,"United Nations Agency, Fund Or Commission (UN)",Multilateral organisations,2.992686
-2020,United States,Reproductive health care,13020,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",15.54262
+2020,United States,Reproductive health care,13020,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",15.542619999999998
 2020,United States,Reproductive health care,13020,World Bank Group (WB),Multilateral organisations,1.664594
 2020,World Health Organisation,Reproductive health care,13020,Other,Other,0.086786
-2020,World Health Organisation,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,14.88643000000001
+2020,World Health Organisation,Reproductive health care,13020,"United Nations agency, fund or commission (UN)",Multilateral organisations,14.88643
