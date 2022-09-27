@@ -207,7 +207,7 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,United Kingdom,13020,Reproductive health care,Other,Other,0.6848770000000001
 2020,United Kingdom,13020,Reproductive health care,Private sector in provider country,Private sector institution,24.625484
 2020,United Kingdom,13020,Reproductive health care,Recipient Government,Public sector institutions,14.11236
-2020,United Kingdom,13020,Reproductive health care,"United Nations agency, fund or commission (UN)",Multilateral organisations,51.45604
+2020,United Kingdom,13020,Reproductive health care,"United Nations agency, fund or commission (UN)",Multilateral organisations,51.45603999999999
 2020,United Kingdom,13020,Reproductive health care,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",3.5626670000000003
 2020,United Kingdom,13020,Reproductive health care,World Bank Group (WB),Multilateral organisations,4.1041430000000005
 2020,United Kingdom,13030,Family planning,Developing country-based NGO ,Non-governmental organisations and civil society,2.415108
@@ -227,7 +227,7 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,United States,13020,Reproductive health care,Private sector in provider country,Private sector institution,153.18287999999995
 2020,United States,13020,Reproductive health care,Private sector in recipient country,Private sector institution,9.388780999999998
 2020,United States,13020,Reproductive health care,Recipient Government,Public sector institutions,20.603744
-2020,United States,13020,Reproductive health care,"United Nations agency, fund or commission (UN)",Multilateral organisations,71.02441300000001
+2020,United States,13020,Reproductive health care,"United Nations agency, fund or commission (UN)",Multilateral organisations,71.024413
 2020,United States,13020,Reproductive health care,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",15.54262
 2020,United States,13020,Reproductive health care,World Bank Group (WB),Multilateral organisations,1.664594
 2020,United States,13030,Family planning,Donor Government,Public sector institutions,13.121122
@@ -238,7 +238,7 @@ year,donor_name,purpose_code,purpose_name,oecd_channel_parent_name,oecd_aggregat
 2020,United States,13030,Family planning,Private sector in provider country,Private sector institution,161.75458399999988
 2020,United States,13030,Family planning,Private sector in recipient country,Private sector institution,8.844593
 2020,United States,13030,Family planning,Recipient Government,Public sector institutions,11.611922
-2020,United States,13030,Family planning,"United Nations agency, fund or commission (UN)",Multilateral organisations,10.302375000000001
+2020,United States,13030,Family planning,"United Nations agency, fund or commission (UN)",Multilateral organisations,10.302375
 2020,United States,13030,Family planning,"University, other teaching institution, research institute or think-tank","University, other teaching institution, research institute or think-tank",26.251916
 2020,United States,13030,Family planning,World Bank Group (WB),Multilateral organisations,0.866092
 2020,World Health Organisation,13020,Reproductive health care,Other,Other,0.086786
