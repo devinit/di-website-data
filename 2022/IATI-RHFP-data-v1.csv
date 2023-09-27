@@ -120,7 +120,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2018.0,Finland,13030,130.0,10,Government,BO,Bolivia (Plurinational State of),10.0,,0.014003138,Family planning,Finland
 2018.0,Finland,13030,130.0,10,Government,NP,Nepal,10.0,,0.0273363655,Family planning,Finland
 2018.0,Finland,13030,130.0,10,Government,YE,Yemen,10.0,,0.0392624265,Family planning,Finland
-2018.0,Netherlands,13020,130.0,10,Government,289,"South of Sahara, regional",10.0,,32.74158621999999,Reproductive health care,Netherlands
+2018.0,Netherlands,13020,130.0,10,Government,289,"South of Sahara, regional",10.0,,32.741586219999995,Reproductive health care,Netherlands
 2018.0,Netherlands,13020,130.0,10,Government,298,"Africa, regional",10.0,,1.1403838,Reproductive health care,Netherlands
 2018.0,Netherlands,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,367.53370769650013,Reproductive health care,Netherlands
 2018.0,Netherlands,13020,130.0,10,Government,BD,Bangladesh,10.0,,14.183052094,Reproductive health care,Netherlands
@@ -154,7 +154,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2018.0,Sweden,13020,130.0,10,Government,1029,"Southern Africa, regional",10.0,,1.3495778560191707,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,1032,"Central America, regional",10.0,,1.3722038111019055,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,289,"South of Sahara, regional",10.0,,0.0,Reproductive health care,Sweden
-2018.0,Sweden,13020,130.0,10,Government,298,"Africa, regional",10.0,,9.051982377105773,Reproductive health care,Sweden
+2018.0,Sweden,13020,130.0,10,Government,298,"Africa, regional",10.0,,9.051982377105771,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,489,"South America, regional",10.0,,0.1139576640718494,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,0.0,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,BD,Bangladesh,10.0,,0.28946740344978367,Reproductive health care,Sweden
@@ -369,7 +369,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2018.0,UNICEF,13020,130.0,40,Multilateral,TM,Turkmenistan,10.0,,0.132027148,Reproductive health care,UNICEF
 2018.0,UNICEF,13020,130.0,40,Multilateral,TN,Tunisia,10.0,,0.045535452000000004,Reproductive health care,UNICEF
 2018.0,UNICEF,13020,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,0.8704339020000001,Reproductive health care,UNICEF
-2018.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.037136577,Reproductive health care,UNICEF
+2018.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.037136577000000004,Reproductive health care,UNICEF
 2018.0,UNICEF,13020,130.0,40,Multilateral,UG,Uganda,10.0,,2.8282834759999997,Reproductive health care,UNICEF
 2018.0,UNICEF,13020,130.0,40,Multilateral,UY,Uruguay,10.0,,0.063063948,Reproductive health care,UNICEF
 2018.0,UNICEF,13020,130.0,40,Multilateral,UZ,Uzbekistan,10.0,,0.474648348,Reproductive health care,UNICEF
@@ -814,7 +814,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2019.0,Sweden,13030,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.050761958142535306,Family planning,Sweden
 2019.0,Sweden,13030,130.0,10,Government,UG,Uganda,10.0,,0.06741075085364681,Family planning,Sweden
 2019.0,Sweden,13030,130.0,10,Government,ZA,South Africa,10.0,,0.050761958142535306,Family planning,Sweden
-2019.0,Sweden,13030,130.0,10,Government,ZM,Zambia,10.0,,0.3800248314808745,Family planning,Sweden
+2019.0,Sweden,13030,130.0,10,Government,ZM,Zambia,10.0,,0.3800248314808744,Family planning,Sweden
 2019.0,Sweden,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,0.0721619024521197,Family planning,Sweden
 2019.0,Sweden,13030,130.0,10,Government,,Namibia,10.0,,0.06345244767816911,Family planning,Sweden
 2019.0,Switzerland,13020,130.0,10,Government,289,"South of Sahara, regional",10.0,,0.0,Reproductive health care,Switzerland
@@ -913,7 +913,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2019.0,UNICEF,13020,130.0,40,Multilateral,IR,Iran (Islamic Republic of),10.0,,0.011592633999999997,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,JM,Jamaica,10.0,,0.058399172,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,JO,Jordan,10.0,,0.271943531,Reproductive health care,UNICEF
-2019.0,UNICEF,13020,130.0,40,Multilateral,KE,Kenya,10.0,,0.976891127,Reproductive health care,UNICEF
+2019.0,UNICEF,13020,130.0,40,Multilateral,KE,Kenya,10.0,,0.9768911269999996,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,KG,Kyrgyzstan,10.0,,0.001943578,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,KH,Cambodia,10.0,,0.08187048800000002,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,KM,Comoros (the),10.0,,0.125853996,Reproductive health care,UNICEF
@@ -922,13 +922,13 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2019.0,UNICEF,13020,130.0,40,Multilateral,LA,Lao People's Democratic Republic (the),10.0,,0.23637672000000004,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,LB,Lebanon,10.0,,0.025795660000000005,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,LK,Sri Lanka,10.0,,-0.0026521979999999997,Reproductive health care,UNICEF
-2019.0,UNICEF,13020,130.0,40,Multilateral,LR,Liberia,10.0,,1.2385332409999998,Reproductive health care,UNICEF
+2019.0,UNICEF,13020,130.0,40,Multilateral,LR,Liberia,10.0,,1.238533241,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,LS,Lesotho,10.0,,0.07955094,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MA,Morocco,10.0,,-4.1879999999999995e-06,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MD,Moldova (the Republic of),10.0,,0.467766958,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MG,Madagascar,10.0,,0.861786352,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MK,North Macedonia,10.0,,0.14347144699999997,Reproductive health care,UNICEF
-2019.0,UNICEF,13020,130.0,40,Multilateral,ML,Mali,10.0,,2.944227311,Reproductive health care,UNICEF
+2019.0,UNICEF,13020,130.0,40,Multilateral,ML,Mali,10.0,,2.9442273110000006,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MM,Myanmar,10.0,,0.0,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MN,Mongolia,10.0,,0.021555963000000004,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,MR,Mauritania,10.0,,0.078097145,Reproductive health care,UNICEF
@@ -962,7 +962,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2019.0,UNICEF,13020,130.0,40,Multilateral,TL,Timor-Leste,10.0,,0.266081066,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,TM,Turkmenistan,10.0,,0.09887134,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,TN,Tunisia,10.0,,0.197276922,Reproductive health care,UNICEF
-2019.0,UNICEF,13020,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,1.0519517240000003,Reproductive health care,UNICEF
+2019.0,UNICEF,13020,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,1.051951724,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.063677445,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,UG,Uganda,10.0,,2.598949335999999,Reproductive health care,UNICEF
 2019.0,UNICEF,13020,130.0,40,Multilateral,UY,Uruguay,10.0,,0.074906556,Reproductive health care,UNICEF
@@ -1193,7 +1193,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,Canada,13020,130.0,10,Government,MM,Myanmar,10.0,,0.456332880558913,Reproductive health care,Canada
 2020.0,Canada,13020,130.0,10,Government,MW,Malawi,10.0,,0.38837394934656005,Reproductive health care,Canada
 2020.0,Canada,13020,130.0,10,Government,MZ,Mozambique,10.0,,7.474836904348321,Reproductive health care,Canada
-2020.0,Canada,13020,130.0,10,Government,NG,Nigeria,10.0,,1.3072274025900281,Reproductive health care,Canada
+2020.0,Canada,13020,130.0,10,Government,NG,Nigeria,10.0,,1.3072274025900277,Reproductive health care,Canada
 2020.0,Canada,13020,130.0,10,Government,NI,Nicaragua,10.0,,0.74545088,Reproductive health care,Canada
 2020.0,Canada,13020,130.0,10,Government,PE,Peru,10.0,,1.0505612317279789,Reproductive health care,Canada
 2020.0,Canada,13020,130.0,10,Government,PH,Philippines (the),10.0,,0.6925570055966996,Reproductive health care,Canada
@@ -1472,7 +1472,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,UK,13020,130.0,10,Government,UG,Uganda,10.0,,1.5281444779,Reproductive health care,UK
 2020.0,UK,13020,130.0,10,Government,ZM,Zambia,10.0,,2.6605233571,Reproductive health care,UK
 2020.0,UK,13020,130.0,10,Government,ZW,Zimbabwe,10.0,,8.42238791991,Reproductive health care,UK
-2020.0,UK,13030,130.0,10,Government,298,"Africa, regional",10.0,,100.57023925319992,Family planning,UK
+2020.0,UK,13030,130.0,10,Government,298,"Africa, regional",10.0,,100.57023925319996,Family planning,UK
 2020.0,UK,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,12.9760275959,Family planning,UK
 2020.0,UK,13030,130.0,10,Government,BD,Bangladesh,10.0,,7.576266817389999,Family planning,UK
 2020.0,UK,13030,130.0,10,Government,CD,Congo (the Democratic Republic of the),10.0,,4.08641371008,Family planning,UK
@@ -1495,13 +1495,13 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,UNICEF,13020,130.0,40,Multilateral,AZ,Azerbaijan,10.0,,0.048213396,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BD,Bangladesh,10.0,,5.500265273,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BF,Burkina Faso,10.0,,0.043678163,Reproductive health care,UNICEF
-2020.0,UNICEF,13020,130.0,40,Multilateral,BG,Bulgaria,10.0,,0.033575958,Reproductive health care,UNICEF
+2020.0,UNICEF,13020,130.0,40,Multilateral,BG,Bulgaria,10.0,,0.033575957999999996,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BI,Burundi,10.0,,0.10466823999999998,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BJ,Benin,10.0,,0.203868608,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BO,Bolivia (Plurinational State of),10.0,,1.6351355770000005,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BR,Brazil,10.0,,0.185458448,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,BT,Bhutan,10.0,,0.09067805999999999,Reproductive health care,UNICEF
-2020.0,UNICEF,13020,130.0,40,Multilateral,BZ,Belize,10.0,,0.15456536,Reproductive health care,UNICEF
+2020.0,UNICEF,13020,130.0,40,Multilateral,BZ,Belize,10.0,,0.15456535999999998,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,CD,Congo (the Democratic Republic of the),10.0,,3.144604063,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,CF,Central African Republic (the),10.0,,0.023242747,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,CG,Congo (the),10.0,,0.202876459,Reproductive health care,UNICEF
@@ -1543,7 +1543,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,UNICEF,13020,130.0,40,Multilateral,LA,Lao People's Democratic Republic (the),10.0,,0.28043217600000003,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,LB,Lebanon,10.0,,0.052005276,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,LR,Liberia,10.0,,0.969251013,Reproductive health care,UNICEF
-2020.0,UNICEF,13020,130.0,40,Multilateral,LS,Lesotho,10.0,,-0.0015676739999999996,Reproductive health care,UNICEF
+2020.0,UNICEF,13020,130.0,40,Multilateral,LS,Lesotho,10.0,,-0.001567674,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,MD,Moldova (the Republic of),10.0,,0.38037846399999997,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,MG,Madagascar,10.0,,0.8410147199999999,Reproductive health care,UNICEF
 2020.0,UNICEF,13020,130.0,40,Multilateral,MK,North Macedonia,10.0,,0.17745095699999996,Reproductive health care,UNICEF
@@ -1626,7 +1626,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,UNICEF,13030,130.0,40,Multilateral,PG,Papua New Guinea,10.0,,0.0010463180000000003,Family planning,UNICEF
 2020.0,UNICEF,13030,130.0,40,Multilateral,PH,Philippines (the),10.0,,0.16492269599999998,Family planning,UNICEF
 2020.0,UNICEF,13030,130.0,40,Multilateral,SL,Sierra Leone,10.0,,0.14829416399999998,Family planning,UNICEF
-2020.0,UNICEF,13030,130.0,40,Multilateral,SN,Senegal,10.0,,0.021198464,Family planning,UNICEF
+2020.0,UNICEF,13030,130.0,40,Multilateral,SN,Senegal,10.0,,0.021198464000000004,Family planning,UNICEF
 2020.0,UNICEF,13030,130.0,40,Multilateral,ST,Sao Tome and Principe,10.0,,0.0029989400000000007,Family planning,UNICEF
 2020.0,UNICEF,13030,130.0,40,Multilateral,TG,Togo,10.0,,0.009518543999999999,Family planning,UNICEF
 2020.0,UNICEF,13030,130.0,40,Multilateral,TH,Thailand,10.0,,2.056142418,Family planning,UNICEF
@@ -2185,7 +2185,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,UNICEF,13020,130.0,40,Multilateral,IR,Iran (Islamic Republic of),10.0,,0.045146271999999994,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,JM,Jamaica,10.0,,0.021031044000000002,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,JO,Jordan,10.0,,0.19073686799999998,Reproductive health care,UNICEF
-2021.0,UNICEF,13020,130.0,40,Multilateral,KE,Kenya,10.0,,0.8830272639999999,Reproductive health care,UNICEF
+2021.0,UNICEF,13020,130.0,40,Multilateral,KE,Kenya,10.0,,0.8830272639999998,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,KH,Cambodia,10.0,,0.023469978,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,KM,Comoros (the),10.0,,0.176882002,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,KP,Korea (the Democratic People's Republic of),10.0,,0.002388,Reproductive health care,UNICEF
@@ -2227,7 +2227,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,UNICEF,13020,130.0,40,Multilateral,TD,Chad,10.0,,0.08634986200000001,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,TG,Togo,10.0,,0.271848279,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,TH,Thailand,10.0,,0.14225287,Reproductive health care,UNICEF
-2021.0,UNICEF,13020,130.0,40,Multilateral,TJ,Tajikistan,10.0,,0.5795296259999999,Reproductive health care,UNICEF
+2021.0,UNICEF,13020,130.0,40,Multilateral,TJ,Tajikistan,10.0,,0.579529626,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,TL,Timor-Leste,10.0,,0.0,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,TM,Turkmenistan,10.0,,0.19433503500000002,Reproductive health care,UNICEF
 2021.0,UNICEF,13020,130.0,40,Multilateral,TN,Tunisia,10.0,,0.739056891,Reproductive health care,UNICEF
@@ -2278,11 +2278,11 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,UNICEF,13030,130.0,40,Multilateral,MN,Mongolia,10.0,,0.011416340000000004,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,MV,Maldives,10.0,,0.002191582,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,NP,Nepal,10.0,,0.19922175399999997,Family planning,UNICEF
-2021.0,UNICEF,13030,130.0,40,Multilateral,PE,Peru,10.0,,1.0330670480000002,Family planning,UNICEF
+2021.0,UNICEF,13030,130.0,40,Multilateral,PE,Peru,10.0,,1.033067048,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,PG,Papua New Guinea,10.0,,0.000594724,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,PH,Philippines (the),10.0,,0.142351582,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,SL,Sierra Leone,10.0,,0.10088942999999999,Family planning,UNICEF
-2021.0,UNICEF,13030,130.0,40,Multilateral,SN,Senegal,10.0,,0.040674888,Family planning,UNICEF
+2021.0,UNICEF,13030,130.0,40,Multilateral,SN,Senegal,10.0,,0.040674888000000006,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,ST,Sao Tome and Principe,10.0,,0.00031395000000000007,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,TG,Togo,10.0,,0.01121932,Family planning,UNICEF
 2021.0,UNICEF,13030,130.0,40,Multilateral,TH,Thailand,10.0,,1.762163828,Family planning,UNICEF
@@ -2789,14 +2789,14 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,UNICEF,13020,130.0,40,Multilateral,BB,Barbados,10.0,,0.41681501400000004,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BD,Bangladesh,10.0,,3.2267915159999987,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BF,Burkina Faso,10.0,,0.5083888240000004,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,BG,Bulgaria,10.0,,0.09665187999999998,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,BG,Bulgaria,10.0,,0.09665188000000001,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BI,Burundi,10.0,,0.23876990200000003,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BJ,Benin,10.0,,0.6269014659999997,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BO,Bolivia (Plurinational State of),10.0,,1.6049238349999995,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BR,Brazil,10.0,,1.1244108219999998,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BT,Bhutan,10.0,,0.24334969799999995,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,BY,Belarus,10.0,,0.0058539720000000016,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,BZ,Belize,10.0,,0.13032932199999994,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,BZ,Belize,10.0,,0.130329322,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,CD,Congo (the Democratic Republic of the),10.0,,4.148961597000002,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,CF,Central African Republic (the),10.0,,0.17722256500000003,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,CG,Congo (the),10.0,,0.388936965,Reproductive health care,UNICEF
@@ -2860,7 +2860,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,UNICEF,13020,130.0,40,Multilateral,PY,Paraguay,10.0,,0.29406869500000005,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,RS,Serbia,10.0,,0.8025043869999997,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,RW,Rwanda,10.0,,0.03730420100000001,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,SA,Saudi Arabia,10.0,,0.2629567940000001,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,SA,Saudi Arabia,10.0,,0.262956794,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,SD,Sudan (the),10.0,,2.606503668000001,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,SL,Sierra Leone,10.0,,0.125186216,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,SO,Somalia,10.0,,2.6925174750000003,Reproductive health care,UNICEF
@@ -2872,12 +2872,12 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,UNICEF,13020,130.0,40,Multilateral,TD,Chad,10.0,,0.1760116599999999,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,TG,Togo,10.0,,0.41889409900000013,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,TH,Thailand,10.0,,0.232002572,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,TJ,Tajikistan,10.0,,1.6492652020000005,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,TJ,Tajikistan,10.0,,1.649265202,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,TL,Timor-Leste,10.0,,0.0,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,TM,Turkmenistan,10.0,,0.39770546999999995,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,TN,Tunisia,10.0,,1.1603725499999995,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,3.751079420000001,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.2767365419999998,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,3.75107942,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.27673654199999986,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,UG,Uganda,10.0,,1.5905169939999988,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,UY,Uruguay,10.0,,0.13027024199999998,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,UZ,Uzbekistan,10.0,,1.9412472600000008,Reproductive health care,UNICEF
@@ -2885,7 +2885,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,UNICEF,13020,130.0,40,Multilateral,XK,Kosovo,10.0,,5.532989663000001,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,YE,Yemen,10.0,,0.0,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,ZA,South Africa,10.0,,0.8725799939999999,Reproductive health care,UNICEF
-2022.0,UNICEF,13020,130.0,40,Multilateral,ZM,Zambia,10.0,,2.733826999999999,Reproductive health care,UNICEF
+2022.0,UNICEF,13020,130.0,40,Multilateral,ZM,Zambia,10.0,,2.7338269999999993,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,ZW,Zimbabwe,10.0,,2.693971851000001,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,,Namibia,10.0,,1.631530946,Reproductive health care,UNICEF
 2022.0,UNICEF,13020,130.0,40,Multilateral,,,10.0,,6.4158290680000025,Reproductive health care,UNICEF
@@ -2897,7 +2897,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,UNICEF,13030,130.0,40,Multilateral,BJ,Benin,10.0,,0.6316855530000001,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,BT,Bhutan,10.0,,0.03347442,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,BW,Botswana,10.0,,0.10124827999999998,Family planning,UNICEF
-2022.0,UNICEF,13030,130.0,40,Multilateral,BY,Belarus,10.0,,0.068367684,Family planning,UNICEF
+2022.0,UNICEF,13030,130.0,40,Multilateral,BY,Belarus,10.0,,0.06836768400000001,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,BZ,Belize,10.0,,0.014787283,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,CI,Côte d'Ivoire,10.0,,1.8051962880000003,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,CN,China,10.0,,0.05414216400000002,Family planning,UNICEF
@@ -2928,13 +2928,13 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,UNICEF,13030,130.0,40,Multilateral,PG,Papua New Guinea,10.0,,4.082000000000001e-06,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,PH,Philippines (the),10.0,,0.36098961399999985,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,SL,Sierra Leone,10.0,,0.23531652000000006,Family planning,UNICEF
-2022.0,UNICEF,13030,130.0,40,Multilateral,SN,Senegal,10.0,,0.097908944,Family planning,UNICEF
+2022.0,UNICEF,13030,130.0,40,Multilateral,SN,Senegal,10.0,,0.09790894400000001,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,ST,Sao Tome and Principe,10.0,,0.004535965,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,TG,Togo,10.0,,0.025420276000000002,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,TH,Thailand,10.0,,1.3733732370000002,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,TJ,Tajikistan,10.0,,0.4660080259999997,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,0.4476165219999997,Family planning,UNICEF
-2022.0,UNICEF,13030,130.0,40,Multilateral,UG,Uganda,10.0,,1.3154168739999998,Family planning,UNICEF
+2022.0,UNICEF,13030,130.0,40,Multilateral,UG,Uganda,10.0,,1.3154168740000003,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,UZ,Uzbekistan,10.0,,0.537536925,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,ZA,South Africa,10.0,,0.4311343459999998,Family planning,UNICEF
 2022.0,UNICEF,13030,130.0,40,Multilateral,ZM,Zambia,10.0,,0.00214467,Family planning,UNICEF
@@ -3358,7 +3358,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2023.0,UNICEF,13020,130.0,40,Multilateral,CM,Cameroon,10.0,,0.0,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,CN,China,10.0,,0.0,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,CO,Colombia,10.0,,0.0,Reproductive health care,UNICEF
-2023.0,UNICEF,13020,130.0,40,Multilateral,CU,Cuba,10.0,,0.030487129000000012,Reproductive health care,UNICEF
+2023.0,UNICEF,13020,130.0,40,Multilateral,CU,Cuba,10.0,,0.030487129000000005,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,CV,Cabo Verde,10.0,,4.459999999999999e-07,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,DJ,Djibouti,10.0,,0.07518473900000001,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,DO,Dominican Republic (the),10.0,,0.085698946,Reproductive health care,UNICEF
@@ -3423,7 +3423,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2023.0,UNICEF,13020,130.0,40,Multilateral,PY,Paraguay,10.0,,0.10435102300000001,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,RS,Serbia,10.0,,0.28151586,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,RW,Rwanda,10.0,,0.019785263000000004,Reproductive health care,UNICEF
-2023.0,UNICEF,13020,130.0,40,Multilateral,SA,Saudi Arabia,10.0,,0.038294812000000004,Reproductive health care,UNICEF
+2023.0,UNICEF,13020,130.0,40,Multilateral,SA,Saudi Arabia,10.0,,0.038294812,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,SD,Sudan (the),10.0,,0.0,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,SL,Sierra Leone,10.0,,0.003053954,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,SN,Senegal,10.0,,0.0,Reproductive health care,UNICEF
@@ -3441,7 +3441,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2023.0,UNICEF,13020,130.0,40,Multilateral,TM,Turkmenistan,10.0,,0.137946146,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,TN,Tunisia,10.0,,0.0,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,TZ,"Tanzania, United Republic of",10.0,,1.310026735,Reproductive health care,UNICEF
-2023.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.30212786399999997,Reproductive health care,UNICEF
+2023.0,UNICEF,13020,130.0,40,Multilateral,UA,Ukraine,10.0,,0.302127864,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,UG,Uganda,10.0,,0.5998499440000006,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,UY,Uruguay,10.0,,0.034850082000000004,Reproductive health care,UNICEF
 2023.0,UNICEF,13020,130.0,40,Multilateral,UZ,Uzbekistan,10.0,,1.3371660859999999,Reproductive health care,UNICEF
