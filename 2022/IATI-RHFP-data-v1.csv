@@ -150,6 +150,24 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2018.0,New Zealand,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,0.8662499999999999,Family planning,New Zealand
 2018.0,New Zealand,13030,130.0,10,Government,KI,Kiribati,10.0,,0.31357362959999996,Family planning,New Zealand
 2018.0,New Zealand,13030,130.0,10,Government,VU,Vanuatu,10.0,,0.163128735,Family planning,New Zealand
+2018.0,Norway,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,0.0,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,AF,Afghanistan,10.0,,0.33845295,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,BD,Bangladesh,10.0,,0.033357231,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,EG,Egypt,10.0,,1.845,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,HN,Honduras,10.0,,0.187939326,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,ML,Mali,10.0,,0.26441642099999996,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,MM,Myanmar,10.0,,0.391336431,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,MW,Malawi,10.0,,0.54117909,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,NP,Nepal,10.0,,0.30693469199999995,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,SS,South Sudan,10.0,,4.674,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,SZ,Eswatini,10.0,,0.052369217999999995,Reproductive health care,Norway
+2018.0,Norway,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.497102901,Reproductive health care,Norway
+2018.0,Norway,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,8.61,Family planning,Norway
+2018.0,Norway,13030,130.0,10,Government,LB,Lebanon,10.0,,0.1722,Family planning,Norway
+2018.0,Norway,13030,130.0,10,Government,MZ,Mozambique,10.0,,0.5904,Family planning,Norway
+2018.0,Norway,13030,130.0,10,Government,NG,Nigeria,10.0,,0.984,Family planning,Norway
+2018.0,Norway,13030,130.0,10,Government,PS,"Palestine, State of",10.0,,0.29274,Family planning,Norway
+2018.0,Norway,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,0.17864483099999998,Family planning,Norway
 2018.0,Sweden,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,1.5289050538525268,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,1029,"Southern Africa, regional",10.0,,1.3495778560191707,Reproductive health care,Sweden
 2018.0,Sweden,13020,130.0,10,Government,1032,"Central America, regional",10.0,,1.3722038111019055,Reproductive health care,Sweden
@@ -731,6 +749,29 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2019.0,New Zealand,13030,130.0,10,Government,TV,Tuvalu,10.0,,0.008972908174999999,Family planning,New Zealand
 2019.0,New Zealand,13030,130.0,10,Government,VU,Vanuatu,10.0,,0.14115266867499998,Family planning,New Zealand
 2019.0,New Zealand,13030,130.0,10,Government,WS,Samoa,10.0,,0.008972908174999999,Family planning,New Zealand
+2019.0,Norway,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,16.6343136112,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,AF,Afghanistan,10.0,,0.1598457648,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,BD,Bangladesh,10.0,,0.029281536,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,EG,Egypt,10.0,,2.4424,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,HN,Honduras,10.0,,0.17357636960000003,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,ML,Mali,10.0,,0.1407643728,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,MM,Myanmar,10.0,,0.2533759392,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,MW,Malawi,10.0,,0.3633536896,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,NP,Nepal,10.0,,0.159533024,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,PS,"Palestine, State of",10.0,,1.42,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,SS,South Sudan,10.0,,0.1278,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,SZ,Eswatini,10.0,,0.050291856,Reproductive health care,Norway
+2019.0,Norway,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.3046766768,Reproductive health care,Norway
+2019.0,Norway,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,11.644,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,CO,Colombia,10.0,,0.37062,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,ET,Ethiopia,10.0,,0.18678316480000004,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,GT,Guatemala,10.0,,0.18658800000000003,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,LB,Lebanon,10.0,,0.38987520000000003,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,MZ,Mozambique,10.0,,0.493024,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,NG,Nigeria,10.0,,0.54528,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,PS,"Palestine, State of",10.0,,0.29536,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.07110792,Family planning,Norway
+2019.0,Norway,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,0.1724102656,Family planning,Norway
 2019.0,Sweden,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,1.361882959845176,Reproductive health care,Sweden
 2019.0,Sweden,13020,130.0,10,Government,1029,"Southern Africa, regional",10.0,,3.190579595807908,Reproductive health care,Sweden
 2019.0,Sweden,13020,130.0,10,Government,1032,"Central America, regional",10.0,,0.1374803033026999,Reproductive health care,Sweden
@@ -1332,6 +1373,38 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,New Zealand,13030,130.0,10,Government,TV,Tuvalu,10.0,,0.027080625,Family planning,New Zealand
 2020.0,New Zealand,13030,130.0,10,Government,VU,Vanuatu,10.0,,0.2257010145,Family planning,New Zealand
 2020.0,New Zealand,13030,130.0,10,Government,WS,Samoa,10.0,,0.027080625,Family planning,New Zealand
+2020.0,Norway,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,0.16715710079999999,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,679,"South Asia, regional",10.0,,0.083711619,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,15.7880894004,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,AF,Afghanistan,10.0,,0.284616,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,BD,Bangladesh,10.0,,0.0228139902,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,EG,Egypt,10.0,,2.4957,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,ET,Ethiopia,10.0,,0.0284878314,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,HN,Honduras,10.0,,0.2039076108,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,KE,Kenya,10.0,,0.123520689,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,ML,Mali,10.0,,0.23364,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,MM,Myanmar,10.0,,0.434889,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,MW,Malawi,10.0,,0.8908056,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,NP,Nepal,10.0,,0.290988,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,PS,"Palestine, State of",10.0,,0.603216,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,SD,Sudan (the),10.0,,0.5397615,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,SS,South Sudan,10.0,,2.2518117,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,SZ,Eswatini,10.0,,0.0387303966,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.523566,Reproductive health care,Norway
+2020.0,Norway,13020,130.0,10,Government,ZM,Zambia,10.0,,0.0505512,Reproductive health care,Norway
+2020.0,Norway,13030,130.0,10,Government,298,"Africa, regional",10.0,,0.104296365,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,7.3809,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,CO,Colombia,10.0,,0.4440964338,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,ET,Ethiopia,10.0,,0.17285271300000002,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,GT,Guatemala,10.0,,0.174344823,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,KE,Kenya,10.0,,0.0192015972,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,LB,Lebanon,10.0,,0.4779,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,MZ,Mozambique,10.0,,0.531,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,NG,Nigeria,10.0,,0.8496,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,PH,Philippines (the),10.0,,0.0531,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,PS,"Palestine, State of",10.0,,0.320724,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.06907779000000001,Family planning,Norway
+2020.0,Norway,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,0.18303145199999998,Family planning,Norway
 2020.0,Sweden,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,0.0,Reproductive health care,Sweden
 2020.0,Sweden,13020,130.0,10,Government,1029,"Southern Africa, regional",10.0,,1.550877983207814,Reproductive health care,Sweden
 2020.0,Sweden,13020,130.0,10,Government,1032,"Central America, regional",10.0,,0.16287175478028598,Reproductive health care,Sweden
@@ -1964,6 +2037,33 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,New Zealand,13030,130.0,10,Government,TV,Tuvalu,10.0,,0.001383724078125,Family planning,New Zealand
 2021.0,New Zealand,13030,130.0,10,Government,VU,Vanuatu,10.0,,0.15730752657812497,Family planning,New Zealand
 2021.0,New Zealand,13030,130.0,10,Government,WS,Samoa,10.0,,0.0013837240781250002,Family planning,New Zealand
+2021.0,Norway,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,0.2235762312,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,679,"South Asia, regional",10.0,,0.0463142796,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,13.9834680468,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,AF,Afghanistan,10.0,,0.1369145688,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,BD,Bangladesh,10.0,,0.022283732400000002,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,EG,Egypt,10.0,,-0.0237724884,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,ET,Ethiopia,10.0,,0.0203492808,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,ML,Mali,10.0,,0.20902052760000003,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,MM,Myanmar,10.0,,0.30763286160000003,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,MW,Malawi,10.0,,0.6715013568,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,NP,Nepal,10.0,,0.34486957079999997,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,PH,Philippines (the),10.0,,0.0582,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,SD,Sudan (the),10.0,,0.591603,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,SS,South Sudan,10.0,,5.0829166716,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,SZ,Eswatini,10.0,,0.047214168,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.3454674012,Reproductive health care,Norway
+2021.0,Norway,13020,130.0,10,Government,ZM,Zambia,10.0,,0.10720439999999999,Reproductive health care,Norway
+2021.0,Norway,13030,130.0,10,Government,298,"Africa, regional",10.0,,0.1066715208,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,12.4548,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,CO,Colombia,10.0,,0.3827678976,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,ET,Ethiopia,10.0,,0.2137097016,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,GT,Guatemala,10.0,,0.20635706280000002,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,KE,Kenya,10.0,,0.0210458184,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,LB,Lebanon,10.0,,1.164,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,MZ,Mozambique,10.0,,0.291,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,NG,Nigeria,10.0,,0.37248,Family planning,Norway
+2021.0,Norway,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,0.1876457628,Family planning,Norway
 2021.0,Sweden,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,1.1227832899998833,Reproductive health care,Sweden
 2021.0,Sweden,13020,130.0,10,Government,1029,"Southern Africa, regional",10.0,,1.8240047030628774,Reproductive health care,Sweden
 2021.0,Sweden,13020,130.0,10,Government,1032,"Central America, regional",10.0,,0.2914806048805512,Reproductive health care,Sweden
@@ -2618,6 +2718,38 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,New Zealand,13030,130.0,10,Government,TV,Tuvalu,10.0,,0.0428839783248,Family planning,New Zealand
 2022.0,New Zealand,13030,130.0,10,Government,VU,Vanuatu,10.0,,0.050640778324800004,Family planning,New Zealand
 2022.0,New Zealand,13030,130.0,10,Government,WS,Samoa,10.0,,0.0428839783248,Family planning,New Zealand
+2022.0,Norway,13020,130.0,10,Government,679,"South Asia, regional",10.0,,0.0017957828,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,689,"South & Central Asia, regional",10.0,,0.06919849060000001,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,998,"Developing countries, unspecified",10.0,,14.5162193292,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,AF,Afghanistan,10.0,,0.2253409402,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,CD,Congo (the Democratic Republic of the),10.0,,1.76619,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,ET,Ethiopia,10.0,,0.0155793588,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,ML,Mali,10.0,,0.20087676000000002,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,MM,Myanmar,10.0,,0.3376498884,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,MW,Malawi,10.0,,0.5309576646,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,MZ,Mozambique,10.0,,0.55226,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,NP,Nepal,10.0,,0.264618505,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,PH,Philippines (the),10.0,,0.0521,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,PK,Pakistan,10.0,,0.549995213,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,SS,South Sudan,10.0,,5.1525757968,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,SZ,Eswatini,10.0,,0.060477159,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.4118915548,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,UG,Uganda,10.0,,1.9798,Reproductive health care,Norway
+2022.0,Norway,13020,130.0,10,Government,ZM,Zambia,10.0,,0.0642914,Reproductive health care,Norway
+2022.0,Norway,13030,130.0,10,Government,298,"Africa, regional",10.0,,0.120018602,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,998,"Developing countries, unspecified",10.0,,18.5476,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,CO,Colombia,10.0,,0.3232579928,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,ET,Ethiopia,10.0,,0.163810736,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,GT,Guatemala,10.0,,0.163843038,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,KE,Kenya,10.0,,0.0212347096,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,MG,Madagascar,10.0,,1.563,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,MZ,Mozambique,10.0,,0.2605,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,NG,Nigeria,10.0,,1.6672,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,NP,Nepal,10.0,,0.7294,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,PK,Pakistan,10.0,,0.08336,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,PS,"Palestine, State of",10.0,,0.2822900956,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.0672760006,Family planning,Norway
+2022.0,Norway,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,0.3236562452,Family planning,Norway
 2022.0,Sweden,13020,130.0,10,Government,1027,"Eastern Africa, regional",10.0,,0.7170770798500153,Reproductive health care,Sweden
 2022.0,Sweden,13020,130.0,10,Government,1029,"Southern Africa, regional",10.0,,2.2721687426417483,Reproductive health care,Sweden
 2022.0,Sweden,13020,130.0,10,Government,1030,"Western Africa, regional",10.0,,0.33637721736893655,Reproductive health care,Sweden
