@@ -247,7 +247,7 @@ Family planning,US,Turkey,0.000122,,,,,,US
 Family planning,US,Uganda,17.506494,0.0,18.903179,0.0,0.0,,US
 Family planning,US,Ukraine,-0.004714,,-0.048506,,-0.008961,,US
 Family planning,US,Yemen,0.921633,3.13546,1.46523,0.786683,1.7e-05,,US
-Family planning,US,Zambia,4.183025,9.383664,0.0,12.550048,8.884805,,US
+Family planning,US,Zambia,4.183025,9.383664,0.06825,12.573298,8.884805,,US
 Family planning,US,Zimbabwe,3.524173,1.746799,1.814272,2.346074,0.600583,,US
 Family planning,World Bank,Afghanistan,0.0,0.0,0.0,,,,World Bank
 Family planning,World Bank,Burkina Faso,0.32392708000000003,0.12613648,0.23168423999999999,0.10912732000000001,1.08684764,0.1326068,World Bank
@@ -639,7 +639,7 @@ Reproductive health care,US,"Developing countries, unspecified",74.423137,0.0,0.
 Reproductive health care,US,Egypt,0.24707,0.461574,,,,,US
 Reproductive health care,US,Ethiopia,37.195877,32.033511,27.879044,31.829278,25.31822,,US
 Reproductive health care,US,"Europe, regional",0.004854,,,,,,US
-Reproductive health care,US,Ghana,8.03696,4.390879,3.340454,5.359325,7.2325,-0.012177,US
+Reproductive health care,US,Ghana,8.03696,4.405879,3.350454,5.359325,7.2325,-0.012177,US
 Reproductive health care,US,Guatemala,2.631071,1.164183,1.776128,1.788566,3.265033,,US
 Reproductive health care,US,Guinea,4.875906,2.997423,0.695008,5.137577,3.589269,,US
 Reproductive health care,US,Haiti,16.709849,17.008658,17.713513,7.802788,0.0,,US
@@ -649,7 +649,7 @@ Reproductive health care,US,Japan,,,,,0.00282,,US
 Reproductive health care,US,Jordan,16.894048,0.0,0.0,0.0,0.0,,US
 Reproductive health care,US,Kenya,27.298856,0.0,6.762023,0.0,11.588871,1.5e-05,US
 Reproductive health care,US,Lao People's Democratic Republic (the),,,0.158373,3.258985,6.688564,,US
-Reproductive health care,US,Liberia,5.139137,7.859461,7.430503,12.686665,7.786276,,US
+Reproductive health care,US,Liberia,5.139137,7.859461,7.430503,12.689665,7.786276,,US
 Reproductive health care,US,Madagascar,0.0,10.792993,15.925836,17.842826,0.0,,US
 Reproductive health care,US,Malawi,16.231948,11.796962,0.0,10.568444,0.0,1.6e-05,US
 Reproductive health care,US,Mali,18.229811,0.0,14.381235,16.648541,16.851709,,US
@@ -662,7 +662,7 @@ Reproductive health care,US,Nigeria,0.0,48.259691,0.0,41.464179,41.880688,,US
 Reproductive health care,US,Pakistan,0.0,3.00639,0.0,0.0,0.0,,US
 Reproductive health care,US,Philippines (the),1.636197,1.09404,1.354359,0.446467,0.002803,,US
 Reproductive health care,US,Qatar,,,,,0.023071,,US
-Reproductive health care,US,Rwanda,8.780475,0.0,0.0,9.844376,8.770032,,US
+Reproductive health care,US,Rwanda,8.780475,0.01,0.0,9.844376,8.770032,,US
 Reproductive health care,US,Senegal,10.497961,0.0,4.875525,5.311529,8.075032,,US
 Reproductive health care,US,Sierra Leone,0.354245,0.0012,0.132064,1.902548,3.045645,,US
 Reproductive health care,US,Somalia,0.0,,,,0.026733,,US
@@ -672,12 +672,12 @@ Reproductive health care,US,"South of Sahara, regional",7.589916,5.735605,11.729
 Reproductive health care,US,Sudan (the),0.000341,,0.032738,0.890812,1.685402,,US
 Reproductive health care,US,Switzerland,,,,290.0,,,US
 Reproductive health care,US,Tajikistan,1.02948,0.852475,0.803619,1.192224,1.739999,,US
-Reproductive health care,US,"Tanzania, United Republic of",14.642522,0.0,14.367349,0.0,16.102547,1.5e-05,US
+Reproductive health care,US,"Tanzania, United Republic of",14.642522,0.015,14.377349,0.0,16.102547,1.5e-05,US
 Reproductive health care,US,Thailand,0.004875,,,0.002967,,,US
 Reproductive health care,US,Timor-Leste,0.785365,0.839222,0.207341,0.448346,1.8,,US
 Reproductive health care,US,Tunisia,,,,2.49,,,US
 Reproductive health care,US,Turkey,,0.015422,,,,,US
-Reproductive health care,US,Uganda,0.0,0.0,15.984828,10.812026,14.844903,0.060292,US
+Reproductive health care,US,Uganda,0.0,0.015,15.994827,10.812026,14.844903,0.060292,US
 Reproductive health care,US,Ukraine,,,-0.028262,0.028262,,,US
 Reproductive health care,US,United Arab Emirates (the),0.000673,,,,,,US
 Reproductive health care,US,Venezuela (Bolivarian Republic of),,,5.4,3.6,3.550722,,US
@@ -1125,7 +1125,7 @@ Reproductive health care and family planning,US,"Developing countries, unspecifi
 Reproductive health care and family planning,US,Egypt,3.576329,2.52396,4.654461,5.658805,11.270988,,US
 Reproductive health care and family planning,US,Ethiopia,67.541626,54.052763,27.879044,31.829278,40.841321,,US
 Reproductive health care and family planning,US,"Europe, regional",0.004854,,,,,,US
-Reproductive health care and family planning,US,Ghana,6.705189,8.051421,6.825885,6.981995,7.541362,-0.01175,US
+Reproductive health care and family planning,US,Ghana,6.705189,8.066421,6.835885,6.981995,7.541362,-0.01175,US
 Reproductive health care and family planning,US,Guatemala,6.790947,1.164183,5.78021,5.389023,9.729286,,US
 Reproductive health care and family planning,US,Guinea,4.875906,2.997423,4.351568,7.206286,3.589269,,US
 Reproductive health care and family planning,US,Haiti,24.801803,25.582991,25.340648,14.556524,2.221602,,US
@@ -1136,7 +1136,7 @@ Reproductive health care and family planning,US,Jordan,40.447113,36.279974,21.36
 Reproductive health care and family planning,US,Kenya,45.907387,14.300664,13.946314,9.47887,11.588871,1.5e-05,US
 Reproductive health care and family planning,US,Kyrgyzstan,0.088105,0.05296,0.033386,,,,US
 Reproductive health care and family planning,US,Lao People's Democratic Republic (the),,,0.158373,3.258985,6.688564,,US
-Reproductive health care and family planning,US,Liberia,5.139137,7.859461,12.522781,20.269117,9.420871,,US
+Reproductive health care and family planning,US,Liberia,5.139137,7.859461,12.522781,20.272117,9.420871,,US
 Reproductive health care and family planning,US,Madagascar,6.361824,23.578093,15.925836,30.953608,7.810653,,US
 Reproductive health care and family planning,US,Malawi,16.231948,23.645857,6.456036,16.398427,6.420897,1.6e-05,US
 Reproductive health care and family planning,US,Mali,27.270091,5.121,14.882267,18.632262,20.033019,,US
@@ -1151,7 +1151,7 @@ Reproductive health care and family planning,US,Nigeria,0.0,70.693209,33.487352,
 Reproductive health care and family planning,US,Pakistan,3.89789,7.76707,5.472631,0.0,0.733372,,US
 Reproductive health care and family planning,US,Philippines (the),12.557969,12.400425,15.588594,13.804445,14.549533,,US
 Reproductive health care and family planning,US,Qatar,,,,,0.023071,,US
-Reproductive health care and family planning,US,Rwanda,17.36758,5.917199,11.042017,9.844376,13.341691,,US
+Reproductive health care and family planning,US,Rwanda,17.36758,5.927199,11.042017,9.844376,13.341691,,US
 Reproductive health care and family planning,US,Senegal,27.114186,11.268173,10.607397,14.051558,16.45686,,US
 Reproductive health care and family planning,US,Sierra Leone,0.414161,0.021936,0.273199,3.264666,5.004322,,US
 Reproductive health care and family planning,US,Somalia,0.0,,,,0.026733,,US
@@ -1161,17 +1161,17 @@ Reproductive health care and family planning,US,"South of Sahara, regional",14.5
 Reproductive health care and family planning,US,Sudan (the),0.000341,,0.032738,0.889527,1.685402,,US
 Reproductive health care and family planning,US,Switzerland,,,,290.0,,,US
 Reproductive health care and family planning,US,Tajikistan,1.004626,0.852475,0.803619,1.192224,1.739999,,US
-Reproductive health care and family planning,US,"Tanzania, United Republic of",14.642522,0.0,30.831675,0.0,37.391558,1.5e-05,US
+Reproductive health care and family planning,US,"Tanzania, United Republic of",14.642522,0.015,30.841675,0.0,37.391558,1.5e-05,US
 Reproductive health care and family planning,US,Thailand,0.004875,0.000263,,0.013523,0.005931,,US
 Reproductive health care and family planning,US,Timor-Leste,1.645487,2.068205,0.314981,1.794055,2.708189,,US
 Reproductive health care and family planning,US,Tunisia,,,,2.49,,,US
 Reproductive health care and family planning,US,Turkey,0.000122,0.015422,,,,,US
-Reproductive health care and family planning,US,Uganda,17.506494,0.0,34.888007,10.812026,14.844903,0.060292,US
+Reproductive health care and family planning,US,Uganda,17.506494,0.015,34.898006,10.812026,14.844903,0.060292,US
 Reproductive health care and family planning,US,Ukraine,-0.004714,,-0.076768,0.028262,-0.008961,,US
 Reproductive health care and family planning,US,United Arab Emirates (the),0.000673,,,,,,US
 Reproductive health care and family planning,US,Venezuela (Bolivarian Republic of),,,5.4,3.6,3.550722,,US
 Reproductive health care and family planning,US,Yemen,4.183611,4.801956,4.925434,3.344821,4.303107,,US
-Reproductive health care and family planning,US,Zambia,18.594303,22.493892,7.849052,23.889308,20.98296,,US
+Reproductive health care and family planning,US,Zambia,18.594303,22.493892,7.917302,23.912558,20.98296,,US
 Reproductive health care and family planning,US,Zimbabwe,6.265262,4.714704,3.724092,4.785337,2.476008,,US
 Reproductive health care and family planning,World Bank,Afghanistan,0.0,0.0,0.0,,,,World Bank
 Reproductive health care and family planning,World Bank,Angola,-3.521215,-0.050841,,,,,World Bank

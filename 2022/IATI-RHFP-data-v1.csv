@@ -381,7 +381,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2018.0,US,13020,130.0,10,Government,MW,Malawi,10.0,,23.462456,Reproductive health care,US
 2018.0,US,13020,130.0,10,Government,MY,Malaysia,10.0,,0.004343,Reproductive health care,US
 2018.0,US,13020,130.0,10,Government,MZ,Mozambique,10.0,,20.829336,Reproductive health care,US
-2018.0,US,13020,130.0,10,Government,NG,Nigeria,10.0,,0.0,Reproductive health care,US
+2018.0,US,13020,130.0,10,Government,NG,Nigeria,10.0,,0.05,Reproductive health care,US
 2018.0,US,13020,130.0,10,Government,NI,Nicaragua,10.0,,0.018672,Reproductive health care,US
 2018.0,US,13020,130.0,10,Government,NP,Nepal,10.0,,20.518397,Reproductive health care,US
 2018.0,US,13020,130.0,10,Government,PE,Peru,10.0,,0.110635,Reproductive health care,US
@@ -1424,7 +1424,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,US,13020,130.0,10,Government,CD,Congo (the Democratic Republic of the),10.0,,23.787144,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,EG,Egypt,10.0,,0.461574,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,ET,Ethiopia,10.0,,32.033511,Reproductive health care,US
-2020.0,US,13020,130.0,10,Government,GH,Ghana,10.0,,4.390879,Reproductive health care,US
+2020.0,US,13020,130.0,10,Government,GH,Ghana,10.0,,4.405879,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,GN,Guinea,10.0,,2.997423,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,GT,Guatemala,10.0,,1.164183,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,HT,Haiti,10.0,,17.008658,Reproductive health care,US
@@ -1444,15 +1444,15 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2020.0,US,13020,130.0,10,Government,NP,Nepal,10.0,,14.16868,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,PH,Philippines (the),10.0,,1.09404,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,PK,Pakistan,10.0,,3.00639,Reproductive health care,US
-2020.0,US,13020,130.0,10,Government,RW,Rwanda,10.0,,0.0,Reproductive health care,US
+2020.0,US,13020,130.0,10,Government,RW,Rwanda,10.0,,0.01,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,SL,Sierra Leone,10.0,,0.0012,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,SN,Senegal,10.0,,0.0,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,SS,South Sudan,10.0,,18.947587,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,TJ,Tajikistan,10.0,,0.852475,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,TL,Timor-Leste,10.0,,0.839222,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,TR,Turkey,10.0,,0.015422,Reproductive health care,US
-2020.0,US,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.0,Reproductive health care,US
-2020.0,US,13020,130.0,10,Government,UG,Uganda,10.0,,0.0,Reproductive health care,US
+2020.0,US,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.015,Reproductive health care,US
+2020.0,US,13020,130.0,10,Government,UG,Uganda,10.0,,0.015,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,YE,Yemen,10.0,,1.666496,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,ZM,Zambia,10.0,,13.110228,Reproductive health care,US
 2020.0,US,13020,130.0,10,Government,ZW,Zimbabwe,10.0,,2.967905,Reproductive health care,US
@@ -1989,7 +1989,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,US,13020,130.0,10,Government,CI,Côte d'Ivoire,10.0,,0.679797,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,CO,Colombia,10.0,,4.999999,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,ET,Ethiopia,10.0,,27.879044,Reproductive health care,US
-2021.0,US,13020,130.0,10,Government,GH,Ghana,10.0,,3.340454,Reproductive health care,US
+2021.0,US,13020,130.0,10,Government,GH,Ghana,10.0,,3.350454,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,GN,Guinea,10.0,,0.695008,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,GT,Guatemala,10.0,,1.776128,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,HT,Haiti,10.0,,17.713513,Reproductive health care,US
@@ -2017,9 +2017,9 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,US,13020,130.0,10,Government,SS,South Sudan,10.0,,12.525866,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,TJ,Tajikistan,10.0,,0.803619,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,TL,Timor-Leste,10.0,,0.207341,Reproductive health care,US
-2021.0,US,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,14.367349,Reproductive health care,US
+2021.0,US,13020,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,14.377349,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,UA,Ukraine,10.0,,-0.028262,Reproductive health care,US
-2021.0,US,13020,130.0,10,Government,UG,Uganda,10.0,,15.984828,Reproductive health care,US
+2021.0,US,13020,130.0,10,Government,UG,Uganda,10.0,,15.994827,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,VE,Venezuela (Bolivarian Republic of),10.0,,5.4,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,YE,Yemen,10.0,,3.460204,Reproductive health care,US
 2021.0,US,13020,130.0,10,Government,ZM,Zambia,10.0,,7.849052,Reproductive health care,US
@@ -2067,7 +2067,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2021.0,US,13030,130.0,10,Government,UA,Ukraine,10.0,,-0.048506,Family planning,US
 2021.0,US,13030,130.0,10,Government,UG,Uganda,10.0,,18.903179,Family planning,US
 2021.0,US,13030,130.0,10,Government,YE,Yemen,10.0,,1.46523,Family planning,US
-2021.0,US,13030,130.0,10,Government,ZM,Zambia,10.0,,0.0,Family planning,US
+2021.0,US,13030,130.0,10,Government,ZM,Zambia,10.0,,0.06825,Family planning,US
 2021.0,US,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,1.814272,Family planning,US
 2021.0,World Bank,13020,130.0,40,Multilateral,389,"North & Central America, regional",10.0,,0.28786484999999995,Reproductive health care,World Bank
 2021.0,World Bank,13020,130.0,40,Multilateral,AM,Armenia,10.0,,0.09213785000000001,Reproductive health care,World Bank
@@ -2587,7 +2587,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,US,13020,130.0,10,Government,KE,Kenya,10.0,,0.0,Reproductive health care,US
 2022.0,US,13020,130.0,10,Government,KH,Cambodia,10.0,,3.788568,Reproductive health care,US
 2022.0,US,13020,130.0,10,Government,LA,Lao People's Democratic Republic (the),10.0,,3.258985,Reproductive health care,US
-2022.0,US,13020,130.0,10,Government,LR,Liberia,10.0,,12.686665,Reproductive health care,US
+2022.0,US,13020,130.0,10,Government,LR,Liberia,10.0,,12.689665,Reproductive health care,US
 2022.0,US,13020,130.0,10,Government,MG,Madagascar,10.0,,17.842826,Reproductive health care,US
 2022.0,US,13020,130.0,10,Government,ML,Mali,10.0,,16.648541,Reproductive health care,US
 2022.0,US,13020,130.0,10,Government,MM,Myanmar,10.0,,4.303134,Reproductive health care,US
@@ -2657,7 +2657,7 @@ year,country,Sector Code - Calculated,DAC3 Sector Code - Calculated,Reporting Or
 2022.0,US,13030,130.0,10,Government,TZ,"Tanzania, United Republic of",10.0,,0.0,Family planning,US
 2022.0,US,13030,130.0,10,Government,UG,Uganda,10.0,,0.0,Family planning,US
 2022.0,US,13030,130.0,10,Government,YE,Yemen,10.0,,0.786683,Family planning,US
-2022.0,US,13030,130.0,10,Government,ZM,Zambia,10.0,,12.550048,Family planning,US
+2022.0,US,13030,130.0,10,Government,ZM,Zambia,10.0,,12.573298,Family planning,US
 2022.0,US,13030,130.0,10,Government,ZW,Zimbabwe,10.0,,2.346074,Family planning,US
 2022.0,World Bank,13020,130.0,40,Multilateral,389,"North & Central America, regional",10.0,,0.33417059000000005,Reproductive health care,World Bank
 2022.0,World Bank,13020,130.0,40,Multilateral,AM,Armenia,10.0,,0.09307425,Reproductive health care,World Bank

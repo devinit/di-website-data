@@ -451,7 +451,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2016.0,Project interventions,UNICEF,Family planning,13030,0.23996113799999988,UNICEF
 2016.0,Project interventions,UNICEF,Reproductive health care,13020,0.0,UNICEF
 2016.0,Project interventions,US,Family planning,13030,0.0,US
-2016.0,Project interventions,US,Reproductive health care,13020,0.0,US
+2016.0,Project interventions,US,Reproductive health care,13020,0.028,US
 2016.0,Project interventions,World Bank,Family planning,13030,20.53417527,World Bank
 2016.0,Project interventions,World Bank,Reproductive health care,13020,96.36314469999996,World Bank
 2016.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,4.540119141200001,Canada
@@ -518,7 +518,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2017.0,Project interventions,UNICEF,Family planning,13030,1.270312090999999,UNICEF
 2017.0,Project interventions,UNICEF,Reproductive health care,13020,0.0,UNICEF
 2017.0,Project interventions,US,Family planning,13030,0.0,US
-2017.0,Project interventions,US,Reproductive health care,13020,0.0,US
+2017.0,Project interventions,US,Reproductive health care,13020,0.022,US
 2017.0,Project interventions,World Bank,Family planning,13030,7.871541510000001,World Bank
 2017.0,Project interventions,World Bank,Reproductive health care,13020,117.20005102000006,World Bank
 2017.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,16.55870292995,Canada
@@ -590,7 +590,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2018.0,Project interventions,UNICEF,Family planning,13030,0.0,UNICEF
 2018.0,Project interventions,UNICEF,Reproductive health care,13020,0.0,UNICEF
 2018.0,Project interventions,US,Family planning,13030,0.0,US
-2018.0,Project interventions,US,Reproductive health care,13020,0.0,US
+2018.0,Project interventions,US,Reproductive health care,13020,0.05,US
 2018.0,Project interventions,World Bank,Family planning,13030,0.0,World Bank
 2018.0,Project interventions,World Bank,Reproductive health care,13020,119.67639839000005,World Bank
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,9.20357656503,Canada
@@ -732,7 +732,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2020.0,Project interventions,UNICEF,Family planning,13030,0.0,UNICEF
 2020.0,Project interventions,UNICEF,Reproductive health care,13020,0.0,UNICEF
 2020.0,Project interventions,US,Family planning,13030,0.0,US
-2020.0,Project interventions,US,Reproductive health care,13020,0.0,US
+2020.0,Project interventions,US,Reproductive health care,13020,0.055,US
 2020.0,Project interventions,World Bank,Family planning,13030,0.0,World Bank
 2020.0,Project interventions,World Bank,Reproductive health care,13020,141.49938376000011,World Bank
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,8.3323513268224,Canada
@@ -804,8 +804,8 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2021.0,Project interventions,UNDP,Reproductive health care,13020,5.082339,UNDP
 2021.0,Project interventions,UNICEF,Family planning,13030,0.0,UNICEF
 2021.0,Project interventions,UNICEF,Reproductive health care,13020,0.0,UNICEF
-2021.0,Project interventions,US,Family planning,13030,0.0,US
-2021.0,Project interventions,US,Reproductive health care,13020,0.0,US
+2021.0,Project interventions,US,Family planning,13030,0.06825,US
+2021.0,Project interventions,US,Reproductive health care,13020,0.029999,US
 2021.0,Project interventions,World Bank,Family planning,13030,0.0,World Bank
 2021.0,Project interventions,World Bank,Reproductive health care,13020,122.44472424999995,World Bank
 2021.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,14.609903465574993,Canada
@@ -879,8 +879,8 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2022.0,Project interventions,UNDP,Reproductive health care,13020,6.365745,UNDP
 2022.0,Project interventions,UNICEF,Family planning,13030,0.0,UNICEF
 2022.0,Project interventions,UNICEF,Reproductive health care,13020,0.0,UNICEF
-2022.0,Project interventions,US,Family planning,13030,0.0,US
-2022.0,Project interventions,US,Reproductive health care,13020,0.0,US
+2022.0,Project interventions,US,Family planning,13030,0.02325,US
+2022.0,Project interventions,US,Reproductive health care,13020,0.003,US
 2022.0,Project interventions,World Bank,Family planning,13030,11.98461507,World Bank
 2022.0,Project interventions,World Bank,Reproductive health care,13020,100.75434420999996,World Bank
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,9.447044469100002,Canada
