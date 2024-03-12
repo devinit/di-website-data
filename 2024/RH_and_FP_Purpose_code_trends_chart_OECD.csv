@@ -376,8 +376,8 @@ year,donor_name,purpose_code,purpose_name,usd_disbursement_deflated_Sum
 2018,Sweden,13020,Reproductive health care,103.87725420599996
 2018,Switzerland,13020,Reproductive health care,10.125886732
 2018,Switzerland,13030,Family planning,0.021615092
-2018,TÃ¼rkiye,13020,Reproductive health care,0.15478851600000001
-2018,TÃ¼rkiye,13030,Family planning,0.0021156120000000002
+2018,Türkiye,13020,Reproductive health care,0.15478851600000001
+2018,Türkiye,13030,Family planning,0.0021156120000000002
 2018,UNFPA,13020,Reproductive health care,20.005088166000004
 2018,UNFPA,13030,Family planning,21.706583178000013
 2018,UNICEF,13020,Reproductive health care,26.572329042
@@ -441,7 +441,7 @@ year,donor_name,purpose_code,purpose_name,usd_disbursement_deflated_Sum
 2019,Sweden,13020,Reproductive health care,117.06817075800001
 2019,Sweden,13030,Family planning,0.10095635
 2019,Switzerland,13020,Reproductive health care,11.519915224
-2019,TÃ¼rkiye,13020,Reproductive health care,0.047979864000000004
+2019,Türkiye,13020,Reproductive health care,0.047979864000000004
 2019,UNFPA,13020,Reproductive health care,34.424758536
 2019,UNFPA,13030,Family planning,26.272122324000005
 2019,UNICEF,13020,Reproductive health care,23.81278968600001
@@ -505,7 +505,7 @@ year,donor_name,purpose_code,purpose_name,usd_disbursement_deflated_Sum
 2020,Sweden,13030,Family planning,0.5635001460000001
 2020,Switzerland,13020,Reproductive health care,11.674342543999996
 2020,Switzerland,13030,Family planning,0.216215996
-2020,TÃ¼rkiye,13020,Reproductive health care,0.45770886
+2020,Türkiye,13020,Reproductive health care,0.45770886
 2020,UNFPA,13020,Reproductive health care,33.14266594799999
 2020,UNFPA,13030,Family planning,27.48829507199999
 2020,UNICEF,13020,Reproductive health care,19.526026547999994
@@ -571,7 +571,7 @@ year,donor_name,purpose_code,purpose_name,usd_disbursement_deflated_Sum
 2021,Sweden,13030,Family planning,12.331593779999997
 2021,Switzerland,13020,Reproductive health care,11.172171757999998
 2021,Switzerland,13030,Family planning,0.39829469999999995
-2021,TÃ¼rkiye,13020,Reproductive health care,0.016416
+2021,Türkiye,13020,Reproductive health care,0.016416
 2021,Thailand,13030,Family planning,0.018905586000000002
 2021,UNDP,13020,Reproductive health care,1.1592e-05
 2021,UNFPA,13020,Reproductive health care,32.942105027999986

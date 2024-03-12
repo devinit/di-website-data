@@ -88,7 +88,7 @@ Australia,Reproductive health care and family planning,Afghanistan,0.0,0.0179037
 Australia,Reproductive health care and family planning,Iran,0.0,0.014450816,0.0,0.0,0.0,47
 Australia,Reproductive health care and family planning,Eswatini,0.0,0.013267616,0.0,0.0,0.0,48
 Australia,Reproductive health care and family planning,Senegal,0.0,0.001106292,0.0,0.0,0.0,49
-Australia,Reproductive health care and family planning,TÃ¼rkiye,0.009345308,0.0,0.0,0.0,0.0,50
+Australia,Reproductive health care and family planning,Türkiye,0.009345308,0.0,0.0,0.0,0.0,50
 Australia,Reproductive health care,Unspecified,2.451124022,1.924054764,1.8498355860000002,2.389205194,2.9117073,1
 Australia,Reproductive health care,"Oceania, regional",0.813187724,0.5643578060000001,0.585391158,0.532761436,0.875935778,2
 Australia,Reproductive health care,"Asia, regional",0.0,0.37808169999999997,0.0,0.0,0.711095312,3
@@ -132,7 +132,7 @@ Australia,Reproductive health care,Jordan,0.0,0.031509602,0.0,0.0,0.0,40
 Australia,Reproductive health care,Afghanistan,0.0,0.017903788,0.0,0.0,0.0,41
 Australia,Reproductive health care,Iran,0.0,0.014450816,0.0,0.0,0.0,42
 Australia,Reproductive health care,Eswatini,0.0,0.013267616,0.0,0.0,0.0,43
-Australia,Reproductive health care,TÃ¼rkiye,0.009345308,0.0,0.0,0.0,0.0,44
+Australia,Reproductive health care,Türkiye,0.009345308,0.0,0.0,0.0,0.0,44
 Poland,Family planning,Jordan,0.0,0.0,0.0,0.0,0.0028999319999999996,1
 Poland,Family planning,Ukraine,0.0,0.0,0.0,0.007425642,0.0,2
 Poland,Reproductive health care and family planning,West Bank and Gaza Strip,0.0,0.0,0.0,0.0,0.068128116,1
@@ -951,7 +951,7 @@ DAC donors (total),Family planning,Serbia,0.0,0.0,0.00109018,0.0,0.0,111
 DAC donors (total),Family planning,Mongolia,0.0,0.050739559999999996,0.0,0.0,0.0,112
 DAC donors (total),Family planning,Armenia,0.10455782099999998,0.049291589999999996,0.0,0.0,0.0,113
 DAC donors (total),Family planning,Brazil,0.0,0.000887706,0.0,0.0,0.0,114
-DAC donors (total),Family planning,TÃ¼rkiye,0.0,0.00013896999999999998,0.0,0.0,0.0,115
+DAC donors (total),Family planning,Türkiye,0.0,0.00013896999999999998,0.0,0.0,0.0,115
 DAC donors (total),Family planning,"South America, regional",0.0033105800000000005,0.0,0.0,0.0,0.0,116
 DAC donors (total),Reproductive health care and family planning,Unspecified,727.7462687120001,570.974709676,492.864179553,457.61511289399994,513.9736786379999,1
 DAC donors (total),Reproductive health care and family planning,Mozambique,101.658092114,70.397180661,60.447801747,74.274362956,75.248647145,2
@@ -1066,7 +1066,7 @@ DAC donors (total),Reproductive health care and family planning,Mexico,0.0555898
 DAC donors (total),Reproductive health care and family planning,"South America, regional",0.22205127000000002,0.13721876,0.0,0.138392264,0.061440116,111
 DAC donors (total),Reproductive health care and family planning,Tuvalu,0.0,0.0,0.0,0.09273231400000001,0.057214622,112
 DAC donors (total),Reproductive health care and family planning,Grenada,0.0,0.0,0.0,0.0,0.052753686999999994,113
-DAC donors (total),Reproductive health care and family planning,TÃ¼rkiye,0.178095281,0.00013896999999999998,0.350342858,0.404504977,0.048709804,114
+DAC donors (total),Reproductive health care and family planning,Türkiye,0.178095281,0.00013896999999999998,0.350342858,0.404504977,0.048709804,114
 DAC donors (total),Reproductive health care and family planning,Dominica,0.001937894,0.0,0.0,0.0,0.048036407999999996,115
 DAC donors (total),Reproductive health care and family planning,Saint Lucia,0.0,0.0,0.0,0.0,0.048036407999999996,116
 DAC donors (total),Reproductive health care and family planning,Saint Vincent and the Grenadines,0.0,0.0,0.0,0.0,0.048036407999999996,117
@@ -1217,7 +1217,7 @@ DAC donors (total),Reproductive health care,Thailand,0.323568249,0.266289829,0.1
 DAC donors (total),Reproductive health care,Bosnia and Herzegovina,0.07733198,0.055982122,0.03761097,0.07390365800000001,0.06912846,108
 DAC donors (total),Reproductive health care,"South America, regional",0.21874069000000002,0.13721876,0.0,0.138392264,0.061440116,109
 DAC donors (total),Reproductive health care,Mexico,0.055589821,0.054920146999999996,0.025889024999999996,0.19335504,0.05848693099999999,110
-DAC donors (total),Reproductive health care,TÃ¼rkiye,0.178095281,0.0,0.350342858,0.404504977,0.048709804,111
+DAC donors (total),Reproductive health care,Türkiye,0.178095281,0.0,0.350342858,0.404504977,0.048709804,111
 DAC donors (total),Reproductive health care,Panama,0.021116549999999998,0.0,0.025276551999999997,0.08367534300000001,0.044475227,112
 DAC donors (total),Reproductive health care,Sao Tome and Principe,0.086678834,0.018155905,0.0015638970000000003,0.018325008,0.04305083,113
 DAC donors (total),Reproductive health care,Djibouti,0.0,0.577933326,0.0,0.0,0.042063868000000004,114
@@ -2242,7 +2242,7 @@ All donors (total),Family planning,Dominica,0.0,0.0,0.0,0.0,0.048036407999999996
 All donors (total),Family planning,Grenada,0.0,0.0,0.0,0.0,0.048036407999999996,106
 All donors (total),Family planning,Saint Lucia,0.0,0.0,0.0,0.0,0.048036407999999996,107
 All donors (total),Family planning,Saint Vincent and the Grenadines,0.0,0.0,0.0,0.0,0.048036407999999996,108
-All donors (total),Family planning,TÃ¼rkiye,0.10915027199999999,0.12584068599999998,0.132676236,0.259162344,0.047626697999999995,109
+All donors (total),Family planning,Türkiye,0.10915027199999999,0.12584068599999998,0.132676236,0.259162344,0.047626697999999995,109
 All donors (total),Family planning,Bhutan,0.014479806999999999,0.2564247,0.107716728,0.163522672,0.04549664,110
 All donors (total),Family planning,Kazakhstan,0.13665036,0.008523984,0.04711471799999999,0.05734176,0.042896196,111
 All donors (total),Family planning,Moldova,0.011989992,0.073192854,0.036771756,0.076894566,0.04229631,112
@@ -2412,7 +2412,7 @@ All donors (total),Reproductive health care and family planning,Bosnia and Herze
 All donors (total),Reproductive health care and family planning,"North of Sahara, regional",0.005404266,0.0,0.10611642299999999,0.37038177499999997,0.178795974,124
 All donors (total),Reproductive health care and family planning,"Far East Asia, regional",0.50795178,0.917149079,1.529488915,0.593728257,0.165144009,125
 All donors (total),Reproductive health care and family planning,Turkmenistan,0.302712522,0.446656189,0.39594909199999995,0.158706072,0.139523244,126
-All donors (total),Reproductive health care and family planning,TÃ¼rkiye,0.287245553,0.16076641599999997,0.510839894,0.673856689,0.121686274,127
+All donors (total),Reproductive health care and family planning,Türkiye,0.287245553,0.16076641599999997,0.510839894,0.673856689,0.121686274,127
 All donors (total),Reproductive health care and family planning,Costa Rica,0.3589592999999999,0.0015117899999999998,0.192719946,0.12542592,0.10088930800000001,128
 All donors (total),Reproductive health care and family planning,Saint Lucia,0.0,0.068780166,0.146371218,0.0,0.08810319,129
 All donors (total),Reproductive health care and family planning,Equatorial Guinea,0.351293475,0.988468617,0.121466779,0.0,0.08147147399999999,130
@@ -2575,7 +2575,7 @@ All donors (total),Reproductive health care,Cuba,0.164522358,0.118010424,0.05017
 All donors (total),Reproductive health care,Costa Rica,0.3589592999999999,0.0015117899999999998,0.192719946,0.006310392,0.09818933800000001,124
 All donors (total),Reproductive health care,Equatorial Guinea,0.351293475,0.988468617,0.121466779,0.0,0.08147147399999999,125
 All donors (total),Reproductive health care,Thailand,0.455378949,0.434937973,0.269836104,0.317001747,0.076260683,126
-All donors (total),Reproductive health care,TÃ¼rkiye,0.178095281,0.034925729999999995,0.37816365799999996,0.41469434499999996,0.074059576,127
+All donors (total),Reproductive health care,Türkiye,0.178095281,0.034925729999999995,0.37816365799999996,0.41469434499999996,0.074059576,127
 All donors (total),Reproductive health care,Azerbaijan,0.13245792,0.114119159,0.123381139,0.00515361,0.065605099,128
 All donors (total),Reproductive health care,Kosovo,0.226212084,0.373384737,0.40348435400000005,0.222676524,0.055346052,129
 All donors (total),Reproductive health care,Algeria,0.12217581599999999,0.251600358,0.27134046,0.040259922000000004,0.048867042,130
@@ -2719,7 +2719,7 @@ Japan,Reproductive health care and family planning,Uganda,0.004690623,0.01939723
 Japan,Reproductive health care and family planning,South Sudan,0.218905736,0.294924483,0.0,0.567954394,0.0,77
 Japan,Reproductive health care and family planning,Comoros,0.0,0.01096228,0.0,0.559179572,0.0,78
 Japan,Reproductive health care and family planning,Libya,0.0,0.0,0.0,0.558291594,0.0,79
-Japan,Reproductive health care and family planning,TÃ¼rkiye,0.168749973,0.0,0.182541121,0.303064559,0.0,80
+Japan,Reproductive health care and family planning,Türkiye,0.168749973,0.0,0.182541121,0.303064559,0.0,80
 Japan,Reproductive health care and family planning,Syrian Arab Republic,0.695102681,0.834538551,0.806134084,0.195092765,0.0,81
 Japan,Reproductive health care and family planning,Lebanon,0.0,0.0,0.0,0.114305926,0.0,82
 Japan,Reproductive health care and family planning,Tunisia,0.004103358,0.0,0.0,0.077798035,0.0,83
@@ -2828,7 +2828,7 @@ Japan,Reproductive health care,Uganda,0.004690623,0.019397237999999997,0.0039734
 Japan,Reproductive health care,South Sudan,0.218905736,0.294924483,0.0,0.567954394,0.0,77
 Japan,Reproductive health care,Comoros,0.0,0.01096228,0.0,0.559179572,0.0,78
 Japan,Reproductive health care,Libya,0.0,0.0,0.0,0.558291594,0.0,79
-Japan,Reproductive health care,TÃ¼rkiye,0.168749973,0.0,0.182541121,0.303064559,0.0,80
+Japan,Reproductive health care,Türkiye,0.168749973,0.0,0.182541121,0.303064559,0.0,80
 Japan,Reproductive health care,Syrian Arab Republic,0.695102681,0.834538551,0.806134084,0.195092765,0.0,81
 Japan,Reproductive health care,Lebanon,0.0,0.0,0.0,0.114305926,0.0,82
 Japan,Reproductive health care,Tunisia,0.004103358,0.0,0.0,0.077798035,0.0,83
@@ -3000,7 +3000,7 @@ World Health Organisation,Reproductive health care and family planning,Peru,0.10
 World Health Organisation,Reproductive health care and family planning,Liberia,0.182339262,0.630308238,0.0984837,0.0017291399999999999,0.000383502,64
 World Health Organisation,Reproductive health care and family planning,Haiti,0.197456196,0.312999456,0.214594968,0.00014973,0.00037577399999999994,65
 World Health Organisation,Reproductive health care and family planning,Kazakhstan,0.020432832,0.054505584,0.043718262,0.0034244699999999998,0.000296562,66
-World Health Organisation,Reproductive health care and family planning,TÃ¼rkiye,0.0,0.0,0.005706162,0.00041537999999999997,0.000276276,67
+World Health Organisation,Reproductive health care and family planning,Türkiye,0.0,0.0,0.005706162,0.00041537999999999997,0.000276276,67
 World Health Organisation,Reproductive health care and family planning,Philippines,0.02052267,0.25532346,0.02962722,0.0017967600000000001,0.000239568,68
 World Health Organisation,Reproductive health care and family planning,Djibouti,0.133842198,0.016332161999999997,0.004006002,0.0,0.000239568,69
 World Health Organisation,Reproductive health care and family planning,Tajikistan,0.022651734,0.12330023999999999,0.029150982,0.0,0.000194166,70
@@ -3150,7 +3150,7 @@ World Health Organisation,Reproductive health care,Peru,0.107106216,0.2506673399
 World Health Organisation,Reproductive health care,Liberia,0.182339262,0.630308238,0.0984837,0.0017291399999999999,0.000383502,64
 World Health Organisation,Reproductive health care,Haiti,0.197456196,0.312999456,0.214594968,0.00014973,0.00037577399999999994,65
 World Health Organisation,Reproductive health care,Kazakhstan,0.020432832,0.054505584,0.043718262,0.0034244699999999998,0.000296562,66
-World Health Organisation,Reproductive health care,TÃ¼rkiye,0.0,0.0,0.005706162,0.00041537999999999997,0.000276276,67
+World Health Organisation,Reproductive health care,Türkiye,0.0,0.0,0.005706162,0.00041537999999999997,0.000276276,67
 World Health Organisation,Reproductive health care,Philippines,0.02052267,0.25532346,0.02962722,0.0017967600000000001,0.000239568,68
 World Health Organisation,Reproductive health care,Djibouti,0.133842198,0.016332161999999997,0.004006002,0.0,0.000239568,69
 World Health Organisation,Reproductive health care,Tajikistan,0.022651734,0.12330023999999999,0.029150982,0.0,0.000194166,70
@@ -3375,7 +3375,7 @@ France,Reproductive health care and family planning,Unspecified,1.41903489,1.401
 France,Reproductive health care and family planning,West Bank and Gaza Strip,0.0,0.0,0.0,4.06373513,0.0,20
 France,Reproductive health care and family planning,Comoros,0.0,0.0,0.0,1.23884488,0.0,21
 France,Reproductive health care and family planning,"Central America, regional",0.0,0.0,0.0,0.029220100000000002,0.0,22
-France,Reproductive health care and family planning,TÃ¼rkiye,0.0,0.0,0.0,0.00807079,0.0,23
+France,Reproductive health care and family planning,Türkiye,0.0,0.0,0.0,0.00807079,0.0,23
 France,Reproductive health care and family planning,Madagascar,0.14417494,0.02241603,0.0033105800000000005,0.00722176,0.0,24
 France,Reproductive health care and family planning,Albania,0.0,0.0,0.0,0.00604786,0.0,25
 France,Reproductive health care and family planning,Dominican Republic,0.0,0.0,0.0,0.0032286800000000003,0.0,26
@@ -3403,7 +3403,7 @@ France,Reproductive health care,Ghana,0.0,0.0,0.033299630000000004,0.0,0.0135808
 France,Reproductive health care,West Bank and Gaza Strip,0.0,0.0,0.0,4.06373513,0.0,13
 France,Reproductive health care,Comoros,0.0,0.0,0.0,1.23884488,0.0,14
 France,Reproductive health care,"Central America, regional",0.0,0.0,0.0,0.029220100000000002,0.0,15
-France,Reproductive health care,TÃ¼rkiye,0.0,0.0,0.0,0.00807079,0.0,16
+France,Reproductive health care,Türkiye,0.0,0.0,0.0,0.00807079,0.0,16
 France,Reproductive health care,Albania,0.0,0.0,0.0,0.00604786,0.0,17
 France,Reproductive health care,Georgia,0.0,0.0,0.0,0.00268996,0.0,18
 France,Reproductive health care,Libya,0.0,0.0,0.54524561,0.0,0.0,19
@@ -3474,7 +3474,7 @@ United States,Family planning,Thailand,0.0,0.0,0.00029504399999999995,0.0,0.0,46
 United States,Family planning,Armenia,0.10455782099999998,0.049291589999999996,0.0,0.0,0.0,47
 United States,Family planning,CÃ´te d'Ivoire,0.0,0.010231398999999999,0.0,0.0,0.0,48
 United States,Family planning,South Africa,0.0,0.008619347000000001,0.0,0.0,0.0,49
-United States,Family planning,TÃ¼rkiye,0.0,0.00013896999999999998,0.0,0.0,0.0,50
+United States,Family planning,Türkiye,0.0,0.00013896999999999998,0.0,0.0,0.0,50
 United States,Family planning,Ukraine,0.0,1.7103999999999998e-05,0.0,0.0,0.0,51
 United States,Family planning,Cameroon,0.010965801999999998,0.0,0.0,0.0,0.0,52
 United States,Family planning,Indonesia,0.000207386,0.0,0.0,0.0,0.0,53
@@ -3535,7 +3535,7 @@ United States,Reproductive health care and family planning,Thailand,0.0018547149
 United States,Reproductive health care and family planning,Colombia,0.0,0.0,0.0,5.345,0.0,55
 United States,Reproductive health care and family planning,Azerbaijan,0.0,0.0,0.0,0.1069,0.0,56
 United States,Reproductive health care and family planning,Kyrgyzstan,0.14462073399999997,0.09970135399999999,0.059158459999999996,0.03569391,0.0,57
-United States,Reproductive health care and family planning,TÃ¼rkiye,0.0,0.00013896999999999998,0.017229072999999998,0.0,0.0,58
+United States,Reproductive health care and family planning,Türkiye,0.0,0.00013896999999999998,0.017229072999999998,0.0,0.0,58
 United States,Reproductive health care and family planning,Armenia,0.709026009,0.25775834899999994,0.0,0.0,0.0,59
 United States,Reproductive health care and family planning,South Africa,0.002694949,0.008700591,0.0,0.0,0.0,60
 United States,Reproductive health care and family planning,"Europe, regional",0.0,0.005492522,0.0,0.0,0.0,61
@@ -3601,7 +3601,7 @@ United States,Reproductive health care,Angola,0.691136294,0.0,0.0,0.0,0.00747017
 United States,Reproductive health care,Thailand,0.0018547149999999998,0.0055181779999999995,0.0,0.0,0.002966475,53
 United States,Reproductive health care,Colombia,0.0,0.0,0.0,5.345,0.0,54
 United States,Reproductive health care,Egypt,0.44330681699999996,0.279583053,0.515587252,0.0,0.0,55
-United States,Reproductive health care,TÃ¼rkiye,0.0,0.0,0.017229072999999998,0.0,0.0,56
+United States,Reproductive health care,Türkiye,0.0,0.0,0.017229072999999998,0.0,0.0,56
 United States,Reproductive health care,Armenia,0.604468188,0.20846675899999997,0.0,0.0,0.0,57
 United States,Reproductive health care,"Europe, regional",0.0,0.005492522,0.0,0.0,0.0,58
 United States,Reproductive health care,Mexico,0.0,0.0026329469999999996,0.0,0.0,0.0,59
@@ -3942,7 +3942,7 @@ UNFPA,Family planning,Indonesia,0.00034293,0.01863414,0.004139309999999999,0.023
 UNFPA,Family planning,Timor-Leste,0.0,0.06471137399999999,0.041188308,0.159236406,0.055547898,35
 UNFPA,Family planning,Tanzania,0.331842252,0.196309554,0.78111243,0.8999101439999999,0.05398684199999999,36
 UNFPA,Family planning,Benin,0.110023536,0.539094654,0.053000556,0.518836668,0.050397186000000004,37
-UNFPA,Family planning,TÃ¼rkiye,0.10915027199999999,0.125701716,0.132676236,0.259162344,0.047626697999999995,38
+UNFPA,Family planning,Türkiye,0.10915027199999999,0.125701716,0.132676236,0.259162344,0.047626697999999995,38
 UNFPA,Family planning,Kazakhstan,0.13665036,0.008523984,0.04711471799999999,0.05734176,0.042896196,39
 UNFPA,Family planning,Moldova,0.011989992,0.073192854,0.036771756,0.076894566,0.04229631,40
 UNFPA,Family planning,Sudan,0.041775636000000005,0.0256473,0.29067229799999994,0.074545254,0.041825868,41
@@ -4114,7 +4114,7 @@ UNFPA,Reproductive health care and family planning,Mongolia,0.002211173999999999
 UNFPA,Reproductive health care and family planning,Yemen,0.0,0.0,0.02166255,0.018512424,0.084932652,81
 UNFPA,Reproductive health care and family planning,Equatorial Guinea,0.0,0.0,0.0,0.0,0.08147147399999999,82
 UNFPA,Reproductive health care and family planning,Kazakhstan,0.185899938,0.034411818,0.10206659399999998,0.08178735599999999,0.07780164,83
-UNFPA,Reproductive health care and family planning,TÃ¼rkiye,0.10915027199999999,0.16062744599999998,0.154790874,0.268936332,0.072700194,84
+UNFPA,Reproductive health care and family planning,Türkiye,0.10915027199999999,0.16062744599999998,0.154790874,0.268936332,0.072700194,84
 UNFPA,Reproductive health care and family planning,Philippines,1.094314746,-0.000505218,0.180510624,0.003805074,0.07239010800000001,85
 UNFPA,Reproductive health care and family planning,Turkmenistan,0.15347808,0.290274306,0.30193972199999997,0.055942992000000004,0.07237078799999999,86
 UNFPA,Reproductive health care and family planning,Tunisia,0.028092245999999998,0.023676659999999995,0.05720169,0.043781052,0.071060892,87
@@ -4258,7 +4258,7 @@ UNFPA,Reproductive health care,Mauritius,0.00867951,0.004014696,0.00116113199999
 UNFPA,Reproductive health care,Brazil,0.0,0.07261905,0.16323371399999997,0.095294934,0.027683628000000002,96
 UNFPA,Reproductive health care,West Bank and Gaza Strip,0.037124346,0.060550812,0.12080216399999999,0.144381258,0.027053795999999998,97
 UNFPA,Reproductive health care,Guinea,0.21227849999999998,0.710912244,0.482429094,0.405088236,0.02703351,98
-UNFPA,Reproductive health care,TÃ¼rkiye,0.0,0.034925729999999995,0.022114638,0.009773987999999999,0.025073496,99
+UNFPA,Reproductive health care,Türkiye,0.0,0.034925729999999995,0.022114638,0.009773987999999999,0.025073496,99
 UNFPA,Reproductive health care,Paraguay,0.001650894,0.00065205,0.05256972,0.05079228,0.021362123999999996,100
 UNFPA,Reproductive health care,Democratic People's Republic of Korea,0.129372516,0.098475006,0.0,0.0,0.007030547999999999,101
 UNFPA,Reproductive health care,Afghanistan,1.128323742,1.246388262,1.517052768,1.890812658,0.007000602,102
@@ -4470,7 +4470,7 @@ Multilateral donors (total),Family planning,Angola,0.130494042,0.24965304,0.0501
 Multilateral donors (total),Family planning,Argentina,0.068299098,0.075726672,0.070616532,0.093728082,0.058948218,44
 Multilateral donors (total),Family planning,Indonesia,0.00034293,0.01863414,0.004139309999999999,0.023608074,0.056908026,45
 Multilateral donors (total),Family planning,Timor-Leste,0.0,0.06471137399999999,0.041188308,0.159236406,0.055547898,46
-Multilateral donors (total),Family planning,TÃ¼rkiye,0.10915027199999999,0.125701716,0.132676236,0.259162344,0.047626697999999995,47
+Multilateral donors (total),Family planning,Türkiye,0.10915027199999999,0.125701716,0.132676236,0.259162344,0.047626697999999995,47
 Multilateral donors (total),Family planning,Kazakhstan,0.13665036,0.008523984,0.04711471799999999,0.05734176,0.042896196,48
 Multilateral donors (total),Family planning,Moldova,0.011989992,0.073192854,0.036771756,0.076894566,0.04229631,49
 Multilateral donors (total),Family planning,Sudan,0.041775636000000005,0.0256473,0.29067229799999994,0.074545254,0.041825868,50
@@ -4658,7 +4658,7 @@ Multilateral donors (total),Reproductive health care and family planning,Ecuador
 Multilateral donors (total),Reproductive health care and family planning,Equatorial Guinea,0.05004363,0.610495578,0.092244306,0.0,0.08147147399999999,101
 Multilateral donors (total),Reproductive health care and family planning,Kazakhstan,0.206436132,0.141797208,0.152974794,0.11129382599999998,0.079098012,102
 Multilateral donors (total),Reproductive health care and family planning,Indonesia,5.094113094000001,0.6359487119999999,0.18125637600000002,0.05037207,0.076042554,103
-Multilateral donors (total),Reproductive health care and family planning,TÃ¼rkiye,0.10915027199999999,0.16062744599999998,0.160497036,0.26935171199999997,0.07297646999999999,104
+Multilateral donors (total),Reproductive health care and family planning,Türkiye,0.10915027199999999,0.16062744599999998,0.160497036,0.26935171199999997,0.07297646999999999,104
 Multilateral donors (total),Reproductive health care and family planning,Georgia,0.339179022,0.33327966000000003,0.35740067999999997,0.282286452,0.07258524,105
 Multilateral donors (total),Reproductive health care and family planning,Algeria,0.20522669999999998,0.236208252,0.12558,0.097407516,0.070260078,106
 Multilateral donors (total),Reproductive health care and family planning,Gabon,0.135642822,0.246216012,0.23184741,0.005796,0.066179694,107
@@ -4831,7 +4831,7 @@ Multilateral donors (total),Reproductive health care,Mauritius,0.00867951,0.0040
 Multilateral donors (total),Reproductive health care,Brazil,0.194729178,0.345087078,0.46162918199999997,0.095294934,0.027683628000000002,115
 Multilateral donors (total),Reproductive health care,Guinea,0.376587372,0.7948566779999999,0.786568398,0.526804236,0.02713494,116
 Multilateral donors (total),Reproductive health care,"Oceania, regional",0.0,0.0,0.25021331999999996,0.00185955,0.026079102,117
-Multilateral donors (total),Reproductive health care,TÃ¼rkiye,0.0,0.034925729999999995,0.0278208,0.010189367999999999,0.025349772,118
+Multilateral donors (total),Reproductive health care,Türkiye,0.0,0.034925729999999995,0.0278208,0.010189367999999999,0.025349772,118
 Multilateral donors (total),Reproductive health care,Indonesia,5.093770164,0.617314572,0.17711706600000002,0.026763995999999998,0.019134527999999998,119
 Multilateral donors (total),Reproductive health care,"Far East Asia, regional",0.50795178,0.900484914,1.381600248,0.0080178,0.016725324,120
 Multilateral donors (total),Reproductive health care,Afghanistan,4.5523155719999995,2.736738858,1.945153056,2.012528658,0.015001014,121
@@ -5270,7 +5270,7 @@ Sweden,Reproductive health care and family planning,Somalia,0.0,0.0,0.041991708,
 Sweden,Reproductive health care and family planning,Congo,0.0,0.0,0.0,0.103798552,0.074903884,63
 Sweden,Reproductive health care and family planning,Paraguay,0.161750248,0.132824912,0.168055228,0.060575614,0.073636574,64
 Sweden,Reproductive health care and family planning,Myanmar,9.86354138,1.6586490140000003,1.432427414,0.917567618,0.065586224,65
-Sweden,Reproductive health care and family planning,TÃ¼rkiye,0.0,0.0,0.150572664,0.093369628,0.048709804,66
+Sweden,Reproductive health care and family planning,Türkiye,0.0,0.0,0.150572664,0.093369628,0.048709804,66
 Sweden,Reproductive health care and family planning,Eswatini,0.0,0.0,0.0,0.0475354,0.047364922000000004,67
 Sweden,Reproductive health care and family planning,Djibouti,0.0,0.0,0.0,0.0,0.042063868000000004,68
 Sweden,Reproductive health care and family planning,Panama,0.0,0.0,0.0,0.06309941000000001,0.039589682,69
@@ -5357,7 +5357,7 @@ Sweden,Reproductive health care,Paraguay,0.161750248,0.132824912,0.168055228,0.0
 Sweden,Reproductive health care,Cameroon,0.0,0.0,0.0,0.182043444,0.06491603800000001,61
 Sweden,Reproductive health care,Gabon,0.0,0.0,0.0,0.0,0.063543194,62
 Sweden,Reproductive health care,Myanmar,9.86354138,1.6586490140000003,1.432427414,0.914732632,0.062601506,63
-Sweden,Reproductive health care,TÃ¼rkiye,0.0,0.0,0.150572664,0.093369628,0.048709804,64
+Sweden,Reproductive health care,Türkiye,0.0,0.0,0.150572664,0.093369628,0.048709804,64
 Sweden,Reproductive health care,Central African Republic,0.0,0.0,0.0,0.16311317,0.048516776000000005,65
 Sweden,Reproductive health care,Eswatini,0.0,0.0,0.0,0.0,0.047364922000000004,66
 Sweden,Reproductive health care,Djibouti,0.0,0.0,0.0,0.0,0.042063868000000004,67
@@ -5602,30 +5602,30 @@ Netherlands,Reproductive health care,Kenya,0.0,0.057521447999999996,0.0346730269
 Netherlands,Reproductive health care,Nigeria,0.148760808,0.15655134699999998,0.0,0.016228486,0.0,16
 Netherlands,Reproductive health care,Ghana,0.12962933699999998,0.0,0.053639822999999996,0.0,0.0,17
 Netherlands,Reproductive health care,Mozambique,0.0,1.162480347,0.0,0.0,0.0,18
-TÃ¼rkiye,Family planning,Uzbekistan,0.0021156120000000002,0.0,0.0,0.0,0.0,1
-TÃ¼rkiye,Reproductive health care and family planning,Lebanon,0.0,0.0,0.0,0.011286,0.0,1
-TÃ¼rkiye,Reproductive health care and family planning,Somalia,0.0,0.0,0.0,0.00513,0.0,2
-TÃ¼rkiye,Reproductive health care and family planning,Serbia,0.0,0.047979864,0.253502028,0.0,0.0,3
-TÃ¼rkiye,Reproductive health care and family planning,Mongolia,0.0,0.0,0.12802838400000002,0.0,0.0,4
-TÃ¼rkiye,Reproductive health care and family planning,Tajikistan,0.0,0.0,0.043998984,0.0,0.0,5
-TÃ¼rkiye,Reproductive health care and family planning,Colombia,0.0,0.0,0.023273784,0.0,0.0,6
-TÃ¼rkiye,Reproductive health care and family planning,Gambia,0.0,0.0,0.003666924,0.0,0.0,7
-TÃ¼rkiye,Reproductive health care and family planning,"Asia, regional",0.0,0.0,0.0026193780000000003,0.0,0.0,8
-TÃ¼rkiye,Reproductive health care and family planning,Paraguay,0.0,0.0,0.0026193780000000003,0.0,0.0,9
-TÃ¼rkiye,Reproductive health care and family planning,North Macedonia,0.11511617399999999,0.0,0.0,0.0,0.0,10
-TÃ¼rkiye,Reproductive health care and family planning,West Bank and Gaza Strip,0.039672342,0.0,0.0,0.0,0.0,11
-TÃ¼rkiye,Reproductive health care and family planning,Uzbekistan,0.0021156120000000002,0.0,0.0,0.0,0.0,12
-TÃ¼rkiye,Reproductive health care,Lebanon,0.0,0.0,0.0,0.011286,0.0,1
-TÃ¼rkiye,Reproductive health care,Somalia,0.0,0.0,0.0,0.00513,0.0,2
-TÃ¼rkiye,Reproductive health care,Serbia,0.0,0.047979864,0.253502028,0.0,0.0,3
-TÃ¼rkiye,Reproductive health care,Mongolia,0.0,0.0,0.12802838400000002,0.0,0.0,4
-TÃ¼rkiye,Reproductive health care,Tajikistan,0.0,0.0,0.043998984,0.0,0.0,5
-TÃ¼rkiye,Reproductive health care,Colombia,0.0,0.0,0.023273784,0.0,0.0,6
-TÃ¼rkiye,Reproductive health care,Gambia,0.0,0.0,0.003666924,0.0,0.0,7
-TÃ¼rkiye,Reproductive health care,"Asia, regional",0.0,0.0,0.0026193780000000003,0.0,0.0,8
-TÃ¼rkiye,Reproductive health care,Paraguay,0.0,0.0,0.0026193780000000003,0.0,0.0,9
-TÃ¼rkiye,Reproductive health care,North Macedonia,0.11511617399999999,0.0,0.0,0.0,0.0,10
-TÃ¼rkiye,Reproductive health care,West Bank and Gaza Strip,0.039672342,0.0,0.0,0.0,0.0,11
+Türkiye,Family planning,Uzbekistan,0.0021156120000000002,0.0,0.0,0.0,0.0,1
+Türkiye,Reproductive health care and family planning,Lebanon,0.0,0.0,0.0,0.011286,0.0,1
+Türkiye,Reproductive health care and family planning,Somalia,0.0,0.0,0.0,0.00513,0.0,2
+Türkiye,Reproductive health care and family planning,Serbia,0.0,0.047979864,0.253502028,0.0,0.0,3
+Türkiye,Reproductive health care and family planning,Mongolia,0.0,0.0,0.12802838400000002,0.0,0.0,4
+Türkiye,Reproductive health care and family planning,Tajikistan,0.0,0.0,0.043998984,0.0,0.0,5
+Türkiye,Reproductive health care and family planning,Colombia,0.0,0.0,0.023273784,0.0,0.0,6
+Türkiye,Reproductive health care and family planning,Gambia,0.0,0.0,0.003666924,0.0,0.0,7
+Türkiye,Reproductive health care and family planning,"Asia, regional",0.0,0.0,0.0026193780000000003,0.0,0.0,8
+Türkiye,Reproductive health care and family planning,Paraguay,0.0,0.0,0.0026193780000000003,0.0,0.0,9
+Türkiye,Reproductive health care and family planning,North Macedonia,0.11511617399999999,0.0,0.0,0.0,0.0,10
+Türkiye,Reproductive health care and family planning,West Bank and Gaza Strip,0.039672342,0.0,0.0,0.0,0.0,11
+Türkiye,Reproductive health care and family planning,Uzbekistan,0.0021156120000000002,0.0,0.0,0.0,0.0,12
+Türkiye,Reproductive health care,Lebanon,0.0,0.0,0.0,0.011286,0.0,1
+Türkiye,Reproductive health care,Somalia,0.0,0.0,0.0,0.00513,0.0,2
+Türkiye,Reproductive health care,Serbia,0.0,0.047979864,0.253502028,0.0,0.0,3
+Türkiye,Reproductive health care,Mongolia,0.0,0.0,0.12802838400000002,0.0,0.0,4
+Türkiye,Reproductive health care,Tajikistan,0.0,0.0,0.043998984,0.0,0.0,5
+Türkiye,Reproductive health care,Colombia,0.0,0.0,0.023273784,0.0,0.0,6
+Türkiye,Reproductive health care,Gambia,0.0,0.0,0.003666924,0.0,0.0,7
+Türkiye,Reproductive health care,"Asia, regional",0.0,0.0,0.0026193780000000003,0.0,0.0,8
+Türkiye,Reproductive health care,Paraguay,0.0,0.0,0.0026193780000000003,0.0,0.0,9
+Türkiye,Reproductive health care,North Macedonia,0.11511617399999999,0.0,0.0,0.0,0.0,10
+Türkiye,Reproductive health care,West Bank and Gaza Strip,0.039672342,0.0,0.0,0.0,0.0,11
 Ireland,Family planning,Uganda,0.011492341,0.0,0.0,0.0,0.043844785,1
 Ireland,Family planning,Kenya,0.0,0.022843231999999998,0.024418041999999997,0.021076993,0.020408406,2
 Ireland,Family planning,Ethiopia,0.0,0.007131909,0.014785296999999998,0.004349115999999999,0.019753964,3
