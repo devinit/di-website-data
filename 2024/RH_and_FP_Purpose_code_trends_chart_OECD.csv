@@ -1,0 +1,731 @@
+year,donor_name,purpose_code,purpose_name,usd_disbursement_deflated_Sum
+2012,African Development Fund,13020,Reproductive health care,9.083552058
+2012,Australia,13020,Reproductive health care,52.268065087999986
+2012,Australia,13030,Family planning,2.975584324
+2012,Austria,13020,Reproductive health care,0.283163424
+2012,Austria,13030,Family planning,0.00258912
+2012,Belgium,13020,Reproductive health care,3.5031642229999997
+2012,Belgium,13030,Family planning,0.235880593
+2012,Canada,13020,Reproductive health care,26.383687323000014
+2012,Canada,13030,Family planning,5.3152750630000005
+2012,Czechia,13020,Reproductive health care,0.010435077999999999
+2012,Denmark,13020,Reproductive health care,13.178348766
+2012,Denmark,13030,Family planning,0.0
+2012,EU Institutions,13020,Reproductive health care,29.177139240000006
+2012,EU Institutions,13030,Family planning,16.469294670000004
+2012,Finland,13020,Reproductive health care,7.462444645
+2012,Finland,13030,Family planning,0.0
+2012,France,13020,Reproductive health care,28.374172190000003
+2012,France,13030,Family planning,0.26983411
+2012,Germany,13020,Reproductive health care,66.63225813999998
+2012,Germany,13030,Family planning,12.042745140000001
+2012,Iceland,13020,Reproductive health care,0.26878554000000004
+2012,International Development Association,13020,Reproductive health care,44.159031377999995
+2012,Ireland,13020,Reproductive health care,1.3783519809999998
+2012,Islamic Development Bank,13020,Reproductive health care,
+2012,Italy,13020,Reproductive health care,2.151600138
+2012,Japan,13020,Reproductive health care,27.49256524000004
+2012,Japan,13030,Family planning,6.344163819
+2012,Korea,13020,Reproductive health care,4.085869565000001
+2012,Korea,13030,Family planning,0.40806450000000005
+2012,Luxembourg,13020,Reproductive health care,0.5567971789999999
+2012,Netherlands,13020,Reproductive health care,86.58045864900004
+2012,Netherlands,13030,Family planning,1.945632302
+2012,New Zealand,13020,Reproductive health care,5.3029159
+2012,New Zealand,13030,Family planning,0.146706399
+2012,Norway,13020,Reproductive health care,35.776166698999994
+2012,Norway,13030,Family planning,1.5810673319999997
+2012,Portugal,13020,Reproductive health care,0.225129528
+2012,Spain,13020,Reproductive health care,9.664532800000002
+2012,Spain,13030,Family planning,1.551844148
+2012,Sweden,13020,Reproductive health care,82.29809214000001
+2012,Switzerland,13020,Reproductive health care,10.197041422
+2012,UNDP,13020,Reproductive health care,3.6708e-05
+2012,UNFPA,13020,Reproductive health care,81.17070893400006
+2012,UNFPA,13030,Family planning,25.49756227200001
+2012,UNICEF,13020,Reproductive health care,16.727672346000013
+2012,United Kingdom,13020,Reproductive health care,294.60102336
+2012,United Kingdom,13030,Family planning,166.23008410000003
+2012,United States,13020,Reproductive health care,637.4302877419999
+2012,United States,13030,Family planning,613.9766949919997
+2012,World Health Organisation,13020,Reproductive health care,11.940449724000002
+2013,African Development Fund,13020,Reproductive health care,11.699083998
+2013,Asian Development Bank,13020,Reproductive health care,0.113689506
+2013,Australia,13020,Reproductive health care,58.898766202000004
+2013,Australia,13030,Family planning,5.071657633999999
+2013,Austria,13020,Reproductive health care,0.74377344
+2013,Belgium,13020,Reproductive health care,4.468909328
+2013,Belgium,13030,Family planning,0.4636206639999999
+2013,Canada,13020,Reproductive health care,29.176922676999997
+2013,Canada,13030,Family planning,9.269149343999999
+2013,Czechia,13020,Reproductive health care,0.21558394899999997
+2013,Czechia,13030,Family planning,0.012630661999999999
+2013,Denmark,13020,Reproductive health care,25.826438916
+2013,Denmark,13030,Family planning,0.716353551
+2013,Estonia,13020,Reproductive health care,0.016689152
+2013,EU Institutions,13020,Reproductive health care,40.16210115000001
+2013,EU Institutions,13030,Family planning,3.27332472
+2013,Finland,13020,Reproductive health care,5.380577887
+2013,Finland,13030,Family planning,2.1125812109999997
+2013,France,13020,Reproductive health care,27.99506073
+2013,France,13030,Family planning,6.066385780000001
+2013,Germany,13020,Reproductive health care,74.57350879999997
+2013,Germany,13030,Family planning,13.911503680000003
+2013,Iceland,13020,Reproductive health care,0.29463871199999997
+2013,International Development Association,13020,Reproductive health care,51.02916252
+2013,International Development Association,13030,Family planning,0.791379078
+2013,Ireland,13020,Reproductive health care,1.5822917619999997
+2013,Ireland,13030,Family planning,0.076772459
+2013,Italy,13020,Reproductive health care,3.5454041280000004
+2013,Japan,13020,Reproductive health care,32.97948626000004
+2013,Japan,13030,Family planning,0.074962503
+2013,Korea,13020,Reproductive health care,5.971486840000002
+2013,Korea,13030,Family planning,0.337732425
+2013,Luxembourg,13020,Reproductive health care,0.6900770269999998
+2013,Luxembourg,13030,Family planning,0.340183478
+2013,Netherlands,13020,Reproductive health care,114.45290217400003
+2013,Netherlands,13030,Family planning,7.948016290999999
+2013,New Zealand,13020,Reproductive health care,5.893964169
+2013,Norway,13020,Reproductive health care,91.69988644700001
+2013,Norway,13030,Family planning,17.997668208
+2013,OPEC Fund for International Development,13020,Reproductive health care,1.3539977639999998
+2013,Poland,13020,Reproductive health care,0.15575204399999998
+2013,Portugal,13020,Reproductive health care,0.418478112
+2013,Spain,13020,Reproductive health care,12.121599291999999
+2013,Spain,13030,Family planning,1.700656592
+2013,Sweden,13020,Reproductive health care,50.154755684
+2013,Switzerland,13020,Reproductive health care,12.103712019999998
+2013,UNDP,13020,Reproductive health care,0.0040794180000000005
+2013,UNFPA,13020,Reproductive health care,82.50078757200008
+2013,UNFPA,13030,Family planning,29.278176186
+2013,UNICEF,13020,Reproductive health care,17.604771366000005
+2013,United Kingdom,13020,Reproductive health care,329.86748840000007
+2013,United Kingdom,13030,Family planning,54.51720067999999
+2013,United States,13020,Reproductive health care,617.3899093679993
+2013,United States,13030,Family planning,730.1263660830006
+2013,World Health Organisation,13020,Reproductive health care,16.43738838000001
+2014,African Development Fund,13020,Reproductive health care,6.320153531999999
+2014,Asian Development Bank,13020,Reproductive health care,0.1504409759999999
+2014,Australia,13020,Reproductive health care,30.441058023999993
+2014,Australia,13030,Family planning,7.782259388000001
+2014,Austria,13020,Reproductive health care,0.20869142400000001
+2014,Belgium,13020,Reproductive health care,5.4136938699999995
+2014,Belgium,13030,Family planning,0.14936311
+2014,Canada,13020,Reproductive health care,30.227856778
+2014,Canada,13030,Family planning,6.588990835
+2014,Czechia,13020,Reproductive health care,0.22123031299999998
+2014,Denmark,13020,Reproductive health care,29.859121791
+2014,Denmark,13030,Family planning,0.7876665899999999
+2014,Estonia,13020,Reproductive health care,0.114809856
+2014,EU Institutions,13020,Reproductive health care,42.44606583000001
+2014,EU Institutions,13030,Family planning,6.734067690000002
+2014,Finland,13020,Reproductive health care,2.683127330000001
+2014,Finland,13030,Family planning,2.3582930629999996
+2014,France,13020,Reproductive health care,37.03627928
+2014,France,13030,Family planning,5.544953049999999
+2014,Germany,13020,Reproductive health care,92.41617895999995
+2014,Germany,13030,Family planning,13.009214600000004
+2014,Iceland,13020,Reproductive health care,0.121378536
+2014,International Development Association,13020,Reproductive health care,32.715252486000004
+2014,International Development Association,13030,Family planning,2.1440205779999997
+2014,Ireland,13020,Reproductive health care,1.0274343339999998
+2014,Islamic Development Bank,13020,Reproductive health care,
+2014,Italy,13020,Reproductive health care,2.2807930319999996
+2014,Japan,13020,Reproductive health care,38.363251892
+2014,Korea,13020,Reproductive health care,15.204740290000004
+2014,Luxembourg,13020,Reproductive health care,2.0550761279999996
+2014,Netherlands,13020,Reproductive health care,125.99048529499998
+2014,Netherlands,13030,Family planning,3.8329386009999995
+2014,New Zealand,13020,Reproductive health care,3.7228047319999997
+2014,Norway,13020,Reproductive health care,85.05310725599999
+2014,Norway,13030,Family planning,18.121346425000002
+2014,OPEC Fund for International Development,13020,Reproductive health care,0.492966222
+2014,Poland,13020,Reproductive health care,0.046928279999999996
+2014,Portugal,13020,Reproductive health care,0.35151947999999994
+2014,Slovak Republic,13020,Reproductive health care,0.089464212
+2014,Spain,13020,Reproductive health care,8.004394552
+2014,Spain,13030,Family planning,0.124620884
+2014,Sweden,13020,Reproductive health care,57.97180157999999
+2014,Switzerland,13020,Reproductive health care,11.125978644
+2014,UNDP,13020,Reproductive health care,
+2014,UNFPA,13020,Reproductive health care,68.53508020799994
+2014,UNFPA,13030,Family planning,33.44381934599997
+2014,UNICEF,13020,Reproductive health care,13.03001175
+2014,UNICEF,13030,Family planning,0.00144417
+2014,United Kingdom,13020,Reproductive health care,394.5707199
+2014,United Kingdom,13030,Family planning,242.78934571999994
+2014,United States,13020,Reproductive health care,651.9244632119992
+2014,United States,13030,Family planning,638.5020543140004
+2014,World Health Organisation,13020,Reproductive health care,26.179298417999995
+2015,African Development Fund,13020,Reproductive health care,6.872488182
+2015,Asian Development Bank,13020,Reproductive health care,6.229225883999999
+2015,Asian Development Bank,13030,Family planning,
+2015,Australia,13020,Reproductive health care,40.08388166400003
+2015,Austria,13020,Reproductive health care,0.1002472
+2015,Belgium,13020,Reproductive health care,2.346282926
+2015,Belgium,13030,Family planning,0.4538412189999999
+2015,Canada,13020,Reproductive health care,31.289938462999988
+2015,Canada,13030,Family planning,5.410534339000001
+2015,Czechia,13020,Reproductive health care,0.21905490899999996
+2015,Denmark,13020,Reproductive health care,33.401340098999995
+2015,Denmark,13030,Family planning,2.295169902
+2015,Estonia,13020,Reproductive health care,0.087769088
+2015,EU Institutions,13020,Reproductive health care,49.56913113
+2015,EU Institutions,13030,Family planning,1.4694744
+2015,Finland,13020,Reproductive health care,1.8449050029999998
+2015,Finland,13030,Family planning,0.4876234139999999
+2015,France,13020,Reproductive health care,23.25847251
+2015,France,13030,Family planning,8.931058499999999
+2015,Germany,13020,Reproductive health care,105.10627484
+2015,Germany,13030,Family planning,12.5892038
+2015,Iceland,13020,Reproductive health care,0.114476256
+2015,International Development Association,13020,Reproductive health care,55.187013924
+2015,International Development Association,13030,Family planning,4.064819808
+2015,Ireland,13020,Reproductive health care,9.004171376
+2015,Ireland,13030,Family planning,0.026519988999999997
+2015,Italy,13020,Reproductive health care,2.65572351
+2015,Japan,13020,Reproductive health care,38.220395723999964
+2015,Korea,13020,Reproductive health care,13.280703955000002
+2015,Luxembourg,13020,Reproductive health care,4.046060317999999
+2015,Luxembourg,13030,Family planning,0.323695123
+2015,Netherlands,13020,Reproductive health care,136.37355457499996
+2015,Netherlands,13030,Family planning,7.419450004
+2015,New Zealand,13020,Reproductive health care,3.4483584499999997
+2015,New Zealand,13030,Family planning,0.576241924
+2015,Norway,13020,Reproductive health care,88.330023782
+2015,Norway,13030,Family planning,3.377148073
+2015,OPEC Fund for International Development,13020,Reproductive health care,
+2015,Poland,13020,Reproductive health care,0.195326166
+2015,Portugal,13020,Reproductive health care,0.401627304
+2015,Saudi Arabia,13020,Reproductive health care,3.1140594239999997
+2015,Slovenia,13020,Reproductive health care,0.029878116000000003
+2015,Spain,13020,Reproductive health care,6.482637339999998
+2015,Spain,13030,Family planning,0.25800514
+2015,Sweden,13020,Reproductive health care,73.171454092
+2015,Sweden,13030,Family planning,1.083116188
+2015,Switzerland,13020,Reproductive health care,10.892603289999998
+2015,UNFPA,13020,Reproductive health care,38.05464360600001
+2015,UNFPA,13030,Family planning,23.56033428000001
+2015,UNICEF,13020,Reproductive health care,16.311733031999992
+2015,UNICEF,13030,Family planning,0.019534451999999904
+2015,United Arab Emirates,13020,Reproductive health care,1.1122533659999998
+2015,United Kingdom,13020,Reproductive health care,347.20384730000006
+2015,United Kingdom,13030,Family planning,156.01510222000005
+2015,United States,13020,Reproductive health care,794.6873350759995
+2015,United States,13030,Family planning,767.360211205001
+2015,World Health Organisation,13020,Reproductive health care,37.833942551999996
+2016,Asian Development Bank,13020,Reproductive health care,0.49254504599999993
+2016,Asian Development Bank,13030,Family planning,
+2016,Australia,13020,Reproductive health care,16.450211024
+2016,Austria,13020,Reproductive health care,0.940164224
+2016,Austria,13030,Family planning,0.020359392
+2016,Belgium,13020,Reproductive health care,7.487992447
+2016,Belgium,13030,Family planning,0.29544647599999996
+2016,Canada,13020,Reproductive health care,27.487036345999975
+2016,Canada,13030,Family planning,6.507198775000001
+2016,Czechia,13020,Reproductive health care,0.23336252899999996
+2016,Denmark,13020,Reproductive health care,13.941874872
+2016,EU Institutions,13020,Reproductive health care,38.92689096
+2016,EU Institutions,13030,Family planning,0.5259289500000001
+2016,Finland,13020,Reproductive health care,1.4416291669999999
+2016,Finland,13030,Family planning,0.14330205199999999
+2016,France,13020,Reproductive health care,8.40022274
+2016,France,13030,Family planning,9.00987087
+2016,Germany,13020,Reproductive health care,127.05234015999999
+2016,Germany,13030,Family planning,14.179982720000002
+2016,Iceland,13020,Reproductive health care,0.118520016
+2016,International Development Association,13020,Reproductive health care,128.7293532
+2016,International Development Association,13030,Family planning,22.635909954
+2016,Ireland,13020,Reproductive health care,1.3948261910000004
+2016,Ireland,13030,Family planning,0.35019908099999986
+2016,Islamic Development Bank,13020,Reproductive health care,
+2016,Italy,13020,Reproductive health care,1.9789610579999994
+2016,Italy,13030,Family planning,0.011396970000000001
+2016,Japan,13020,Reproductive health care,37.09956257000001
+2016,Korea,13020,Reproductive health care,11.357208810000001
+2016,Luxembourg,13020,Reproductive health care,1.778046303
+2016,Luxembourg,13030,Family planning,8.348798634999998
+2016,Netherlands,13020,Reproductive health care,191.199771555
+2016,Netherlands,13030,Family planning,22.270979172999997
+2016,New Zealand,13020,Reproductive health care,2.6640530499999997
+2016,New Zealand,13030,Family planning,0.37712949199999996
+2016,Norway,13020,Reproductive health care,5.873163166
+2016,Norway,13030,Family planning,7.454041673
+2016,Poland,13020,Reproductive health care,0.2452210319999999
+2016,Portugal,13020,Reproductive health care,0.7001130240000001
+2016,Saudi Arabia,13020,Reproductive health care,3.637235364
+2016,Slovak Republic,13030,Family planning,0.012518388
+2016,Slovenia,13020,Reproductive health care,0.03825843599999999
+2016,Spain,13020,Reproductive health care,9.049497424
+2016,Spain,13030,Family planning,0.9579463879999998
+2016,Sweden,13020,Reproductive health care,94.21762616200004
+2016,Sweden,13030,Family planning,
+2016,Switzerland,13020,Reproductive health care,9.050172564
+2016,Thailand,13020,Reproductive health care,0.023016882
+2016,UNFPA,13020,Reproductive health care,57.05714645399997
+2016,UNFPA,13030,Family planning,22.823721605999992
+2016,UNICEF,13020,Reproductive health care,17.690732808
+2016,UNICEF,13030,Family planning,0.0700707419999999
+2016,United Arab Emirates,13020,Reproductive health care,22.72280262
+2016,United Kingdom,13020,Reproductive health care,329.16455734
+2016,United Kingdom,13030,Family planning,124.75902497999996
+2016,United States,13020,Reproductive health care,724.4321686810002
+2016,United States,13030,Family planning,540.5848752109997
+2016,World Health Organisation,13020,Reproductive health care,29.517195498
+2017,Asian Development Bank,13020,Reproductive health care,0.46622830799999987
+2017,Australia,13020,Reproductive health care,14.49097085
+2017,Australia,13030,Family planning,9.442288002
+2017,Austria,13020,Reproductive health care,0.2727623999999999
+2017,Belgium,13020,Reproductive health care,7.298193395999999
+2017,Belgium,13030,Family planning,6.499375493
+2017,Canada,13020,Reproductive health care,54.65231553600001
+2017,Canada,13030,Family planning,30.552555193999996
+2017,Czechia,13020,Reproductive health care,0.37227660399999996
+2017,Denmark,13020,Reproductive health care,47.941802288999995
+2017,Denmark,13030,Family planning,4.11156702
+2017,EU Institutions,13020,Reproductive health care,12.30283515
+2017,EU Institutions,13030,Family planning,21.08342736
+2017,Finland,13020,Reproductive health care,7.507480439
+2017,Finland,13030,Family planning,0.38645177299999994
+2017,France,13020,Reproductive health care,17.43568918
+2017,France,13030,Family planning,9.61714663
+2017,Germany,13020,Reproductive health care,97.58610281999997
+2017,Germany,13030,Family planning,17.594143560000003
+2017,International Development Association,13020,Reproductive health care,127.11632543400002
+2017,International Development Association,13030,Family planning,8.518375403999999
+2017,Ireland,13020,Reproductive health care,2.027670662
+2017,Ireland,13030,Family planning,0.08377046199999999
+2017,Italy,13020,Reproductive health care,2.9150392320000003
+2017,Italy,13030,Family planning,0.0031000859999999997
+2017,Japan,13020,Reproductive health care,32.067052213000004
+2017,Japan,13030,Family planning,1.7571060429999998
+2017,Korea,13020,Reproductive health care,18.56882439
+2017,Korea,13030,Family planning,0.027552725
+2017,Luxembourg,13020,Reproductive health care,2.508027318
+2017,Luxembourg,13030,Family planning,0.017430412
+2017,Netherlands,13020,Reproductive health care,169.24247755500008
+2017,Netherlands,13030,Family planning,28.910024000999996
+2017,New Zealand,13020,Reproductive health care,2.576699876
+2017,New Zealand,13030,Family planning,0.365178352
+2017,Norway,13020,Reproductive health care,30.652882636999998
+2017,Norway,13030,Family planning,2.7158699750000004
+2017,OPEC Fund for International Development,13020,Reproductive health care,0.33838497
+2017,Poland,13020,Reproductive health care,0.175842912
+2017,Portugal,13020,Reproductive health care,0.540716904
+2017,Saudi Arabia,13020,Reproductive health care,2.1643481159999998
+2017,Slovak Republic,13020,Reproductive health care,0.0
+2017,Slovenia,13020,Reproductive health care,0.036489468
+2017,Spain,13020,Reproductive health care,7.472047412000003
+2017,Spain,13030,Family planning,0.36796635999999994
+2017,Sweden,13020,Reproductive health care,110.29825125000004
+2017,Sweden,13030,Family planning,0.370204252
+2017,Switzerland,13020,Reproductive health care,10.389019565999996
+2017,Switzerland,13030,Family planning,0.2237174839999999
+2017,UNFPA,13020,Reproductive health care,39.349870896000006
+2017,UNFPA,13030,Family planning,19.76065249199999
+2017,UNICEF,13020,Reproductive health care,23.67039066
+2017,United Kingdom,13020,Reproductive health care,258.560536
+2017,United Kingdom,13030,Family planning,204.20699966000006
+2017,United States,13020,Reproductive health care,800.1518653109999
+2017,United States,13030,Family planning,561.2473228579997
+2017,World Health Organisation,13020,Reproductive health care,33.27270693599998
+2018,Asian Development Bank,13020,Reproductive health care,0.7238518139999999
+2018,Australia,13020,Reproductive health care,17.303423446
+2018,Australia,13030,Family planning,6.631632884
+2018,Austria,13020,Reproductive health care,0.039218208000000004
+2018,Belgium,13020,Reproductive health care,8.556935608
+2018,Belgium,13030,Family planning,0.556782096
+2018,Canada,13020,Reproductive health care,78.46842681300004
+2018,Canada,13030,Family planning,48.54496124100002
+2018,Czechia,13020,Reproductive health care,0.31867650599999997
+2018,Denmark,13020,Reproductive health care,40.562163801
+2018,Denmark,13030,Family planning,4.9016189610000005
+2018,EU Institutions,13020,Reproductive health care,5.80733943
+2018,EU Institutions,13030,Family planning,3.9195789299999992
+2018,Finland,13020,Reproductive health care,5.1165699490000005
+2018,Finland,13030,Family planning,1.402273062
+2018,France,13020,Reproductive health care,16.80522025
+2018,France,13030,Family planning,6.81268861
+2018,Germany,13020,Reproductive health care,85.85674145999998
+2018,Germany,13030,Family planning,17.519579000000004
+2018,Iceland,13020,Reproductive health care,0.17857483200000002
+2018,International Development Association,13020,Reproductive health care,127.76084836199998
+2018,International Development Association,13030,Family planning,53.737619796
+2018,Ireland,13020,Reproductive health care,0.48397683299999994
+2018,Ireland,13030,Family planning,1.2072135119999998
+2018,Italy,13020,Reproductive health care,6.412992858000002
+2018,Italy,13030,Family planning,1.422677844
+2018,Japan,13020,Reproductive health care,28.710532025
+2018,Korea,13020,Reproductive health care,12.418340315
+2018,Korea,13030,Family planning,1.234442625
+2018,Luxembourg,13020,Reproductive health care,4.1366675299999995
+2018,Luxembourg,13030,Family planning,3.536935561
+2018,Netherlands,13020,Reproductive health care,184.66160474999995
+2018,Netherlands,13030,Family planning,26.439372041000006
+2018,New Zealand,13020,Reproductive health care,2.486518013
+2018,New Zealand,13030,Family planning,0.5775383669999999
+2018,Norway,13020,Reproductive health care,35.24195272
+2018,Norway,13030,Family planning,14.758198377000001
+2018,OPEC Fund for International Development,13020,Reproductive health care,0.25953522
+2018,Poland,13020,Reproductive health care,0.09897732599999999
+2018,Portugal,13020,Reproductive health care,1.009609848
+2018,Slovak Republic,13020,Reproductive health care,0.19326132000000001
+2018,Slovenia,13020,Reproductive health care,0.029778576
+2018,Spain,13020,Reproductive health care,10.963669036
+2018,Spain,13030,Family planning,0.39716386000000004
+2018,Sweden,13020,Reproductive health care,103.87725420599996
+2018,Switzerland,13020,Reproductive health care,10.125886732
+2018,Switzerland,13030,Family planning,0.021615092
+2018,TÃ¼rkiye,13020,Reproductive health care,0.15478851600000001
+2018,TÃ¼rkiye,13030,Family planning,0.0021156120000000002
+2018,UNFPA,13020,Reproductive health care,20.005088166000004
+2018,UNFPA,13030,Family planning,21.706583178000013
+2018,UNICEF,13020,Reproductive health care,26.572329042
+2018,UNICEF,13030,Family planning,0.124079802
+2018,United Arab Emirates,13030,Family planning,0.10381408799999998
+2018,United Kingdom,13020,Reproductive health care,228.7760588399999
+2018,United Kingdom,13030,Family planning,244.98213447999996
+2018,United States,13020,Reproductive health care,737.0336005450007
+2018,United States,13030,Family planning,702.8296926769991
+2018,World Health Organisation,13020,Reproductive health care,30.119017361999997
+2019,Asian Development Bank,13020,Reproductive health care,0.149241204
+2019,Australia,13020,Reproductive health care,10.122239517999999
+2019,Australia,13030,Family planning,8.89493771
+2019,Austria,13020,Reproductive health care,0.150341568
+2019,Austria,13030,Family planning,0.012619872
+2019,Belgium,13020,Reproductive health care,10.078339193
+2019,Belgium,13030,Family planning,2.2024249649999996
+2019,Canada,13020,Reproductive health care,86.23249795300002
+2019,Canada,13030,Family planning,46.317130971999994
+2019,Caribbean Development Bank,13020,Reproductive health care,
+2019,Czechia,13020,Reproductive health care,0.048852753
+2019,Denmark,13020,Reproductive health care,47.169172943999996
+2019,Denmark,13030,Family planning,9.628703801999999
+2019,EU Institutions,13020,Reproductive health care,8.85536328
+2019,EU Institutions,13030,Family planning,2.10420312
+2019,Finland,13020,Reproductive health care,5.745556606999998
+2019,Finland,13030,Family planning,1.1908958399999998
+2019,France,13020,Reproductive health care,16.20807097
+2019,France,13030,Family planning,8.50008978
+2019,Germany,13020,Reproductive health care,84.74327574
+2019,Germany,13030,Family planning,21.224537299999998
+2019,Hungary,13020,Reproductive health care,0.023361800000000002
+2019,Iceland,13020,Reproductive health care,1.012597344
+2019,Iceland,13030,Family planning,0.242068836
+2019,Inter-American Development Bank,13020,Reproductive health care,
+2019,International Development Association,13020,Reproductive health care,128.66697857999995
+2019,International Development Association,13030,Family planning,23.591966916
+2019,Ireland,13020,Reproductive health care,2.967807714
+2019,Ireland,13030,Family planning,0.029975140999999903
+2019,Italy,13020,Reproductive health care,7.323653448
+2019,Italy,13030,Family planning,0.07255321199999999
+2019,Japan,13020,Reproductive health care,22.768824659000007
+2019,Korea,13020,Reproductive health care,6.699832650000001
+2019,Korea,13030,Family planning,2.601311185
+2019,Luxembourg,13020,Reproductive health care,2.7969606320000002
+2019,Luxembourg,13030,Family planning,3.168466798
+2019,Netherlands,13020,Reproductive health care,181.001335885
+2019,Netherlands,13030,Family planning,30.733313129
+2019,New Zealand,13020,Reproductive health care,2.258158433
+2019,New Zealand,13030,Family planning,0.87657161
+2019,Norway,13020,Reproductive health care,29.953428439999996
+2019,Norway,13030,Family planning,19.381804013
+2019,OPEC Fund for International Development,13020,Reproductive health care,0.158639418
+2019,Poland,13020,Reproductive health care,0.072472218
+2019,Portugal,13020,Reproductive health care,0.6755046480000001
+2019,Qatar,13020,Reproductive health care,0.253822296
+2019,Slovak Republic,13020,Reproductive health care,0.047078945999999997
+2019,Slovenia,13020,Reproductive health care,0.029120663999999997
+2019,Spain,13020,Reproductive health care,10.600739759999998
+2019,Spain,13030,Family planning,0.515967228
+2019,Sweden,13020,Reproductive health care,117.06817075800001
+2019,Sweden,13030,Family planning,0.10095635
+2019,Switzerland,13020,Reproductive health care,11.519915224
+2019,TÃ¼rkiye,13020,Reproductive health care,0.047979864000000004
+2019,UNFPA,13020,Reproductive health care,34.424758536
+2019,UNFPA,13030,Family planning,26.272122324000005
+2019,UNICEF,13020,Reproductive health care,23.81278968600001
+2019,UNICEF,13030,Family planning,0.139602456
+2019,United Kingdom,13020,Reproductive health care,206.9402245
+2019,United Kingdom,13030,Family planning,346.91132399999987
+2019,United States,13020,Reproductive health care,633.1784011749999
+2019,United States,13030,Family planning,473.41231142400005
+2019,World Health Organisation,13020,Reproductive health care,47.88157709999998
+2020,Asian Development Bank,13020,Reproductive health care,0.366971808
+2020,Australia,13020,Reproductive health care,8.939577874
+2020,Australia,13030,Family planning,8.839976098000003
+2020,Austria,13020,Reproductive health care,0.12698009600000001
+2020,Austria,13030,Family planning,0.0026847040000000004
+2020,Azerbaijan,13020,Reproductive health care,0.00131376
+2020,Belgium,13020,Reproductive health care,19.93214119
+2020,Belgium,13030,Family planning,2.656764409
+2020,Canada,13020,Reproductive health care,95.677853803
+2020,Canada,13030,Family planning,44.80713502299998
+2020,Czechia,13020,Reproductive health care,0.013054441999999998
+2020,Denmark,13020,Reproductive health care,2.256199218
+2020,Denmark,13030,Family planning,17.155582101
+2020,Estonia,13020,Reproductive health care,0.0076840960000000005
+2020,EU Institutions,13020,Reproductive health care,20.456726400000008
+2020,EU Institutions,13030,Family planning,4.22706855
+2020,Finland,13020,Reproductive health care,11.122669912
+2020,Finland,13030,Family planning,0.976622665
+2020,France,13020,Reproductive health care,14.673661730000001
+2020,France,13030,Family planning,25.32493327
+2020,Germany,13020,Reproductive health care,110.60733626
+2020,Germany,13030,Family planning,22.66101992
+2020,Iceland,13020,Reproductive health care,0.7456842840000001
+2020,Iceland,13030,Family planning,0.16154821199999989
+2020,International Development Association,13020,Reproductive health care,148.34943144
+2020,International Development Association,13030,Family planning,12.145441685999998
+2020,Ireland,13020,Reproductive health care,3.890562447
+2020,Ireland,13030,Family planning,0.039203339
+2020,Islamic Development Bank,13020,Reproductive health care,0.14380069199999998
+2020,Islamic Development Bank,13030,Family planning,0.258840666
+2020,Italy,13020,Reproductive health care,4.1103413280000005
+2020,Italy,13030,Family planning,0.25296867
+2020,Japan,13020,Reproductive health care,17.606816955
+2020,Korea,13020,Reproductive health care,12.041657595
+2020,Korea,13030,Family planning,1.69937823
+2020,Luxembourg,13020,Reproductive health care,3.1574365269999998
+2020,Luxembourg,13030,Family planning,0.011111369
+2020,Netherlands,13020,Reproductive health care,148.27952413999998
+2020,Netherlands,13030,Family planning,39.19809274399999
+2020,New Zealand,13020,Reproductive health care,2.175254265
+2020,New Zealand,13030,Family planning,1.588254421
+2020,Norway,13020,Reproductive health care,34.670715014
+2020,Norway,13030,Family planning,14.904198946000001
+2020,Poland,13020,Reproductive health care,0.039426324
+2020,Portugal,13020,Reproductive health care,0.325341432
+2020,Qatar,13020,Reproductive health care,2.3624341440000003
+2020,Saudi Arabia,13020,Reproductive health care,5.317729535999999
+2020,Slovak Republic,13020,Reproductive health care,0.18481651200000002
+2020,Spain,13020,Reproductive health care,9.13611072
+2020,Spain,13030,Family planning,0.9375360760000001
+2020,Sweden,13020,Reproductive health care,117.72882081400003
+2020,Sweden,13030,Family planning,0.5635001460000001
+2020,Switzerland,13020,Reproductive health care,11.674342543999996
+2020,Switzerland,13030,Family planning,0.216215996
+2020,TÃ¼rkiye,13020,Reproductive health care,0.45770886
+2020,UNFPA,13020,Reproductive health care,33.14266594799999
+2020,UNFPA,13030,Family planning,27.48829507199999
+2020,UNICEF,13020,Reproductive health care,19.526026547999994
+2020,UNICEF,13030,Family planning,0.031840325999999995
+2020,United Kingdom,13020,Reproductive health care,141.59989202000003
+2020,United Kingdom,13030,Family planning,212.92918446
+2020,United States,13020,Reproductive health care,552.1159718939998
+2020,United States,13030,Family planning,453.33099569499984
+2020,World Health Organisation,13020,Reproductive health care,15.379667646
+2021,Asian Development Bank,13020,Reproductive health care,0.070760466
+2021,Australia,13020,Reproductive health care,27.71914783600001
+2021,Australia,13030,Family planning,24.172422026
+2021,Austria,13020,Reproductive health care,0.268073216
+2021,Austria,13030,Family planning,0.036216128
+2021,Belgium,13020,Reproductive health care,25.358939801
+2021,Belgium,13030,Family planning,2.500439435
+2021,Canada,13020,Reproductive health care,94.1312767150001
+2021,Canada,13030,Family planning,58.175790652
+2021,Croatia,13030,Family planning,0.0
+2021,Czechia,13020,Reproductive health care,0.5994408459999999
+2021,Denmark,13020,Reproductive health care,21.570674202
+2021,Denmark,13030,Family planning,22.665669723
+2021,Estonia,13020,Reproductive health care,0.174381056
+2021,EU Institutions,13020,Reproductive health care,7.855431930000001
+2021,EU Institutions,13030,Family planning,1.53880218
+2021,Finland,13020,Reproductive health care,8.208308609
+2021,Finland,13030,Family planning,1.06819268
+2021,France,13020,Reproductive health care,18.10210948
+2021,France,13030,Family planning,20.01308126999999
+2021,Germany,13020,Reproductive health care,113.88462088000003
+2021,Germany,13030,Family planning,17.37727146
+2021,Iceland,13020,Reproductive health care,2.674549836
+2021,Iceland,13030,Family planning,0.080453892
+2021,Inter-American Development Bank,13020,Reproductive health care,0.220430574
+2021,Inter-American Development Bank,13030,Family planning,0.199195962
+2021,International Development Association,13020,Reproductive health care,120.02581684799999
+2021,International Development Association,13030,Family planning,29.758046345999997
+2021,Ireland,13020,Reproductive health care,2.0035902140000004
+2021,Ireland,13030,Family planning,0.025426109
+2021,Italy,13020,Reproductive health care,3.2454182520000003
+2021,Italy,13030,Family planning,0.140664222
+2021,Japan,13020,Reproductive health care,23.863304192
+2021,Korea,13020,Reproductive health care,17.832231315
+2021,Korea,13030,Family planning,1.2659275749999999
+2021,Luxembourg,13020,Reproductive health care,0.5956167169999999
+2021,Luxembourg,13030,Family planning,0.001513515
+2021,Monaco,13020,Reproductive health care,0.7401075500000001
+2021,Netherlands,13020,Reproductive health care,149.705540006
+2021,Netherlands,13030,Family planning,31.865214739999992
+2021,New Zealand,13020,Reproductive health care,2.129175139
+2021,New Zealand,13030,Family planning,0.523523381
+2021,Norway,13020,Reproductive health care,24.194232491000005
+2021,Norway,13030,Family planning,16.616275221000002
+2021,Poland,13020,Reproductive health care,0.0625485
+2021,Poland,13030,Family planning,0.007425642
+2021,Portugal,13020,Reproductive health care,0.093594384
+2021,Qatar,13020,Reproductive health care,0.034870668
+2021,Slovak Republic,13020,Reproductive health care,0.15794710199999998
+2021,Slovenia,13020,Reproductive health care,0.089687436
+2021,Spain,13020,Reproductive health care,9.219495116000001
+2021,Spain,13030,Family planning,1.3860005160000002
+2021,Sweden,13020,Reproductive health care,114.37066669599999
+2021,Sweden,13030,Family planning,12.331593779999997
+2021,Switzerland,13020,Reproductive health care,11.172171757999998
+2021,Switzerland,13030,Family planning,0.39829469999999995
+2021,TÃ¼rkiye,13020,Reproductive health care,0.016416
+2021,Thailand,13030,Family planning,0.018905586000000002
+2021,UNDP,13020,Reproductive health care,1.1592e-05
+2021,UNFPA,13020,Reproductive health care,32.942105027999986
+2021,UNFPA,13030,Family planning,26.497997274000003
+2021,UNICEF,13020,Reproductive health care,14.238839999999996
+2021,UNICEF,13030,Family planning,0.017387999999999997
+2021,United Kingdom,13020,Reproductive health care,71.34888015999996
+2021,United Kingdom,13030,Family planning,166.74244143999996
+2021,United States,13020,Reproductive health care,527.0066306999994
+2021,United States,13030,Family planning,448.96341981000035
+2021,WHO-Strategic Preparedness and Response Plan,13020,Reproductive health care,1.398677196
+2021,World Health Organisation,13020,Reproductive health care,1.2213418139999999
+2022,Asian Development Bank,13020,Reproductive health care,0.123379452
+2022,Australia,13020,Reproductive health care,7.155970921999999
+2022,Australia,13030,Family planning,10.882122110000001
+2022,Austria,13020,Reproductive health care,0.29229030400000006
+2022,Austria,13030,Family planning,0.16357392
+2022,Belgium,13020,Reproductive health care,24.940289399999997
+2022,Belgium,13030,Family planning,2.309292804
+2022,Bulgaria,13020,Reproductive health care,0.010633728
+2022,Canada,13020,Reproductive health care,81.94427437700001
+2022,Canada,13030,Family planning,40.63232935300001
+2022,COVID-19 Response and Recovery Multi-Partner Trust Fund,13020,Reproductive health care,0.0
+2022,Czechia,13020,Reproductive health care,0.759859738
+2022,Czechia,13030,Family planning,0.21403816099999998
+2022,Denmark,13020,Reproductive health care,18.521569674000002
+2022,Denmark,13030,Family planning,14.150693718
+2022,Estonia,13020,Reproductive health care,0.072557568
+2022,EU Institutions,13020,Reproductive health care,34.93929183
+2022,EU Institutions,13030,Family planning,24.39883365
+2022,Finland,13020,Reproductive health care,11.337577726
+2022,Finland,13030,Family planning,1.521038254
+2022,France,13020,Reproductive health care,13.29217981
+2022,France,13030,Family planning,12.182793349999999
+2022,Germany,13020,Reproductive health care,122.79910524
+2022,Germany,13030,Family planning,14.7652991
+2022,Iceland,13020,Reproductive health care,2.296587756
+2022,Iceland,13030,Family planning,0.0094371
+2022,Inter-American Development Bank,13020,Reproductive health care,0.60293856
+2022,International Development Association,13020,Reproductive health care,106.120175364
+2022,International Development Association,13030,Family planning,11.950776264
+2022,Ireland,13020,Reproductive health care,1.84298034
+2022,Ireland,13030,Family planning,0.084007155
+2022,Islamic Development Bank,13020,Reproductive health care,
+2022,Italy,13020,Reproductive health care,10.477502117999997
+2022,Italy,13030,Family planning,0.16705580399999992
+2022,Japan,13020,Reproductive health care,51.376922674
+2022,Joint Sustainable Development Goals Fund,13020,Reproductive health care,0.6239007599999999
+2022,Korea,13020,Reproductive health care,17.085407215
+2022,Korea,13030,Family planning,2.824350245
+2022,Luxembourg,13020,Reproductive health care,3.3977534759999997
+2022,Luxembourg,13030,Family planning,0.025857059999999998
+2022,Monaco,13020,Reproductive health care,0.37118172
+2022,Netherlands,13020,Reproductive health care,194.51811866
+2022,Netherlands,13030,Family planning,40.556316147
+2022,New Zealand,13020,Reproductive health care,1.083886956
+2022,New Zealand,13030,Family planning,1.1333999039999998
+2022,Norway,13020,Reproductive health care,26.99572759
+2022,Norway,13030,Family planning,24.280740237
+2022,Poland,13020,Reproductive health care,0.163762116
+2022,Poland,13030,Family planning,0.0028999319999999996
+2022,Portugal,13020,Reproductive health care,0.081397368
+2022,Portugal,13030,Family planning,0.084108024
+2022,Slovak Republic,13020,Reproductive health care,0.140855238
+2022,Slovenia,13020,Reproductive health care,0.052571339999999994
+2022,Spain,13020,Reproductive health care,11.251166628
+2022,Spain,13030,Family planning,1.2722763680000002
+2022,Sweden,13020,Reproductive health care,80.67035917600006
+2022,Sweden,13030,Family planning,14.956063804
+2022,Switzerland,13020,Reproductive health care,14.46471662800001
+2022,Switzerland,13030,Family planning,0.499464216
+2022,UNDP,13020,Reproductive health care,0.017493294
+2022,UNFPA,13020,Reproductive health care,43.391683482000026
+2022,UNFPA,13030,Family planning,8.976162803999992
+2022,UNICEF,13020,Reproductive health care,9.048299819999995
+2022,UNICEF,13030,Family planning,1.667241618
+2022,United Kingdom,13020,Reproductive health care,112.99016952000001
+2022,United Kingdom,13030,Family planning,138.29716911999998
+2022,United States,13020,Reproductive health care,386.79646241999995
+2022,United States,13030,Family planning,373.2375550500004
+2022,WHO-Strategic Preparedness and Response Plan,13020,Reproductive health care,0.005127527999999903
+2022,World Health Organisation,13020,Reproductive health care,2.038413594
+2012,DAC donors (total),13020,Reproductive health care,1396.094921682
+2012,Multilateral donors (total),13020,Reproductive health care,192.25859038800007
+2012,DAC donors (total),13030,Family planning,813.0261659419997
+2012,Multilateral donors (total),13030,Family planning,41.966856942000014
+2013,DAC donors (total),13020,Reproductive health care,1506.4024795709993
+2013,Multilateral donors (total),13020,Reproductive health care,220.9050616740001
+2013,DAC donors (total),13030,Family planning,850.7308105830006
+2013,Multilateral donors (total),13030,Family planning,33.342879984
+2014,DAC donors (total),13020,Reproductive health care,1626.305158667999
+2014,Multilateral donors (total),13020,Reproductive health care,189.86926942199995
+2014,DAC donors (total),13030,Family planning,939.5910465800002
+2014,Multilateral donors (total),13030,Family planning,42.32335178399997
+2015,DAC donors (total),13020,Reproductive health care,1766.0572884229996
+2015,Multilateral donors (total),13020,Reproductive health care,210.05817831000002
+2015,Non-DAC donors (total),13020,Reproductive health care,4.22631279
+2015,DAC donors (total),13030,Family planning,966.606921040001
+2015,Multilateral donors (total),13030,Family planning,29.114162940000007
+2016,DAC donors (total),13020,Reproductive health care,1623.5631983620003
+2016,Multilateral donors (total),13020,Reproductive health care,272.41386396599995
+2016,Non-DAC donors (total),13020,Reproductive health care,26.383054866
+2016,DAC donors (total),13030,Family planning,735.2830702759996
+2016,Multilateral donors (total),13030,Family planning,46.05563125199999
+2017,DAC donors (total),13020,Reproductive health care,1695.368759616
+2017,Multilateral donors (total),13020,Reproductive health care,236.516742354
+2017,Non-DAC donors (total),13020,Reproductive health care,2.1643481159999998
+2017,DAC donors (total),13030,Family planning,878.4997703419998
+2017,Multilateral donors (total),13030,Family planning,49.36245525599999
+2018,DAC donors (total),13020,Reproductive health care,1619.5479558400007
+2018,Multilateral donors (total),13020,Reproductive health care,211.248009396
+2018,DAC donors (total),13030,Family planning,1083.776520289999
+2018,Multilateral donors (total),13030,Family planning,79.487861706
+2018,Non-DAC donors (total),13030,Family planning,0.10381408799999998
+2019,DAC donors (total),13020,Reproductive health care,1497.387083391
+2019,Multilateral donors (total),13020,Reproductive health care,243.94934780399993
+2019,Non-DAC donors (total),13020,Reproductive health care,0.253822296
+2019,DAC donors (total),13030,Family planning,976.017963167
+2019,Multilateral donors (total),13030,Family planning,52.107894816000005
+2020,DAC donors (total),13020,Reproductive health care,1322.826818994
+2020,Multilateral donors (total),13020,Reproductive health care,237.36529048199998
+2020,Non-DAC donors (total),13020,Reproductive health care,7.681477439999999
+2020,DAC donors (total),13030,Family planning,848.2569064939998
+2020,Multilateral donors (total),13030,Family planning,44.15148629999999
+2021,DAC donors (total),13020,Reproductive health care,1269.1828118089995
+2021,Multilateral donors (total),13020,Reproductive health care,177.97341544799997
+2021,Non-DAC donors (total),13020,Reproductive health care,0.7749782180000001
+2021,DAC donors (total),13030,Family planning,826.3572579170003
+2021,Multilateral donors (total),13030,Family planning,58.011429762
+2021,Non-DAC donors (total),13030,Family planning,0.018905586000000002
+2022,DAC donors (total),13020,Reproductive health care,1196.04216224
+2022,Multilateral donors (total),13020,Reproductive health care,196.91070368400003
+2022,Non-DAC donors (total),13020,Reproductive health care,0.381815448
+2022,DAC donors (total),13030,Family planning,694.0378427750004
+2022,Multilateral donors (total),13030,Family planning,46.993014335999995
+2012,All donors (total),13020,Reproductive health care,1588.35351207
+2012,All donors (total),13030,Family planning,854.9930228839997
+2013,All donors (total),13020,Reproductive health care,1727.3075412449994
+2013,All donors (total),13030,Family planning,884.0736905670005
+2014,All donors (total),13020,Reproductive health care,1816.1744280899989
+2014,All donors (total),13030,Family planning,981.9143983640002
+2015,All donors (total),13020,Reproductive health care,1980.3417795229996
+2015,All donors (total),13030,Family planning,995.721083980001
+2016,All donors (total),13020,Reproductive health care,1922.3601171940002
+2016,All donors (total),13030,Family planning,781.3387015279997
+2017,All donors (total),13020,Reproductive health care,1934.049850086
+2017,All donors (total),13030,Family planning,927.8622255979998
+2018,All donors (total),13020,Reproductive health care,1830.7959652360007
+2018,All donors (total),13030,Family planning,1163.368196083999
+2019,All donors (total),13020,Reproductive health care,1741.5902534909999
+2019,All donors (total),13030,Family planning,1028.125857983
+2020,All donors (total),13020,Reproductive health care,1567.873586916
+2020,All donors (total),13030,Family planning,892.4083927939998
+2021,All donors (total),13020,Reproductive health care,1447.9312054749994
+2021,All donors (total),13030,Family planning,884.3875932650003
+2022,All donors (total),13020,Reproductive health care,1393.334681372
+2022,All donors (total),13030,Family planning,741.0308571110004
