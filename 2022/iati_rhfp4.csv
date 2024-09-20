@@ -18,8 +18,8 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2005.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,6.672,Denmark
 2005.0,Project interventions,Denmark,Family planning,13030,0.56712,Denmark
 2005.0,Project interventions,Denmark,Reproductive health care,13020,0.23352,Denmark
-2005.0,Project interventions,UK,Family planning,13030,0.5565427502239999,UK
-2005.0,Project interventions,UK,Reproductive health care,13020,6.448067855828,UK
+2005.0,Project interventions,UK,Family planning,13030,0.5565427502240001,UK
+2005.0,Project interventions,UK,Reproductive health care,13020,6.448067855828002,UK
 2005.0,Project interventions,World Bank,Reproductive health care,13020,1.27771031,World Bank
 2006.0,Budget support,UK,Family planning,13030,4.97475,UK
 2006.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,6.728,Denmark
@@ -28,7 +28,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2006.0,Project interventions,Netherlands,Family planning,13030,1.6892166123,Netherlands
 2006.0,Project interventions,Netherlands,Reproductive health care,13020,8.8159068027,Netherlands
 2006.0,Project interventions,UK,Family planning,13030,0.56501474865,UK
-2006.0,Project interventions,UK,Reproductive health care,13020,25.126396934925005,UK
+2006.0,Project interventions,UK,Reproductive health care,13020,25.126396934925,UK
 2006.0,Project interventions,World Bank,Reproductive health care,13020,1.2222485,World Bank
 2006.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Family planning,13030,1.682,Denmark
 2006.0,Technical assistance,Netherlands,Reproductive health care,13020,0.8637206880000001,Netherlands
@@ -38,9 +38,9 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2007.0,Project interventions,Denmark,Family planning,13030,1.1022,Denmark
 2007.0,Project interventions,Denmark,Reproductive health care,13020,1.089407284471,Denmark
 2007.0,Project interventions,Netherlands,Family planning,13030,3.001627706,Netherlands
-2007.0,Project interventions,Netherlands,Reproductive health care,13020,9.366139013000002,Netherlands
+2007.0,Project interventions,Netherlands,Reproductive health care,13020,9.366139013,Netherlands
 2007.0,Project interventions,UK,Family planning,13030,3.94457493744,UK
-2007.0,Project interventions,UK,Reproductive health care,13020,53.142859143072,UK
+2007.0,Project interventions,UK,Reproductive health care,13020,53.14285914307201,UK
 2007.0,Project interventions,World Bank,Reproductive health care,13020,9.105444700000005,World Bank
 2007.0,Technical assistance,Netherlands,Reproductive health care,13020,1.5316825062000001,Netherlands
 2008.0,Budget support,UK,Family planning,13030,6.68772,UK
@@ -48,41 +48,41 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2008.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,7.848000000000001,Denmark
 2008.0,Project interventions,Denmark,Reproductive health care,13020,0.8998211453940002,Denmark
 2008.0,Project interventions,Netherlands,Family planning,13030,4.0629575034,Netherlands
-2008.0,Project interventions,Netherlands,Reproductive health care,13020,42.0908720184,Netherlands
+2008.0,Project interventions,Netherlands,Reproductive health care,13020,42.09087201839999,Netherlands
 2008.0,Project interventions,UK,Family planning,13030,29.725612557836,UK
-2008.0,Project interventions,UK,Reproductive health care,13020,161.619430670672,UK
-2008.0,Project interventions,World Bank,Reproductive health care,13020,13.113192609999995,World Bank
+2008.0,Project interventions,UK,Reproductive health care,13020,161.61943067067202,UK
+2008.0,Project interventions,World Bank,Reproductive health care,13020,13.113192609999999,World Bank
 2008.0,Specific-purpose programmes and funds managed by implementing partners,Netherlands,Reproductive health care,13020,36.765,Netherlands
 2008.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,2.73042,Norway
 2008.0,Technical assistance,Netherlands,Family planning,13030,0.102942,Netherlands
-2008.0,Technical assistance,Netherlands,Reproductive health care,13020,4.908390737399999,Netherlands
-2009.0,Basket funds/pooled funding,Netherlands,Reproductive health care,13020,7.0904758339999985,Netherlands
+2008.0,Technical assistance,Netherlands,Reproductive health care,13020,4.9083907374,Netherlands
+2009.0,Basket funds/pooled funding,Netherlands,Reproductive health care,13020,7.090475833999999,Netherlands
 2009.0,Budget support,UK,Family planning,13030,1.37588,UK
 2009.0,Budget support,UK,Reproductive health care,13020,14.75944,UK
 2009.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,7.46,Denmark
 2009.0,Project interventions,Denmark,Family planning,13030,2.238,Denmark
 2009.0,Project interventions,Denmark,Reproductive health care,13020,0.973034411685,Denmark
 2009.0,Project interventions,Netherlands,Family planning,13030,1.9344354272,Netherlands
-2009.0,Project interventions,Netherlands,Reproductive health care,13020,58.789805845,Netherlands
+2009.0,Project interventions,Netherlands,Reproductive health care,13020,58.78980584499999,Netherlands
 2009.0,Project interventions,UK,Family planning,13030,19.724652906935,UK
-2009.0,Project interventions,UK,Reproductive health care,13020,132.06840306109,UK
-2009.0,Project interventions,World Bank,Reproductive health care,13020,17.192811959999997,World Bank
+2009.0,Project interventions,UK,Reproductive health care,13020,132.06840306108995,UK
+2009.0,Project interventions,World Bank,Reproductive health care,13020,17.192811960000004,World Bank
 2009.0,Specific-purpose programmes and funds managed by implementing partners,Netherlands,Reproductive health care,13020,43.4232297219,Netherlands
 2009.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,4.77,Norway
-2009.0,Technical assistance,Netherlands,Reproductive health care,13020,4.22699354,Netherlands
+2009.0,Technical assistance,Netherlands,Reproductive health care,13020,4.226993539999999,Netherlands
 2010.0,Basket funds/pooled funding,Netherlands,Reproductive health care,13020,3.4626162999999996,Netherlands
 2010.0,Budget support,UK,Family planning,13030,3.8280825,UK
 2010.0,Budget support,UK,Reproductive health care,13020,10.8269,UK
 2010.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,7.112000000000001,Denmark
 2010.0,Project interventions,Canada,Reproductive health care,13020,0.35043030701999994,Canada
-2010.0,Project interventions,Denmark,Reproductive health care,13020,1.298276239358,Denmark
+2010.0,Project interventions,Denmark,Reproductive health care,13020,1.2982762393580003,Denmark
 2010.0,Project interventions,Finland,Family planning,13030,0.015432,Finland
 2010.0,Project interventions,Finland,Reproductive health care,13020,0.063576,Finland
 2010.0,Project interventions,Netherlands,Family planning,13030,2.1794096408000003,Netherlands
-2010.0,Project interventions,Netherlands,Reproductive health care,13020,47.94290697840002,Netherlands
+2010.0,Project interventions,Netherlands,Reproductive health care,13020,47.94290697839999,Netherlands
 2010.0,Project interventions,UK,Family planning,13030,48.505321960389004,UK
-2010.0,Project interventions,UK,Reproductive health care,13020,212.6494309351052,UK
-2010.0,Project interventions,World Bank,Reproductive health care,13020,12.962416590000002,World Bank
+2010.0,Project interventions,UK,Reproductive health care,13020,212.64943093510502,UK
+2010.0,Project interventions,World Bank,Reproductive health care,13020,12.962416590000004,World Bank
 2010.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Family planning,13030,-0.006158245240000001,Denmark
 2010.0,Specific-purpose programmes and funds managed by implementing partners,Netherlands,Reproductive health care,13020,37.7642227912,Netherlands
 2010.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,4.962,Norway
@@ -95,9 +95,9 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2011.0,Project interventions,Canada,Reproductive health care,13020,0.4701706918809999,Canada
 2011.0,Project interventions,Denmark,Reproductive health care,13020,1.7248987908,Denmark
 2011.0,Project interventions,Netherlands,Family planning,13030,3.5605503306,Netherlands
-2011.0,Project interventions,Netherlands,Reproductive health care,13020,27.2086284714,Netherlands
+2011.0,Project interventions,Netherlands,Reproductive health care,13020,27.208628471400004,Netherlands
 2011.0,Project interventions,UK,Family planning,13030,130.27159397365202,UK
-2011.0,Project interventions,UK,Reproductive health care,13020,205.67987352845188,UK
+2011.0,Project interventions,UK,Reproductive health care,13020,205.6798735284522,UK
 2011.0,Project interventions,World Bank,Reproductive health care,13020,18.83053415,World Bank
 2011.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,2.0218,Canada
 2011.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,2.0218,Canada
@@ -119,15 +119,15 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2012.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,0.9209717,Netherlands
 2012.0,Non-transfer,UK,Family planning,13030,0.049123514720000004,UK
 2012.0,Non-transfer,US,Family planning,13030,0.00122,US
-2012.0,Project interventions,Canada,Reproductive health care,13020,0.40793139056710004,Canada
+2012.0,Project interventions,Canada,Reproductive health care,13020,0.4079313905670999,Canada
 2012.0,Project interventions,Denmark,Reproductive health care,13020,2.8650804314,Denmark
-2012.0,Project interventions,Finland,Reproductive health care,13020,3.599529584800001,Finland
+2012.0,Project interventions,Finland,Reproductive health care,13020,3.5995295848000004,Finland
 2012.0,Project interventions,Netherlands,Family planning,13030,1.9582490608,Netherlands
-2012.0,Project interventions,Netherlands,Reproductive health care,13020,69.50801196080003,Netherlands
-2012.0,Project interventions,UK,Family planning,13030,188.71254187804897,UK
-2012.0,Project interventions,UK,Reproductive health care,13020,248.92079689040204,UK
+2012.0,Project interventions,Netherlands,Reproductive health care,13020,69.5080119608,Netherlands
+2012.0,Project interventions,UK,Family planning,13030,188.71254187804905,UK
+2012.0,Project interventions,UK,Reproductive health care,13020,248.92079689040176,UK
 2012.0,Project interventions,UNICEF,Family planning,13030,0.076818114,UNICEF
-2012.0,Project interventions,UNICEF,Reproductive health care,13020,61.29367419100004,UNICEF
+2012.0,Project interventions,UNICEF,Reproductive health care,13020,61.29367419100001,UNICEF
 2012.0,Project interventions,US,Family planning,13030,120.448501,US
 2012.0,Project interventions,US,Reproductive health care,13020,132.014869,US
 2012.0,Project interventions,World Bank,Reproductive health care,13020,17.767543429999993,World Bank
@@ -151,7 +151,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2013.0,"Core support to NGOs, PPPs and research institutes",Finland,Reproductive health care,13020,1.3281,Finland
 2013.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,3.957127074,Netherlands
 2013.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,2.1578,Switzerland
-2013.0,Non-transfer,UK,Family planning,13030,0.17233655326400002,UK
+2013.0,Non-transfer,UK,Family planning,13030,0.17233655326400008,UK
 2013.0,Non-transfer,US,Family planning,13030,0.395394,US
 2013.0,Non-transfer,US,Reproductive health care,13020,0.089744,US
 2013.0,Project interventions,Canada,Reproductive health care,13020,0.49918111602000004,Canada
@@ -159,16 +159,16 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2013.0,Project interventions,Finland,Family planning,13030,0.2486986779,Finland
 2013.0,Project interventions,Finland,Reproductive health care,13020,1.8062478744000001,Finland
 2013.0,Project interventions,Netherlands,Family planning,13030,6.377497685100001,Netherlands
-2013.0,Project interventions,Netherlands,Reproductive health care,13020,99.47102178780004,Netherlands
+2013.0,Project interventions,Netherlands,Reproductive health care,13020,99.47102178779996,Netherlands
 2013.0,Project interventions,Switzerland,Reproductive health care,13020,9.0933273948,Switzerland
-2013.0,Project interventions,UK,Family planning,13030,95.88594009254602,UK
-2013.0,Project interventions,UK,Reproductive health care,13020,264.9595340183172,UK
+2013.0,Project interventions,UK,Family planning,13030,95.88594009254595,UK
+2013.0,Project interventions,UK,Reproductive health care,13020,264.9595340183165,UK
 2013.0,Project interventions,UNICEF,Family planning,13030,0.040567134000000005,UNICEF
-2013.0,Project interventions,UNICEF,Reproductive health care,13020,79.833245177,UNICEF
+2013.0,Project interventions,UNICEF,Reproductive health care,13020,79.83324517700014,UNICEF
 2013.0,Project interventions,US,Family planning,13030,561.094476,US
 2013.0,Project interventions,US,Reproductive health care,13020,467.998829,US
 2013.0,Project interventions,World Bank,Family planning,13030,0.80049871,World Bank
-2013.0,Project interventions,World Bank,Reproductive health care,13020,51.33502790000001,World Bank
+2013.0,Project interventions,World Bank,Reproductive health care,13020,51.335027899999986,World Bank
 2013.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,0.9707,Canada
 2013.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,0.9707,Canada
 2013.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Reproductive health care,13020,3.2058,Denmark
@@ -179,7 +179,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2013.0,Specific-purpose programmes and funds managed by implementing partners,US,Reproductive health care,13020,1.526568,US
 2013.0,Technical assistance,Denmark,Reproductive health care,13020,0.012600510883999999,Denmark
 2013.0,Technical assistance,Netherlands,Family planning,13030,0.66405,Netherlands
-2013.0,Technical assistance,Netherlands,Reproductive health care,13020,5.083798131299999,Netherlands
+2013.0,Technical assistance,Netherlands,Reproductive health care,13020,5.083798131300001,Netherlands
 2013.0,Technical assistance,Switzerland,Reproductive health care,13020,0.0151132312,Switzerland
 2013.0,Technical assistance,US,Family planning,13030,10.650076,US
 2013.0,Technical assistance,US,Reproductive health care,13020,8.013453,US
@@ -201,13 +201,13 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2014.0,Non-transfer,US,Family planning,13030,5.3994,US
 2014.0,Non-transfer,US,Reproductive health care,13020,0.762331,US
 2014.0,Project interventions,Canada,Reproductive health care,13020,0.44100950238000003,Canada
-2014.0,Project interventions,Denmark,Reproductive health care,13020,0.6737336256420001,Denmark
+2014.0,Project interventions,Denmark,Reproductive health care,13020,0.673733625642,Denmark
 2014.0,Project interventions,Finland,Family planning,13030,0.2182580576,Finland
-2014.0,Project interventions,Finland,Reproductive health care,13020,1.3260414112000003,Finland
+2014.0,Project interventions,Finland,Reproductive health care,13020,1.3260414112,Finland
 2014.0,Project interventions,Netherlands,Family planning,13030,3.8005447304,Netherlands
-2014.0,Project interventions,Netherlands,Reproductive health care,13020,113.74608392399999,Netherlands
+2014.0,Project interventions,Netherlands,Reproductive health care,13020,113.74608392399998,Netherlands
 2014.0,Project interventions,Switzerland,Reproductive health care,13020,8.088479979,Switzerland
-2014.0,Project interventions,UK,Family planning,13030,319.2555386827516,UK
+2014.0,Project interventions,UK,Family planning,13030,319.2555386827519,UK
 2014.0,Project interventions,UK,Reproductive health care,13020,360.6738567894439,UK
 2014.0,Project interventions,UNDP,Reproductive health care,13020,0.033183,UNDP
 2014.0,Project interventions,UNICEF,Family planning,13030,0.043203432,UNICEF
@@ -247,28 +247,28 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2015.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,4.803026765599999,Netherlands
 2015.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,0.0,Switzerland
 2015.0,"Core support to NGOs, PPPs and research institutes",UK,Reproductive health care,13020,0.183372,UK
-2015.0,Non-transfer,UK,Family planning,13030,0.6996592889439998,UK
+2015.0,Non-transfer,UK,Family planning,13030,0.6996592889439999,UK
 2015.0,Non-transfer,US,Family planning,13030,6.296024,US
 2015.0,Non-transfer,US,Reproductive health care,13020,0.462056,US
 2015.0,Project interventions,Canada,Reproductive health care,13020,0.092378361845,Canada
 2015.0,Project interventions,Denmark,Reproductive health care,13020,0.133744624432,Denmark
 2015.0,Project interventions,Finland,Family planning,13030,0.30139288079999993,Finland
-2015.0,Project interventions,Finland,Reproductive health care,13020,1.3556182928,Finland
+2015.0,Project interventions,Finland,Reproductive health care,13020,1.3556182928000002,Finland
 2015.0,Project interventions,Netherlands,Family planning,13030,2.8476541384000003,Netherlands
 2015.0,Project interventions,Netherlands,Reproductive health care,13020,107.59037448720001,Netherlands
 2015.0,Project interventions,Norway,Reproductive health care,13020,1.116,Norway
 2015.0,Project interventions,Switzerland,Reproductive health care,13020,0.0,Switzerland
-2015.0,Project interventions,UK,Family planning,13030,190.70266921348292,UK
-2015.0,Project interventions,UK,Reproductive health care,13020,277.3968923632548,UK
+2015.0,Project interventions,UK,Family planning,13030,190.7026692134829,UK
+2015.0,Project interventions,UK,Reproductive health care,13020,277.396892363255,UK
 2015.0,Project interventions,UNDP,Reproductive health care,13020,0.022819,UNDP
-2015.0,Project interventions,UNICEF,Family planning,13030,0.13324300800000002,UNICEF
-2015.0,Project interventions,UNICEF,Reproductive health care,13020,107.77575477800029,UNICEF
+2015.0,Project interventions,UNICEF,Family planning,13030,0.13324300799999997,UNICEF
+2015.0,Project interventions,UNICEF,Reproductive health care,13020,107.77575477800009,UNICEF
 2015.0,Project interventions,US,Family planning,13030,590.80479,US
 2015.0,Project interventions,US,Reproductive health care,13020,624.991187,US
 2015.0,Project interventions,World Bank,Family planning,13030,3.7117556,World Bank
-2015.0,Project interventions,World Bank,Reproductive health care,13020,39.88741835999999,World Bank
+2015.0,Project interventions,World Bank,Reproductive health care,13020,39.887418360000005,World Bank
 2015.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,1.30985,Canada
-2015.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,4.426667400000001,Canada
+2015.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,4.4266674,Canada
 2015.0,Specific-purpose programmes and funds managed by implementing partners,Finland,Reproductive health care,13020,0.33288,Finland
 2015.0,Specific-purpose programmes and funds managed by implementing partners,Netherlands,Reproductive health care,13020,1.4045194744,Netherlands
 2015.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,13.268,Norway
@@ -296,10 +296,10 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2016.0,Core contributions to multilateral institutions,US,Reproductive health care,13020,9.731039,US
 2016.0,"Core support to NGOs, PPPs and research institutes",Denmark,Reproductive health care,13020,7.43,Denmark
 2016.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,7.989652,Netherlands
-2016.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,19.728492465000002,Netherlands
+2016.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,19.728492465,Netherlands
 2016.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,2.0296,Switzerland
 2016.0,"Core support to NGOs, PPPs and research institutes",UK,Reproductive health care,13020,0.2629088,UK
-2016.0,Non-transfer,UK,Family planning,13030,0.09746923648000003,UK
+2016.0,Non-transfer,UK,Family planning,13030,0.09746923648000001,UK
 2016.0,Non-transfer,US,Family planning,13030,5.73269,US
 2016.0,Non-transfer,US,Reproductive health care,13020,0.590278,US
 2016.0,Project interventions,Canada,Family planning,13030,0.42769985775159997,Canada
@@ -307,21 +307,21 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2016.0,Project interventions,Denmark,Reproductive health care,13020,5.024166,Denmark
 2016.0,Project interventions,Finland,Family planning,13030,0.1309129932,Finland
 2016.0,Project interventions,Finland,Reproductive health care,13020,1.3169956448,Finland
-2016.0,Project interventions,Netherlands,Family planning,13030,11.589637587000004,Netherlands
-2016.0,Project interventions,Netherlands,Reproductive health care,13020,134.72728736939996,Netherlands
+2016.0,Project interventions,Netherlands,Family planning,13030,11.589637586999999,Netherlands
+2016.0,Project interventions,Netherlands,Reproductive health care,13020,134.7272873694,Netherlands
 2016.0,Project interventions,Norway,Reproductive health care,13020,0.7735,Norway
 2016.0,Project interventions,Switzerland,Reproductive health care,13020,0.0,Switzerland
-2016.0,Project interventions,UK,Family planning,13030,149.00015305559992,UK
-2016.0,Project interventions,UK,Reproductive health care,13020,224.228546066448,UK
+2016.0,Project interventions,UK,Family planning,13030,149.00015305559987,UK
+2016.0,Project interventions,UK,Reproductive health care,13020,224.2285460664481,UK
 2016.0,Project interventions,UNDP,Reproductive health care,13020,0.013011,UNDP
-2016.0,Project interventions,UNICEF,Family planning,13030,0.241485249,UNICEF
-2016.0,Project interventions,UNICEF,Reproductive health care,13020,128.35457299900017,UNICEF
+2016.0,Project interventions,UNICEF,Family planning,13030,0.24148524899999982,UNICEF
+2016.0,Project interventions,UNICEF,Reproductive health care,13020,128.35457299900023,UNICEF
 2016.0,Project interventions,US,Family planning,13030,430.608433,US
 2016.0,Project interventions,US,Reproductive health care,13020,579.952685,US
-2016.0,Project interventions,World Bank,Family planning,13030,20.534175270000006,World Bank
-2016.0,Project interventions,World Bank,Reproductive health care,13020,75.51889184999999,World Bank
-2016.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,3.21962832,Canada
-2016.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,4.068881243297279,Canada
+2016.0,Project interventions,World Bank,Family planning,13030,20.53417527,World Bank
+2016.0,Project interventions,World Bank,Reproductive health care,13020,75.51889184999997,World Bank
+2016.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,3.2196283200000004,Canada
+2016.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,4.0688812432972785,Canada
 2016.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,-0.814912,Norway
 2016.0,Specific-purpose programmes and funds managed by implementing partners,Switzerland,Reproductive health care,13020,0.0,Switzerland
 2016.0,Specific-purpose programmes and funds managed by implementing partners,US,Family planning,13030,0.440681,US
@@ -355,26 +355,26 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2017.0,Non-transfer,US,Family planning,13030,6.506484,US
 2017.0,Non-transfer,US,Reproductive health care,13020,1.22125,US
 2017.0,Project interventions,Canada,Family planning,13030,0.9365154584277,Canada
-2017.0,Project interventions,Canada,Reproductive health care,13020,2.212826783693018,Canada
+2017.0,Project interventions,Canada,Reproductive health care,13020,2.2128267836930178,Canada
 2017.0,Project interventions,Denmark,Family planning,13030,0.001546955238,Denmark
-2017.0,Project interventions,Denmark,Reproductive health care,13020,2.4327895055460003,Denmark
+2017.0,Project interventions,Denmark,Reproductive health care,13020,2.432789505546,Denmark
 2017.0,Project interventions,Finland,Family planning,13030,0.36323031060000005,Finland
 2017.0,Project interventions,Finland,Reproductive health care,13020,1.396131004,Finland
 2017.0,Project interventions,Netherlands,Family planning,13030,21.6926186751,Netherlands
-2017.0,Project interventions,Netherlands,Reproductive health care,13020,120.49303841790004,Netherlands
+2017.0,Project interventions,Netherlands,Reproductive health care,13020,120.49303841789998,Netherlands
 2017.0,Project interventions,Norway,Family planning,13030,1.893294,Norway
 2017.0,Project interventions,Norway,Reproductive health care,13020,5.111410199999999,Norway
-2017.0,Project interventions,Switzerland,Reproductive health care,13020,5.4302487513,Switzerland
-2017.0,Project interventions,UK,Family planning,13030,176.9934551138602,UK
-2017.0,Project interventions,UK,Reproductive health care,13020,223.24668668431778,UK
-2017.0,Project interventions,UNICEF,Family planning,13030,1.2851320729999989,UNICEF
-2017.0,Project interventions,UNICEF,Reproductive health care,13020,148.75319406300005,UNICEF
+2017.0,Project interventions,Switzerland,Reproductive health care,13020,5.4302487513000015,Switzerland
+2017.0,Project interventions,UK,Family planning,13030,176.99345511386,UK
+2017.0,Project interventions,UK,Reproductive health care,13020,223.24668668431792,UK
+2017.0,Project interventions,UNICEF,Family planning,13030,1.2851320730000007,UNICEF
+2017.0,Project interventions,UNICEF,Reproductive health care,13020,148.75319406300014,UNICEF
 2017.0,Project interventions,US,Family planning,13030,436.220664,US
 2017.0,Project interventions,US,Reproductive health care,13020,636.966041,US
 2017.0,Project interventions,World Bank,Family planning,13030,7.87154151,World Bank
-2017.0,Project interventions,World Bank,Reproductive health care,13020,60.73638786999998,World Bank
+2017.0,Project interventions,World Bank,Reproductive health care,13020,60.73638786999999,World Bank
 2017.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,8.8232073875,Canada
-2017.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,11.817458994999999,Canada
+2017.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,11.817458995000004,Canada
 2017.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Family planning,13030,3.028,Denmark
 2017.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Reproductive health care,13020,28.0847,Denmark
 2017.0,Specific-purpose programmes and funds managed by implementing partners,Finland,Reproductive health care,13020,2.7405502317,Finland
@@ -409,39 +409,39 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2018.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,6.060922501,Netherlands
 2018.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,15.995907886,Netherlands
 2018.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,0.471384831,Norway
-2018.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,17.059352774999997,Norway
+2018.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,17.059352775,Norway
 2018.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,2.29741232558,Switzerland
 2018.0,"Core support to NGOs, PPPs and research institutes",UK,Reproductive health care,13020,0.1496096,UK
 2018.0,Non-transfer,UK,Family planning,13030,0.038531311296,UK
 2018.0,Non-transfer,US,Family planning,13030,5.916748,US
 2018.0,Non-transfer,US,Reproductive health care,13020,2.468338,US
-2018.0,Project interventions,Canada,Family planning,13030,12.201346279022761,Canada
+2018.0,Project interventions,Canada,Family planning,13030,12.201346279022765,Canada
 2018.0,Project interventions,Canada,Reproductive health care,13020,18.014806257821093,Canada
-2018.0,Project interventions,Denmark,Family planning,13030,0.006222465216,Denmark
-2018.0,Project interventions,Denmark,Reproductive health care,13020,5.1294315600000004,Denmark
+2018.0,Project interventions,Denmark,Family planning,13030,0.006222465216000001,Denmark
+2018.0,Project interventions,Denmark,Reproductive health care,13020,5.12943156,Denmark
 2018.0,Project interventions,Finland,Family planning,13030,0.0413395035,Finland
 2018.0,Project interventions,Finland,Reproductive health care,13020,0.2484091935,Finland
 2018.0,Project interventions,Netherlands,Family planning,13030,20.0090155975,Netherlands
-2018.0,Project interventions,Netherlands,Reproductive health care,13020,146.894611891,Netherlands
+2018.0,Project interventions,Netherlands,Reproductive health care,13020,146.89461189099998,Netherlands
 2018.0,Project interventions,Norway,Family planning,13030,4.8216,Norway
-2018.0,Project interventions,Norway,Reproductive health care,13020,4.676422485,Norway
+2018.0,Project interventions,Norway,Reproductive health care,13020,4.676422485000001,Norway
 2018.0,Project interventions,Switzerland,Reproductive health care,13020,4.070980007919999,Switzerland
-2018.0,Project interventions,UK,Family planning,13030,221.39721343210184,UK
-2018.0,Project interventions,UK,Reproductive health care,13020,214.23892152609008,UK
+2018.0,Project interventions,UK,Family planning,13030,221.39721343210198,UK
+2018.0,Project interventions,UK,Reproductive health care,13020,214.23892152609022,UK
 2018.0,Project interventions,UNDP,Reproductive health care,13020,3.296047,UNDP
-2018.0,Project interventions,UNICEF,Family planning,13030,2.6437649910000007,UNICEF
-2018.0,Project interventions,UNICEF,Reproductive health care,13020,117.927221191,UNICEF
+2018.0,Project interventions,UNICEF,Family planning,13030,2.643764991000001,UNICEF
+2018.0,Project interventions,UNICEF,Reproductive health care,13020,117.92746270300005,UNICEF
 2018.0,Project interventions,US,Family planning,13030,586.473458,US
 2018.0,Project interventions,US,Reproductive health care,13020,609.217676,US
-2018.0,Project interventions,World Bank,Family planning,13030,51.76331026,World Bank
-2018.0,Project interventions,World Bank,Reproductive health care,13020,64.84938228000001,World Bank
+2018.0,Project interventions,World Bank,Family planning,13030,51.763310260000004,World Bank
+2018.0,Project interventions,World Bank,Reproductive health care,13020,64.84938228,World Bank
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,5.8893635975,Canada
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,6.4440284274929605,Canada
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Reproductive health care,13020,28.5912,Denmark
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Finland,Family planning,13030,0.0392624265,Finland
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Family planning,13030,7.38,Norway
 2018.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,5.535,Norway
-2018.0,Specific-purpose programmes and funds managed by implementing partners,Switzerland,Reproductive health care,13020,2.2165391865,Switzerland
+2018.0,Specific-purpose programmes and funds managed by implementing partners,Switzerland,Reproductive health care,13020,2.2165391865000004,Switzerland
 2018.0,Specific-purpose programmes and funds managed by implementing partners,UK,Family planning,13030,1.38366725757,UK
 2018.0,Specific-purpose programmes and funds managed by implementing partners,UK,Reproductive health care,13020,9.407003353520002,UK
 2018.0,Technical assistance,Netherlands,Family planning,13030,0.014175637000000001,Netherlands
@@ -474,32 +474,32 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2019.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,3.3011058924,Netherlands
 2019.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,18.8048889288,Netherlands
 2019.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,0.49045823040000003,Norway
-2019.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,15.4106633728,Norway
+2019.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,15.410663372799998,Norway
 2019.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,2.9900684987,Switzerland
 2019.0,Non-transfer,UK,Family planning,13030,0.08945467929599998,UK
 2019.0,Non-transfer,US,Family planning,13030,1.214184,US
 2019.0,Non-transfer,US,Reproductive health care,13020,1.628273,US
 2019.0,Project interventions,Belgium,Reproductive health care,13020,2.716603038,Belgium
-2019.0,Project interventions,Canada,Family planning,13030,13.209107262101377,Canada
+2019.0,Project interventions,Canada,Family planning,13030,13.209107262101373,Canada
 2019.0,Project interventions,Canada,Reproductive health care,13020,21.466303495315202,Canada
 2019.0,Project interventions,Denmark,Family planning,13030,0.694453519635,Denmark
 2019.0,Project interventions,Denmark,Reproductive health care,13020,1.9150283977100004,Denmark
 2019.0,Project interventions,Finland,Family planning,13030,0.3526113024,Finland
 2019.0,Project interventions,Finland,Reproductive health care,13020,4.4085460539509995,Finland
-2019.0,Project interventions,Netherlands,Family planning,13030,26.298548625600002,Netherlands
-2019.0,Project interventions,Netherlands,Reproductive health care,13020,134.40162626999998,Netherlands
-2019.0,Project interventions,Norway,Family planning,13030,4.492590320000001,Norway
+2019.0,Project interventions,Netherlands,Family planning,13030,26.298548625599995,Netherlands
+2019.0,Project interventions,Netherlands,Reproductive health care,13020,134.40162627,Netherlands
+2019.0,Project interventions,Norway,Family planning,13030,4.49259032,Norway
 2019.0,Project interventions,Norway,Reproductive health care,13020,5.9255494672,Norway
 2019.0,Project interventions,Switzerland,Reproductive health care,13020,0.0,Switzerland
-2019.0,Project interventions,UK,Family planning,13030,312.3523455653722,UK
-2019.0,Project interventions,UK,Reproductive health care,13020,166.48085062471202,UK
+2019.0,Project interventions,UK,Family planning,13030,312.35234556537193,UK
+2019.0,Project interventions,UK,Reproductive health care,13020,166.4808506247119,UK
 2019.0,Project interventions,UNDP,Reproductive health care,13020,8.152314,UNDP
-2019.0,Project interventions,UNICEF,Family planning,13030,3.897830243999998,UNICEF
-2019.0,Project interventions,UNICEF,Reproductive health care,13020,115.75264494499987,UNICEF
+2019.0,Project interventions,UNICEF,Family planning,13030,3.8973514870000003,UNICEF
+2019.0,Project interventions,UNICEF,Reproductive health care,13020,115.75468977899992,UNICEF
 2019.0,Project interventions,US,Family planning,13030,393.319856,US
 2019.0,Project interventions,US,Reproductive health care,13020,525.882712,US
 2019.0,Project interventions,World Bank,Family planning,13030,4.429099670000001,World Bank
-2019.0,Project interventions,World Bank,Reproductive health care,13020,50.84371498000003,World Bank
+2019.0,Project interventions,World Bank,Reproductive health care,13020,50.84371498000004,World Bank
 2019.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,11.34591542899,Canada
 2019.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,9.627846707,Canada
 2019.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Reproductive health care,13020,30.332265,Denmark
@@ -532,37 +532,37 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2020.0,Core contributions to multilateral institutions,UK,Reproductive health care,13020,3.1623770183,UK
 2020.0,Core contributions to multilateral institutions,US,Family planning,13030,4.856894,US
 2020.0,Core contributions to multilateral institutions,US,Reproductive health care,13020,15.394308,US
-2020.0,"Core support to NGOs, PPPs and research institutes",Canada,Reproductive health care,13020,9.109434388223999,Canada
+2020.0,"Core support to NGOs, PPPs and research institutes",Canada,Reproductive health care,13020,9.109434388224,Canada
 2020.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,15.1371,Denmark
 2020.0,"Core support to NGOs, PPPs and research institutes",Finland,Reproductive health care,13020,4.165745,Finland
 2020.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,1.5821670705,Netherlands
 2020.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,12.400875040999999,Netherlands
-2020.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,0.5398019622,Norway
+2020.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,0.5398019622000001,Norway
 2020.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,16.958179229400002,Norway
 2020.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,0.0,Switzerland
 2020.0,Non-transfer,UK,Family planning,13030,0.12323676880000001,UK
 2020.0,Non-transfer,US,Family planning,13030,0.485,US
 2020.0,Non-transfer,US,Reproductive health care,13020,0.280144,US
 2020.0,Project interventions,Belgium,Reproductive health care,13020,16.485866218199998,Belgium
-2020.0,Project interventions,Canada,Family planning,13030,16.206582127528637,Canada
+2020.0,Project interventions,Canada,Family planning,13030,16.206582127528645,Canada
 2020.0,Project interventions,Canada,Reproductive health care,13020,30.686389775697517,Canada
 2020.0,Project interventions,Denmark,Reproductive health care,13020,1.7337636800000003,Denmark
 2020.0,Project interventions,Finland,Family planning,13030,0.3520648001,Finland
 2020.0,Project interventions,Finland,Reproductive health care,13020,3.3029301891,Finland
 2020.0,Project interventions,Netherlands,Family planning,13030,37.6377640088,Netherlands
-2020.0,Project interventions,Netherlands,Reproductive health care,13020,124.09155857279998,Netherlands
+2020.0,Project interventions,Netherlands,Reproductive health care,13020,124.09155857280004,Netherlands
 2020.0,Project interventions,Norway,Family planning,13030,3.9214232118,Norway
 2020.0,Project interventions,Norway,Reproductive health care,13020,6.024195,Norway
 2020.0,Project interventions,Switzerland,Reproductive health care,13020,0.0,Switzerland
 2020.0,Project interventions,UK,Family planning,13030,193.11525143486,UK
 2020.0,Project interventions,UK,Reproductive health care,13020,117.83446025292,UK
 2020.0,Project interventions,UNDP,Reproductive health care,13020,5.013781,UNDP
-2020.0,Project interventions,UNICEF,Family planning,13030,4.509621332000004,UNICEF
-2020.0,Project interventions,UNICEF,Reproductive health care,13020,114.50051190799988,UNICEF
+2020.0,Project interventions,UNICEF,Family planning,13030,4.507646410000004,UNICEF
+2020.0,Project interventions,UNICEF,Reproductive health care,13020,114.50870868999993,UNICEF
 2020.0,Project interventions,US,Family planning,13030,393.197676,US
 2020.0,Project interventions,US,Reproductive health care,13020,473.98719,US
 2020.0,Project interventions,World Bank,Family planning,13030,11.695524330000001,World Bank
-2020.0,Project interventions,World Bank,Reproductive health care,13020,82.89441585999998,World Bank
+2020.0,Project interventions,World Bank,Reproductive health care,13020,82.89441585999997,World Bank
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,7.5577334322624,Canada
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,4.613431553792,Canada
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Family planning,13030,1.529,Denmark
@@ -571,8 +571,8 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Family planning,13030,6.3189,Norway
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,1.6992,Norway
 2020.0,Specific-purpose programmes and funds managed by implementing partners,Switzerland,Reproductive health care,13020,0.0,Switzerland
-2020.0,Specific-purpose programmes and funds managed by implementing partners,UK,Family planning,13030,2.9233934422499996,UK
-2020.0,Specific-purpose programmes and funds managed by implementing partners,UK,Reproductive health care,13020,20.33850573691,UK
+2020.0,Specific-purpose programmes and funds managed by implementing partners,UK,Family planning,13030,2.9233934422500005,UK
+2020.0,Specific-purpose programmes and funds managed by implementing partners,UK,Reproductive health care,13020,20.338505736909998,UK
 2020.0,Technical assistance,Belgium,Reproductive health care,13020,0.1524171911,Belgium
 2020.0,Technical assistance,Denmark,Reproductive health care,13020,0.022296429969,Denmark
 2020.0,Technical assistance,Netherlands,Reproductive health care,13020,0.45671173839999996,Netherlands
@@ -604,31 +604,31 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2021.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,1.49121,Netherlands
 2021.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,15.041896812000001,Netherlands
 2021.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,0.23392919639999998,Norway
-2021.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,15.375934474800001,Norway
-2021.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,5.611851416240001,Switzerland
-2021.0,Non-transfer,UK,Family planning,13030,0.4104553927839999,UK
+2021.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,15.375934474799998,Norway
+2021.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,5.61185141624,Switzerland
+2021.0,Non-transfer,UK,Family planning,13030,0.410455392784,UK
 2021.0,Non-transfer,US,Reproductive health care,13020,0.159826,US
 2021.0,Project interventions,Belgium,Reproductive health care,13020,23.611764699000002,Belgium
-2021.0,Project interventions,Canada,Family planning,13030,25.18584209494375,Canada
-2021.0,Project interventions,Canada,Reproductive health care,13020,40.296676743387096,Canada
+2021.0,Project interventions,Canada,Family planning,13030,25.185842094943748,Canada
+2021.0,Project interventions,Canada,Reproductive health care,13020,40.29667674338709,Canada
 2021.0,Project interventions,Denmark,Family planning,13030,0.4773,Denmark
 2021.0,Project interventions,Denmark,Reproductive health care,13020,0.1591,Denmark
 2021.0,Project interventions,Finland,Family planning,13030,0.201195,Finland
 2021.0,Project interventions,Finland,Reproductive health care,13020,6.8276115,Finland
 2021.0,Project interventions,Netherlands,Family planning,13030,32.397907743,Netherlands
-2021.0,Project interventions,Netherlands,Reproductive health care,13020,135.8826731595,Netherlands
-2021.0,Project interventions,Norway,Family planning,13030,2.7117485676000004,Norway
-2021.0,Project interventions,Norway,Reproductive health care,13020,1.6983211632000004,Norway
+2021.0,Project interventions,Netherlands,Reproductive health care,13020,135.88267315950003,Netherlands
+2021.0,Project interventions,Norway,Family planning,13030,2.711748567600001,Norway
+2021.0,Project interventions,Norway,Reproductive health care,13020,1.6983211632000002,Norway
 2021.0,Project interventions,Switzerland,Reproductive health care,13020,0.0,Switzerland
 2021.0,Project interventions,UK,Family planning,13030,165.47152501882908,UK
-2021.0,Project interventions,UK,Reproductive health care,13020,72.84920924167803,UK
+2021.0,Project interventions,UK,Reproductive health care,13020,72.84920924167801,UK
 2021.0,Project interventions,UNDP,Reproductive health care,13020,5.082339,UNDP
-2021.0,Project interventions,UNICEF,Family planning,13030,9.42400467171002,UNICEF
-2021.0,Project interventions,UNICEF,Reproductive health care,13020,111.88237992667969,UNICEF
+2021.0,Project interventions,UNICEF,Family planning,13030,9.413726457890004,UNICEF
+2021.0,Project interventions,UNICEF,Reproductive health care,13020,111.89787299871963,UNICEF
 2021.0,Project interventions,US,Family planning,13030,387.367819,US
 2021.0,Project interventions,US,Reproductive health care,13020,464.40036799999996,US
-2021.0,Project interventions,World Bank,Family planning,13030,30.61034933,World Bank
-2021.0,Project interventions,World Bank,Reproductive health care,13020,79.42299308,World Bank
+2021.0,Project interventions,World Bank,Family planning,13030,30.61034933000001,World Bank
+2021.0,Project interventions,World Bank,Reproductive health care,13020,79.42299308000003,World Bank
 2021.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,14.684843424074993,Canada
 2021.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,19.14407044,Canada
 2021.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Family planning,13030,3.9775,Denmark
@@ -670,14 +670,14 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2022.0,"Core support to NGOs, PPPs and research institutes",Finland,Reproductive health care,13020,3.6995,Finland
 2022.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,11.554378815,Netherlands
 2022.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,0.3722364734,Norway
-2022.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,15.002714332799995,Norway
+2022.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,15.0027143328,Norway
 2022.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,0.0,Switzerland
 2022.0,Non-transfer,US,Family planning,13030,0.712911,US
 2022.0,Non-transfer,US,Reproductive health care,13020,1.609011,US
 2022.0,Project interventions,Asian Development Bank,Reproductive health care,13020,0.0,Asian Development Bank
 2022.0,Project interventions,Belgium,Reproductive health care,13020,21.068874469999997,Belgium
-2022.0,Project interventions,Canada,Family planning,13030,27.190992151691386,Canada
-2022.0,Project interventions,Canada,Reproductive health care,13020,44.76676061259861,Canada
+2022.0,Project interventions,Canada,Family planning,13030,27.19099215169137,Canada
+2022.0,Project interventions,Canada,Reproductive health care,13020,44.76676061259866,Canada
 2022.0,Project interventions,Denmark,Reproductive health care,13020,-0.006174663561,Denmark
 2022.0,Project interventions,Finland,Family planning,13030,0.17969,Finland
 2022.0,Project interventions,Finland,Reproductive health care,13020,4.9054460980000005,Finland
@@ -687,14 +687,14 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2022.0,Project interventions,Norway,Reproductive health care,13020,4.693764024,Norway
 2022.0,Project interventions,Switzerland,Reproductive health care,13020,0.0,Switzerland
 2022.0,Project interventions,UK,Family planning,13030,132.24153930232305,UK
-2022.0,Project interventions,UK,Reproductive health care,13020,71.72085760524303,UK
+2022.0,Project interventions,UK,Reproductive health care,13020,71.72085760524295,UK
 2022.0,Project interventions,UNDP,Reproductive health care,13020,6.365745,UNDP
-2022.0,Project interventions,UNICEF,Family planning,13030,10.979355797730019,UNICEF
-2022.0,Project interventions,UNICEF,Reproductive health care,13020,130.0070543848506,UNICEF
+2022.0,Project interventions,UNICEF,Family planning,13030,10.961021450789989,UNICEF
+2022.0,Project interventions,UNICEF,Reproductive health care,13020,130.07295176823024,UNICEF
 2022.0,Project interventions,US,Family planning,13030,510.34292200000004,US
 2022.0,Project interventions,US,Reproductive health care,13020,820.3511010000001,US
-2022.0,Project interventions,World Bank,Family planning,13030,11.875487750000003,World Bank
-2022.0,Project interventions,World Bank,Reproductive health care,13020,70.21011634,World Bank
+2022.0,Project interventions,World Bank,Family planning,13030,11.875487750000007,World Bank
+2022.0,Project interventions,World Bank,Reproductive health care,13020,70.21011634000001,World Bank
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,8.442891132475,Canada
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,9.0517676615,Canada
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Family planning,13030,0.5873806627589999,Denmark
@@ -704,7 +704,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Family planning,13030,20.1106,Norway
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,6.984345213,Norway
 2022.0,Specific-purpose programmes and funds managed by implementing partners,Switzerland,Reproductive health care,13020,0.0,Switzerland
-2022.0,Specific-purpose programmes and funds managed by implementing partners,UK,Family planning,13030,0.9009964473800001,UK
+2022.0,Specific-purpose programmes and funds managed by implementing partners,UK,Family planning,13030,0.9009964473799998,UK
 2022.0,Specific-purpose programmes and funds managed by implementing partners,UK,Reproductive health care,13020,19.448655334881,UK
 2022.0,Technical assistance,Belgium,Reproductive health care,13020,0.250753167,Belgium
 2022.0,Technical assistance,Denmark,Family planning,13030,0.016852753499999998,Denmark
@@ -712,7 +712,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2022.0,Technical assistance,Netherlands,Reproductive health care,13020,0.233429994,Netherlands
 2022.0,Technical assistance,Norway,Reproductive health care,13020,0.0709942734,Norway
 2022.0,Technical assistance,Switzerland,Reproductive health care,13020,0.07254151896,Switzerland
-2022.0,Technical assistance,UK,Reproductive health care,13020,0.9258967801589999,UK
+2022.0,Technical assistance,UK,Reproductive health care,13020,0.9258967801589998,UK
 2022.0,Technical assistance,US,Family planning,13030,3.17575,US
 2022.0,Technical assistance,US,Reproductive health care,13020,13.970397,US
 2023.0,Basket funds/pooled funding,Canada,Family planning,13030,2.1535675,Canada
@@ -733,34 +733,34 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2023.0,"Core support to NGOs, PPPs and research institutes",Canada,Reproductive health care,13020,11.162567945536,Canada
 2023.0,"Core support to NGOs, PPPs and research institutes",Denmark,Family planning,13030,8.322,Denmark
 2023.0,"Core support to NGOs, PPPs and research institutes",Finland,Reproductive health care,13020,3.7925,Finland
-2023.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,8.160056775000001,Netherlands
+2023.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Family planning,13030,8.160056775,Netherlands
 2023.0,"Core support to NGOs, PPPs and research institutes",Netherlands,Reproductive health care,13020,12.2492625,Netherlands
 2023.0,"Core support to NGOs, PPPs and research institutes",Norway,Family planning,13030,19.830563298,Norway
-2023.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,4.2281150872,Norway
-2023.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,6.611754701249999,Switzerland
+2023.0,"Core support to NGOs, PPPs and research institutes",Norway,Reproductive health care,13020,4.228115087200001,Norway
+2023.0,"Core support to NGOs, PPPs and research institutes",Switzerland,Reproductive health care,13020,6.611754701250001,Switzerland
 2023.0,Non-transfer,US,Family planning,13030,32.597894,US
 2023.0,Non-transfer,US,Reproductive health care,13020,16.307555,US
 2023.0,Project interventions,Asian Development Bank,Reproductive health care,13020,1.3056997440000002,Asian Development Bank
 2023.0,Project interventions,Belgium,Reproductive health care,13020,16.794278549999998,Belgium
-2023.0,Project interventions,Canada,Family planning,13030,25.407991009017607,Canada
-2023.0,Project interventions,Canada,Reproductive health care,13020,48.10525648648174,Canada
+2023.0,Project interventions,Canada,Family planning,13030,25.407991009017593,Canada
+2023.0,Project interventions,Canada,Reproductive health care,13020,48.10525648648168,Canada
 2023.0,Project interventions,Denmark,Family planning,13030,0.242634229172,Denmark
 2023.0,Project interventions,Denmark,Reproductive health care,13020,0.00686565,Denmark
 2023.0,Project interventions,European Commission,Reproductive health care,13020,0.04472828733749999,European Commission
-2023.0,Project interventions,Finland,Reproductive health care,13020,13.525308574999999,Finland
+2023.0,Project interventions,Finland,Reproductive health care,13020,13.525308574999995,Finland
 2023.0,Project interventions,Netherlands,Family planning,13030,19.387604399999994,Netherlands
-2023.0,Project interventions,Netherlands,Reproductive health care,13020,154.43934632500003,Netherlands
+2023.0,Project interventions,Netherlands,Reproductive health care,13020,154.43934632499995,Netherlands
 2023.0,Project interventions,Norway,Family planning,13030,5.9320301606,Norway
-2023.0,Project interventions,Norway,Reproductive health care,13020,3.4472266018,Norway
+2023.0,Project interventions,Norway,Reproductive health care,13020,3.4472266017999997,Norway
 2023.0,Project interventions,Switzerland,Reproductive health care,13020,4.03800019685,Switzerland
-2023.0,Project interventions,UK,Family planning,13030,166.61201095319902,UK
-2023.0,Project interventions,UK,Reproductive health care,13020,65.10036969968603,UK
-2023.0,Project interventions,UNICEF,Family planning,13030,10.64363730889003,UNICEF
-2023.0,Project interventions,UNICEF,Reproductive health care,13020,132.77082805993007,UNICEF
+2023.0,Project interventions,UK,Family planning,13030,166.61201095319896,UK
+2023.0,Project interventions,UK,Reproductive health care,13020,65.10036969968604,UK
+2023.0,Project interventions,UNICEF,Family planning,13030,10.624267246490017,UNICEF
+2023.0,Project interventions,UNICEF,Reproductive health care,13020,134.2613422157598,UNICEF
 2023.0,Project interventions,US,Family planning,13030,487.280845,US
 2023.0,Project interventions,US,Reproductive health care,13020,571.471109,US
-2023.0,Project interventions,World Bank,Family planning,13030,11.058766900000002,World Bank
-2023.0,Project interventions,World Bank,Reproductive health care,13020,92.52877642999998,World Bank
+2023.0,Project interventions,World Bank,Family planning,13030,11.058766900000004,World Bank
+2023.0,Project interventions,World Bank,Reproductive health care,13020,92.52877643000004,World Bank
 2023.0,Specific-purpose programmes and funds managed by implementing partners,Belgium,Reproductive health care,13020,2.05,Belgium
 2023.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,16.884787595165,Canada
 2023.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,11.27005781818,Canada
@@ -772,7 +772,7 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2023.0,Specific-purpose programmes and funds managed by implementing partners,Norway,Reproductive health care,13020,4.12758,Norway
 2023.0,Specific-purpose programmes and funds managed by implementing partners,Switzerland,Reproductive health care,13020,2.09697303389,Switzerland
 2023.0,Specific-purpose programmes and funds managed by implementing partners,UK,Family planning,13030,0.7765898523549999,UK
-2023.0,Specific-purpose programmes and funds managed by implementing partners,UK,Reproductive health care,13020,22.558757069570007,UK
+2023.0,Specific-purpose programmes and funds managed by implementing partners,UK,Reproductive health care,13020,22.55875706957,UK
 2023.0,Technical assistance,Denmark,Reproductive health care,13020,0.178648113244,Denmark
 2023.0,Technical assistance,Netherlands,Family planning,13030,0.005432499999999999,Netherlands
 2023.0,Technical assistance,Netherlands,Reproductive health care,13020,0.11305852499999999,Netherlands
@@ -797,25 +797,25 @@ Year,Aid Type Di Name,country,Purpose Name,Purpose Code,Usd Disbursement Deflate
 2024.0,Non-transfer,US,Family planning,13030,19.690242,US
 2024.0,Non-transfer,US,Reproductive health care,13020,8.921776,US
 2024.0,Project interventions,Asian Development Bank,Reproductive health care,13020,0.0,Asian Development Bank
-2024.0,Project interventions,Canada,Family planning,13030,20.54613334497066,Canada
-2024.0,Project interventions,Canada,Reproductive health care,13020,34.61289930680669,Canada
+2024.0,Project interventions,Canada,Family planning,13030,20.546133344970663,Canada
+2024.0,Project interventions,Canada,Reproductive health care,13020,34.612899306806696,Canada
 2024.0,Project interventions,Denmark,Reproductive health care,13020,0.696,Denmark
 2024.0,Project interventions,European Commission,Reproductive health care,13020,0.06574392522695,European Commission
-2024.0,Project interventions,Finland,Reproductive health care,13020,6.3056609454,Finland
+2024.0,Project interventions,Finland,Reproductive health care,13020,6.3056609454000005,Finland
 2024.0,Project interventions,Netherlands,Family planning,13030,0.1507728393,Netherlands
 2024.0,Project interventions,Netherlands,Reproductive health care,13020,36.228285137,Netherlands
 2024.0,Project interventions,Norway,Family planning,13030,0.601711329,Norway
-2024.0,Project interventions,Norway,Reproductive health care,13020,2.5116794043000006,Norway
+2024.0,Project interventions,Norway,Reproductive health care,13020,2.5116794043,Norway
 2024.0,Project interventions,UK,Family planning,13030,99.26155495586,UK
-2024.0,Project interventions,UK,Reproductive health care,13020,28.188326040819998,UK
+2024.0,Project interventions,UK,Reproductive health care,13020,28.18832604082,UK
 2024.0,Project interventions,UNDP,Family planning,13030,0.016821,UNDP
 2024.0,Project interventions,UNDP,Reproductive health care,13020,2.085935,UNDP
-2024.0,Project interventions,UNICEF,Family planning,13030,4.383156879750001,UNICEF
-2024.0,Project interventions,UNICEF,Reproductive health care,13020,84.65189624445074,UNICEF
+2024.0,Project interventions,UNICEF,Family planning,13030,4.711616840330009,UNICEF
+2024.0,Project interventions,UNICEF,Reproductive health care,13020,100.77937029962055,UNICEF
 2024.0,Project interventions,US,Family planning,13030,222.160464,US
 2024.0,Project interventions,US,Reproductive health care,13020,275.93499,US
 2024.0,Project interventions,World Bank,Family planning,13030,7.208804480000001,World Bank
-2024.0,Project interventions,World Bank,Reproductive health care,13020,42.539510070000006,World Bank
+2024.0,Project interventions,World Bank,Reproductive health care,13020,42.53951007,World Bank
 2024.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Family planning,13030,27.879503022345805,Canada
 2024.0,Specific-purpose programmes and funds managed by implementing partners,Canada,Reproductive health care,13020,24.1037339329358,Canada
 2024.0,Specific-purpose programmes and funds managed by implementing partners,Denmark,Reproductive health care,13020,0.0,Denmark
